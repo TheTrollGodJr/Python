@@ -1,0 +1,5 @@
+00|学校|がっこう|gakkou|school|
+00|川|かわ|kawa|river|
+00|手|て|te|hand,handle,hand;help,paw|
+00|戸|と|to|door,gate,entrance|
+00|

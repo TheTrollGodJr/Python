@@ -1,0 +1,514 @@
+<!DOCTYPE HTML>
+
+<html lang="en-us">
+
+  <head>
+
+    <meta charset="UTF-8">
+
+    <meta property="og:site_name" content="Vimm's Lair">
+
+    <meta property="og:type" content="website">
+
+    <meta property="og:url" content="https://vimm.net/vault/NES/A">
+
+    <meta property="og:image" content="https://vimm.net/images/vimmbutton-black.png">
+
+    <meta property="og:image:type" content="image/png">
+
+    <meta property="og:image:width" content="75">
+
+    <meta property="og:image:height" content="75">
+
+    <meta name="description" content="Browse The Nintendo Vault">
+    <meta property="og:title" content="The Vault - NES - A">
+    <meta property="og:description" content="Browse The Nintendo Vault">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>The Vault - NES - A</title>
+
+    <link rel="icon" sizes="32x32" href="/favicon.ico" type="image/x-icon">
+
+    <link rel="icon" sizes="75x75" href="/images/vimmbutton.png" type="image/png">
+
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marmelad&amp;display=swap">
+
+    <link rel="stylesheet" href="/css/global.css">
+
+    <link rel="stylesheet" media="screen and (max-width: 1582px)" href="/css/global-x-large.css">
+
+    <link rel="stylesheet" media="screen and (max-width: 1302px)" href="/css/global-large.css">
+
+    <link rel="stylesheet" media="screen and (max-width: 1222px)" href="/css/global-medium.css">
+
+    <link rel="stylesheet" media="screen and (max-width: 982px)" href="/css/global-small.css">
+
+    <link rel="stylesheet" media="screen and (max-width: 749px)" href="/css/global-tiny.css">
+
+    <script src="/js/menu.js"></script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4BESX0QC2N"></script>
+
+    <script>
+
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag(){dataLayer.push(arguments);}
+
+      gtag('js', new Date());
+
+      gtag('config', 'G-4BESX0QC2N');
+
+    </script>
+
+    <script src="/js/shared.js"></script>
+
+    <script src="/js/vault.js"></script>
+
+  </head>
+
+  <body id="pageVault">
+
+    <div id="menu"><div style="display:block; background:url('/images/menu/sprite4.png') 0px 0px; flex-shrink:0; width:160px; height:10px"></div>
+
+<div style="width:160px; background:#000035 url('/images/menu/sprite4.png') 0px -10px; text-align:center; position:relative; flex-shrink:0">
+
+	<a href="/" onmouseover="document.getElementById('menuTip').style.display = ''; document.images['logo'].style.opacity = .5" onmouseout="document.getElementById('menuTip').style.display = 'none'; document.images['logo'].style.opacity = 1">
+
+		<img style="display:block; margin:auto; transition: opacity .2s" id="logo" src="/images/vimmbutton.png" width="100" height="100" alt="">
+
+		<div id="menuTip" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); width:100%; color:white; display:none">Vimm's Lair</div>
+
+	</a>
+
+</div>
+
+<div style="display:block; background:url('/images/menu/sprite4.png') 0px -110px; flex-shrink:0; width:160px; height:16px"></div>
+
+<div id="mainMenu" class="menu" style="background-image: url('/images/menu/new/MenuMiddle.png'); background-repeat:repeat-y">
+
+<a href="/?p=emulate">Emulation Lair</a><a href="/?p=vault" class="active">The Vault</a><a href="/?p=manual">Manual Project</a><a href="/bbs/">Message Boards</a><a href="/?p=links">FFA Links</a></div>
+
+<div style="display:block; background:url('/images/menu/sprite4.png') 0px -125px; flex-shrink:0; width:160px; height:16px"></div>
+
+<div style="display:block; background:url('/images/menu/sprite4.png') 0px -110px; flex-shrink:0; width:160px; height:16px"></div>
+
+<div id="subMenu" class="menu" style="background-image: url('/images/menu/new/MenuMiddle.png'); background-repeat:repeat-y; overflow:auto">
+
+<a href="/vault/NES" class="active">Nintendo</a><a href="/vault/SMS">Master System</a><a href="/vault/Genesis">Genesis</a><a href="/vault/SNES">Super Nintendo</a><a href="/vault/Saturn">Saturn</a><a href="/vault/PS1">PlayStation</a><a href="/vault/N64">Nintendo 64</a><a href="/vault/Dreamcast">Dreamcast</a><a href="/vault/PS2">PlayStation 2</a><a href="/vault/Xbox">Xbox</a><a href="/vault/GameCube">GameCube</a><a href="/vault/Xbox360">Xbox 360</a><a href="/vault/PS3">PlayStation 3</a><a href="/vault/Wii">Wii</a><a href="/vault/WiiWare">WiiWare</a><div><hr></div><a href="/vault/GB">Game Boy</a><a href="/vault/VB">Virtual Boy</a><a href="/vault/GBC">Game Boy Color</a><a href="/vault/GBA">Game Boy Adv</a><a href="/vault/DS">Nintendo DS</a><a href="/vault/PSP">PS Portable</a></div>
+
+<div style="display:block; background:url('/images/menu/sprite4.png') 0px -126px; flex-shrink:0; width:160px; height:16px"></div>
+
+<div style="display:block; background:url('/images/menu/sprite4.png') 0px -142px; flex-shrink:0; width:160px; height:10px"></div>
+
+<div id="menuAd" style="flex-grow:1; display:flex; justify-content:center; align-items:center">
+
+</div>
+
+
+
+
+
+<div style="visibility:hidden; display:none">
+
+  <div>
+
+    <script src="https://efreecode.com/js.js" id="eXF-vimm2-1" async defer></script>
+
+  </div>
+
+</div>
+
+
+
+<script src="/js/awstats_misc_tracker.js"></script>
+
+<noscript><img src="/js/awstats_misc_tracker.js?nojs=y" alt="" height="0" width="0" style="display:none"></noscript>
+
+
+
+</div>
+
+    <div id="navbar"><div class="navbar">
+
+  <a href="/" style="padding-left:2px; display:flex; align-items:center"><img class="navLogo" src="/images/vimmbutton.png" title="Home" alt="Home"></a>
+
+
+
+  <select class="mainMenuDropdown rounded" onchange="location.href=this.value">
+
+    <option hidden disabled selected>-Main Menu-</option>
+
+<option value="/?p=emulate">Emulation Lair</a><option value="/?p=vault" selected>The Vault</a><option value="/?p=manual">Manual Project</a><option value="/bbs/">Message Boards</a><option value="/?p=links">FFA Links</a>  </select>
+
+<select class="subMenuDropdown rounded" onchange="location.href=this.value"><option hidden disabled selected>-Sub Menu-</option><option value="/vault/NES" selected>Nintendo</a><option value="/vault/SMS">Master System</a><option value="/vault/Genesis">Genesis</a><option value="/vault/SNES">Super Nintendo</a><option value="/vault/Saturn">Saturn</a><option value="/vault/PS1">PlayStation</a><option value="/vault/N64">Nintendo 64</a><option value="/vault/Dreamcast">Dreamcast</a><option value="/vault/PS2">PlayStation 2</a><option value="/vault/Xbox">Xbox</a><option value="/vault/GameCube">GameCube</a><option value="/vault/Xbox360">Xbox 360</a><option value="/vault/PS3">PlayStation 3</a><option value="/vault/Wii">Wii</a><option value="/vault/WiiWare">WiiWare</a><option value="/vault/GB">Game Boy</a><option value="/vault/VB">Virtual Boy</a><option value="/vault/GBC">Game Boy Color</a><option value="/vault/GBA">Game Boy Adv</a><option value="/vault/DS">Nintendo DS</a><option value="/vault/PSP">PS Portable</a></select>
+
+  <a href="/?p=emulate" class="navlink rounded">Emulation Lair</a>
+
+  <div class="dropdown">
+
+    <button class="dropbtn rounded">The Vault
+
+      <span style="font-size:75%">&#9660;</span>
+
+    </button>
+
+    <div class="dropdown-content">
+
+      <div class="rounded" style="height:100%; overflow:hidden">
+
+      <a href="/vault/">Home</a>
+
+<a href="/vault/NES">Nintendo</a><a href="/vault/SMS">Master System</a><a href="/vault/Genesis">Genesis</a><a href="/vault/SNES">Super Nintendo</a><a href="/vault/Saturn">Saturn</a><a href="/vault/PS1">PlayStation</a><a href="/vault/N64">Nintendo 64</a><a href="/vault/Dreamcast">Dreamcast</a><a href="/vault/PS2">PlayStation 2</a><a href="/vault/Xbox">Xbox</a><a href="/vault/GameCube">GameCube</a><a href="/vault/Xbox360">Xbox 360</a><a href="/vault/PS3">PlayStation 3</a><a href="/vault/Wii">Wii</a><a href="/vault/WiiWare">WiiWare</a><div><hr></div><a href="/vault/GB">Game Boy</a><a href="/vault/VB">Virtual Boy</a><a href="/vault/GBC">Game Boy Color</a><a href="/vault/GBA">Game Boy Adv</a><a href="/vault/DS">Nintendo DS</a><a href="/vault/PSP">PS Portable</a>      </div>
+
+    </div>
+
+  </div>
+
+  <a href="/?p=manual" class="navlink rounded">Manual Project</a>
+
+  <div class="dropdown">
+
+    <button class="dropbtn rounded">Message Boards 
+
+      <span style="font-size:75%">&#9660;</span>
+
+    </button>
+
+    <div class="dropdown-content">
+
+      <div class="rounded" style="height:100%">
+
+        <a href="/bbs/">Home</a>
+
+<a href="/bbs/?p=board&Board=1">Message Board</a><a href="/bbs/?p=board&Board=2">Request Board</a><a href="/bbs/?p=board&Board=3">Misc Board</a><a href="/bbs/?p=board&Board=4">Manual Project</a>      </div>
+
+    </div>
+
+  </div>
+
+  <a href="/?p=links" class="navlink rounded">FFA Links</a>
+
+</div>
+
+<div id="menuCorner" style="background-image:url('/images/menu/MenuCorner.gif'); width:50px; height:10px"></div></div>
+
+    <div id="ads"><div class="menuColor" style="display:flex; width:100%; height:90px">
+
+  <div style="width:6px; background:url('/images/menu/sprite3.png') -120px 0px; flex-shrink:0"></div>
+
+  <div style="width:4px; background-image:url('/images/menu/new/MenuMiddleHor3.png'); background-repeat:repeat-x; flex-shrink:0"></div>
+
+  <div style="background-image:url('/images/menu/new/MenuMiddleHor3.png'); background-repeat:repeat-x; flex-grow:1"></div>
+
+  <div style="width:16px; background:url('/images/menu/sprite3.png') -126px 0px; flex-shrink:0"></div>
+
+  <div style="min-width:728px; background-image:url('/images/menu/new/MenuMiddleHor1.png'); background-repeat:repeat-x; overflow:hidden; flex-shrink:0" id="headerAdContainerFixed"><script>var blocked_d4dcb648 = true;</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6770260626975246" crossorigin="anonymous" onload="blocked_d4dcb648 = false"></script>
+
+<!-- Leaderboard (responsive) -->
+
+<ins class="adsbygoogle responsiveHeaderAd"
+
+     style="display:inline-block"
+
+     data-ad-format="horizontal"
+
+     data-full-width-responsive="false"
+
+     data-ad-client="ca-pub-6770260626975246"
+
+     data-ad-slot="1368802972"></ins>
+
+<script>
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+</script></div>
+
+  <div style="width:16px; background:url('/images/menu/sprite3.png') -142px 0px; flex-shrink:0"></div>
+
+  <div style="background-image:url('/images/menu/new/MenuMiddleHor3.png'); background-repeat:repeat-x; flex-grow:1"></div>
+
+  <div style="width:10px; flex-shrink:0; background:url('/images/menu/sprite3.png') -158px 0px"></div>
+
+</div>
+
+<div id="menuCorner" style="background-image:url('/images/menu/MenuCorner.gif'); width:50px; height:10px"></div></div>
+
+    <div id="main" style="display:flex; flex-direction:column; overflow:hidden">
+
+      <div class="innerMenu" style="flex-grow:0; flex-shrink:1"><!--googleoff: all-->
+
+<div class="mainContent" style="text-align:center">
+
+  <div class="centered" style="display:inline-block; max-width:100%">
+
+    <div style="display:flex; justify-content:center; align-items:center">
+
+      <div style="flex-grow:1; flex-basis:75px">
+
+<a href="/vault/NES"><div style="width:75px; height:20px; display:inline-block; vertical-align:middle; color:#FF0000; background-image:radial-gradient(ellipse closest-side at center, #000080, #000000)">NES</div></a>      </div>
+
+      <div style="text-align:center; flex-grow:0; flex-shrink:1">
+
+        <a href="/?p=vault"><img src="/images/vault.png" style="display:block; margin:auto; width:100%; max-width:200px; height:auto" width="200" height="50" alt="The Vault"></a>
+
+      </div>
+
+      <div style="text-align:right; flex-grow:1; flex-basis:75px">
+
+        <form method="GET" action="/vault/">
+
+          <div style="display:flex; justify-content:flex-end; flex-wrap:wrap; width:100%; max-width:200px; margin-left:auto; row-gap:2px">
+
+            <input type="hidden" name="p" value="list">
+
+            <input type="hidden" name="system" value="NES">            <input type="search" name="q" style="width:100%; min-width:120px; max-width:150px" placeholder="Find a game..." required>
+
+            <button type="submit" title="Search" style="margin-left:5px">&#128269;</button>
+
+            <br>
+
+            <a href="/vault/?p=search&amp;system=NES" style="margin-left:5px">Advanced</a>
+
+          </div>
+
+        </form>
+
+      </div>
+
+    </div>
+
+    <div id="vaultMenu" class="menu" style="white-space:nowrap; text-align:center; overflow-x:auto">
+
+<a href="/vault/?p=list&amp;system=NES&amp;section=number">#</a><a href="/vault/NES/A" class="active">A</a><a href="/vault/NES/B">B</a><a href="/vault/NES/C">C</a><a href="/vault/NES/D">D</a><a href="/vault/NES/E">E</a><a href="/vault/NES/F">F</a><a href="/vault/NES/G">G</a><a href="/vault/NES/H">H</a><a href="/vault/NES/I">I</a><a href="/vault/NES/J">J</a><a href="/vault/NES/K">K</a><a href="/vault/NES/L">L</a><a href="/vault/NES/M">M</a><a href="/vault/NES/N">N</a><a href="/vault/NES/O">O</a><a href="/vault/NES/P">P</a><a href="/vault/NES/Q">Q</a><a href="/vault/NES/R">R</a><a href="/vault/NES/S">S</a><a href="/vault/NES/T">T</a><a href="/vault/NES/U">U</a><a href="/vault/NES/V">V</a><a href="/vault/NES/W">W</a><a href="/vault/NES/X">X</a><a href="/vault/NES/Y">Y</a><a href="/vault/NES/Z">Z</a>    </div>
+
+  </div>
+
+</div>
+
+<!--googleon: all--></div>
+
+      <div class="innerMain" style="flex-grow:1; flex-shrink:1; overflow:auto">
+
+        <div style="display:flex; align-items:flex-start">
+
+          <div class="sidebarAdContainer" style="order:0; position:sticky; top:0px">
+
+            <div class="sidebarAd"></div>
+
+          </div>
+
+          <div class="sidebarAdContainer" style="order:2; position:sticky; top:0px">
+
+            <div class="sidebarAd"></div>
+
+          </div>
+
+          <div class="mainContent" style="order:1">
+
+            <div id="headerAdContainerInline"></div>
+
+
+
+<div style="font-size:28pt; text-align:center">A</div>
+
+<table class="rounded centered cellpadding1 hovertable striped" style="width:100%; max-width:800px; margin-bottom:4px">
+
+  <caption style="margin-left:8px; margin-right:8px">
+
+    <table class="cellpadding1" style="width:100%">
+
+      <tr style="font-size:10pt; font-weight:bold; text-align:center; vertical-align:bottom">
+
+<td style="width:auto">Title</td><td style="width:65px">Region</td><td style="width:50px">Version</td><td style="width:110px" class="responsive">Languages</td><td style="width:50px" class="responsive">Rating</td>      </tr>
+
+    </table>
+
+  </caption>
+
+<tr><td style="width:auto"><a href="/vault/10" onmouseover="buildTooltip(this, 10, 256, 224)">Abadox: The Deadly Inner War</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=10">6.6</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/13" onmouseover="buildTooltip(this, 13, 256, 224)">Addams Family, The</a>&nbsp; <a href="/manual/?p=details&amp;id=618"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=13">7.1</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/14" onmouseover="buildTooltip(this, 14, 256, 224)">Addams Family, The: Pugsley&#039;s Scavenger Hunt</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=14">6.2</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/15" onmouseover="buildTooltip(this, 15, 256, 224)">Advanced Dungeons &amp; Dragons: Dragons of Flame</a>&nbsp; <b class="redBorder" style="cursor:default" title="Translated to English by DvD Translations (version 1.03)">T</b></td><td style="width:65px; text-align:center">-</td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=15">5.9</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/278" onmouseover="buildTooltip(this, 278, 256, 224)">Advanced Dungeons &amp; Dragons: DragonStrike</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=278">5.6</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/17" onmouseover="buildTooltip(this, 17, 256, 224)">Advanced Dungeons &amp; Dragons: Heroes of the Lance</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=17">4.5</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/18" onmouseover="buildTooltip(this, 18, 256, 224)">Advanced Dungeons &amp; Dragons: Hillsfar</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=18">3.9</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/19" onmouseover="buildTooltip(this, 19, 256, 224)">Advanced Dungeons &amp; Dragons: Pool of Radiance</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=19">6.9</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/29" onmouseover="buildTooltip(this, 29, 256, 224)">Adventure Island</a>&nbsp; <a href="/manual/?p=details&amp;id=619"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=29">9.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/31" onmouseover="buildTooltip(this, 31, 256, 224)">Adventure Island 3</a>&nbsp; <a href="/manual/?p=details&amp;id=620"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=31">8.9</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/32" onmouseover="buildTooltip(this, 32, 256, 224)">Adventure Island 4</a>&nbsp; <b class="redBorder" style="cursor:default" title="Translated to English by Neo Demiforce (version 1.00)">T</b></td><td style="width:65px; text-align:center">-</td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=32">9.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/30" onmouseover="buildTooltip(this, 30, 256, 224)">Adventure Island II</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=30">9.1</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/37" onmouseover="buildTooltip(this, 37, 256, 224)">Adventures in the Magic Kingdom</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=37">8.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/21" onmouseover="buildTooltip(this, 21, 256, 224)">Adventures of Bayou Billy, The</a>&nbsp; <a href="/manual/?p=details&amp;id=621"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=21">6.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/75313">Adventures of Bayou Billy, The (Virtual Console)</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=75313">none</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/23" onmouseover="buildTooltip(this, 23, 256, 224)">Adventures of Dino Riki</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=23">7.4</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/368" onmouseover="buildTooltip(this, 368, 256, 224)">Adventures of Gilligan&#039;s Island, The</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=368">7.4</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/34" onmouseover="buildTooltip(this, 34, 256, 224)">Adventures of Lolo</a>&nbsp; <a href="/manual/?p=details&amp;id=622"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=34">9.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/75317">Adventures of Lolo (Virtual Console)</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=75317">none</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/35" onmouseover="buildTooltip(this, 35, 256, 224)">Adventures of Lolo 2</a>&nbsp; <a href="/manual/?p=details&amp;id=625"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=35">9.1</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/75322">Adventures of Lolo 2 (Virtual Console)</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=75322">none</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/36" onmouseover="buildTooltip(this, 36, 256, 224)">Adventures of Lolo 3</a>&nbsp; <a href="/manual/?p=details&amp;id=623"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=36">9.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/24" onmouseover="buildTooltip(this, 24, 256, 224)">Adventures of Musashi, The</a>&nbsp; <b class="redBorder" style="cursor:default" title="Translated to English by Gaijin Productions (version .98)">T</b></td><td style="width:65px; text-align:center">-</td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=24">6.8</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/38" onmouseover="buildTooltip(this, 38, 256, 224)">Adventures of Rad Gravity, The</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=38">5.5</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/26" onmouseover="buildTooltip(this, 26, 256, 224)">Adventures of Rocky and Bullwinkle and Friends, The</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=26">5.6</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/39" onmouseover="buildTooltip(this, 39, 256, 224)">Adventures of Tom Sawyer</a>&nbsp; <a href="/manual/?p=details&amp;id=626"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=39">2.8</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/27" onmouseover="buildTooltip(this, 27, 256, 224)">Adventures of Valecule, The</a>&nbsp; <b class="redBorder" style="cursor:default" title="Translated to English by SGST (version 1.00)">T</b></td><td style="width:65px; text-align:center">-</td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=27">4.6</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/41" onmouseover="buildTooltip(this, 41, 256, 224)">Air Fortress</a>&nbsp; <a href="/manual/?p=details&amp;id=627"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=41">6.9</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/44" onmouseover="buildTooltip(this, 44, 256, 224)">Airwolf</a>&nbsp; <b class="redBorder" style="cursor:default" title="Translated to English by Vice Translations (version 1.0)">T</b></td><td style="width:65px; text-align:center">-</td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=44">6.9</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/42" onmouseover="buildTooltip(this, 42, 256, 224)">Airwolf (Acclaim)</a>&nbsp; <a href="/manual/?p=details&amp;id=628"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=42">5.2</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/75340">Akumajou Densetsu (Castlevania Anniversary Collection)</a></td><td style="width:65px; text-align:center"><img src="/images/flags/world.png" class="flag" title="World" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">ja</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=75340">10.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/75343">Akumajou Dracula (Castlevania Anniversary Collection)</a></td><td style="width:65px; text-align:center"><img src="/images/flags/world.png" class="flag" title="World" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">ja</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=75343">10.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/75344">Akumajou Special: Boku Dracula-kun (Castlevania Anniversary Collection)</a></td><td style="width:65px; text-align:center"><img src="/images/flags/world.png" class="flag" title="World" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">ja</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=75344">10.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/45" onmouseover="buildTooltip(this, 45, 256, 224)">Akumajyou Densetsu</a>&nbsp; <b class="redBorder" style="cursor:default" title="Translated to English by Vice Translations (version 1.0)">T</b></td><td style="width:65px; text-align:center">-</td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=45">8.9</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/52" onmouseover="buildTooltip(this, 52, 256, 224)">Al Unser Jr. Turbo Racing</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=52">9.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/679" onmouseover="buildTooltip(this, 679, 256, 224)">Alex DeMeo&#039;s Race America</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=679">7.9</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/47" onmouseover="buildTooltip(this, 47, 256, 224)">Alfred Chicken</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=47">6.2</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/48" onmouseover="buildTooltip(this, 48, 256, 224)">Alien 3</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=48">5.8</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/50" onmouseover="buildTooltip(this, 50, 256, 224)">All-Pro Basketball</a>&nbsp; <a href="/manual/?p=details&amp;id=2868"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=50">7.3</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/51" onmouseover="buildTooltip(this, 51, 256, 224)">Alpha Mission</a>&nbsp; <a href="/manual/?p=details&amp;id=629"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=51">6.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/2864" onmouseover="buildTooltip(this, 2864, 256, 224)">Altered Beast</a>&nbsp; <b class="redBorder" style="cursor:default" title="Translated to English by aka Translations (version 1.0)">T</b></td><td style="width:65px; text-align:center">-</td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=2864">9.6</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/53" onmouseover="buildTooltip(this, 53, 256, 224)">Amagon</a>&nbsp; <a href="/manual/?p=details&amp;id=630"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=53">5.5</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/2866" onmouseover="buildTooltip(this, 2866, 256, 224)">American Dream</a>&nbsp; <b class="redBorder" style="cursor:default" title="Translated to English by Pale Dim (version 1.0)">T</b></td><td style="width:65px; text-align:center">-</td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=2866">9.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/54" onmouseover="buildTooltip(this, 54, 256, 224)">American Gladiators</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=54">7.4</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/2868" onmouseover="buildTooltip(this, 2868, 256, 224)">Antarctic Adventure</a>&nbsp; <b class="redBorder" style="cursor:default" title="Translated to English by DvD Translations (version 1.0)">T</b></td><td style="width:65px; text-align:center">-</td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=2868">9.3</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/55" onmouseover="buildTooltip(this, 55, 256, 224)">Anticipation</a>&nbsp; <a href="/manual/?p=details&amp;id=631"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=55">7.1</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/57" onmouseover="buildTooltip(this, 57, 256, 224)">Arch Rivals: A Basketbrawl!</a>&nbsp; <a href="/manual/?p=details&amp;id=633"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=57">9.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/56" onmouseover="buildTooltip(this, 56, 256, 224)">Archon</a>&nbsp; <a href="/manual/?p=details&amp;id=632"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=56">5.9</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/58" onmouseover="buildTooltip(this, 58, 256, 224)">Arkanoid</a>&nbsp; <a href="/manual/?p=details&amp;id=634"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=58">9.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/59" onmouseover="buildTooltip(this, 59, 256, 224)">Arkista&#039;s Ring</a>&nbsp; <a href="/manual/?p=details&amp;id=2840"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=59">7.4</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/2870" onmouseover="buildTooltip(this, 2870, 256, 224)">Armadillo</a>&nbsp; <b class="redBorder" style="cursor:default" title="Translated to English by Vice Translations (version 1.01)">T</b></td><td style="width:65px; text-align:center">-</td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=2870">9.3</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/60" onmouseover="buildTooltip(this, 60, 256, 224)">Armed Dragon Fantasy: Villgust</a>&nbsp; <b class="redBorder" style="cursor:default" title="Translated to English by J2E (version 1.0)">T</b></td><td style="width:65px; text-align:center">-</td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=60">8.4</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/62" onmouseover="buildTooltip(this, 62, 256, 224)">Astro Fang: Super Machine</a>&nbsp; <b class="redBorder" style="cursor:default" title="Translated to English by Caution (version Special K)">T</b></td><td style="width:65px; text-align:center">-</td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=62">6.3</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/64" onmouseover="buildTooltip(this, 64, 256, 224)">Astyanax</a>&nbsp; <a href="/manual/?p=details&amp;id=635"><img src="/images/manual_1.gif" style="vertical-align:bottom" width="17" height="16" title="Read the manual" alt="Read the manual"></a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=64">7.6</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/65" onmouseover="buildTooltip(this, 65, 256, 224)">Athena</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=65">4.8</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/66" onmouseover="buildTooltip(this, 66, 256, 224)">Athletic World</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=66">5.1</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/67" onmouseover="buildTooltip(this, 67, 256, 224)">Attack Animal Academy</a>&nbsp; <b class="redBorder" style="cursor:default" title="Translated to English by PentarouZero (version 1.0)">T</b></td><td style="width:65px; text-align:center">-</td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=67">6.0</a></td></tr>
+<tr><td style="width:auto"><a href="/vault/69" onmouseover="buildTooltip(this, 69, 256, 224)">Attack of the Killer Tomatoes</a></td><td style="width:65px; text-align:center"><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:middle"></td><td style="width:50px; text-align:center">1.0</td><td style="width:110px; text-align:center; font-size:10pt" class="responsive">-</td><td style="width:50px; text-align:center" class="responsive"><a href="/vault/?p=rating&amp;id=69">4.1</a></td></tr>
+</table>
+
+<div class="mainContent"><br><table id="showFilterTable" class="rounded centered" style="min-width:300px; max-width:466px"><caption><div style="float:left; margin-left:8px; visibility:hidden"><a href="#">Edit</a></div>Filters<div style="float:right; margin-right:8px"><a href="#" onclick="document.getElementById('showFilterTable').style.display='none'; document.getElementById('editFilterForm').style.display=''; document.getElementsByClassName('innerMain')[0].scrollTo({top: document.getElementsByClassName('innerMain')[0].scrollHeight, behavior:'smooth'}); return false">Edit</a></div></caption><tr><tr><td>Regions: &nbsp;</td><td><img src="/images/flags/usa.png" class="flag" title="USA" style="vertical-align:baseline; padding:0px 2px"><img src="/images/flags/world.png" class="flag" title="World" style="vertical-align:baseline; padding:0px 2px"></td></tr><tr><td>Extras: &nbsp;</td><td>Hacked, Translated</td></tr><tr><td style="white-space:nowrap">Versions: &nbsp;</td><td>Newest only</td></tr><tr><td>Discs: &nbsp;</td><td>First Only</td></tr></table></div><script>
+
+function checkboxSelectAll(checkbox, arrayName) {
+
+  for (var i = 0; i < checkbox.form.elements[arrayName].length; i++) {
+
+    checkbox.form.elements[arrayName][i].checked = checkbox.checked;
+
+  }
+
+}
+
+</script>
+
+<form method="GET" action="/vault/" id="editFilterForm" style="display:none">
+
+  <div style="text-align:center">Filters</div>
+
+  <div class="rounded centered" style="max-width:450px">
+
+    <input type="hidden" name="p" value="list">
+
+    <input type="hidden" name="action" value="filters">
+
+    <input type="hidden" name="section" value="A">
+
+    <input type="hidden" name="system" value="NES">
+
+    <div><span style="font-weight:bold">Country / Region</span><label style="float:right">Select All <input type="checkbox" name="countries_select_all" onclick="checkboxSelectAll(this, 'countries[]')"></label></div>
+
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); white-space:nowrap; width:100%">
+
+<label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="2"> Asia</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="3"> Australia</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="4"> Brazil</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="5"> Canada</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="6"> China</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="8"> Europe</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="10"> France</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="11"> Germany</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="12"> Greece</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="13"> Hong Kong</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="14"> Italy</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="15"> Japan</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="16"> Korea</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="20"> Russia</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="21"> Spain</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="22"> Sweden</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="23"> Taiwan</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="24"> United Kingdom</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="25" checked> USA</label><label><input type="checkbox" name="countries[]" style="vertical-align:middle" value="26" checked> World</label>    </div>
+
+    <div style="font-weight:bold; padding-top:8px">Extras</div>
+
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); white-space:nowrap">
+
+      <label><input type="checkbox" name="hacked" value="1" checked> <b class="redBorder">H</b>acked</label>
+
+      <label><input type="checkbox" name="translated" value="1" checked> <b class="redBorder">T</b>ranslated</label>
+
+      <label><input type="checkbox" name="prototype" value="1"> <b class="redBorder">P</b>rototype</label>
+
+      <label><input type="checkbox" name="demo" value="1"> <b class="redBorder">D</b>emo</label>
+
+      <label><input type="checkbox" name="unlicensed" value="1"> <b class="redBorder">U</b>nlicensed</label>
+
+      <label><input type="checkbox" name="bonus" value="1"> <b class="redBorder">B</b>onus Disc</label>
+
+    </div>
+
+    <div style="font-weight:bold; padding-top:8px">Versions</div>
+
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); white-space:nowrap">
+
+      <label><input type="radio" name="version" value="old"> Oldest Only</label>
+
+      <label><input type="radio" name="version" value="new" checked> Newest Only</label>
+
+      <label><input type="radio" name="version" value="all"> Show All</label>
+
+      <span></span>
+
+    </div>
+
+    <div style="font-weight:bold; padding-top:8px">Discs</div>
+
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); white-space:nowrap">
+
+      <label><input type="radio" name="discs" value="" checked> First Only</label>
+
+      <label><input type="radio" name="discs" value="all"> Show All</label>
+
+      <span></span>
+
+      <span></span>
+
+    </div>
+
+<div style="font-weight:bold; padding-top:8px">NES Specific Extras</div><div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); white-space:nowrap"><label><input type="checkbox" name="custom[]" value="21"> Homebrew</label></div>  </div>
+
+  <div style="text-align:center; padding-top:8px">
+
+    <input id="filterSubmit" class="centered" type="submit" value="Filter">
+
+  </div>
+
+</form>
+
+<div id="footerContainer">
+
+  <div id="footerTop">
+
+    <div style="background-image:url('/images/menu/MenuCorner.gif'); width:50px; height:10px; flex-grow:0; flex-shrink:0; transform:scaleY(-1)"></div>
+
+    <div style="height:10px"></div>
+
+  </div>
+
+  <div id="footerAd"><div style="height:50px"></div>
+
+<script type="text/javascript">
+
+var infolinks_pid = 3212499;
+
+var infolinks_wsid = 0;
+
+</script>
+
+<script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script></div>
+
+</div>          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  <script>(function(){var js = "window['__CF$cv$params']={r:'7eb85aacafc11f3e'};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+
+</html>

@@ -1,0 +1,438 @@
+<!DOCTYPE HTML>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <meta property="og:site_name" content="Vimm's Lair">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://vimm.net/vault/10">
+    <meta property="og:image" content="https://vimm.net/images/vimmbutton-black.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="75">
+    <meta property="og:image:height" content="75">
+    <meta name="description" content="Download &quot;Abadox: The Deadly Inner War&quot; for the Nintendo">
+    <meta property="og:title" content="Abadox: The Deadly Inner War">
+    <meta property="og:description" content="Download &quot;Abadox: The Deadly Inner War&quot; for the Nintendo">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Download Abadox: The Deadly Inner War for the NES</title>
+    <link rel="icon" sizes="32x32" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" sizes="75x75" href="/images/vimmbutton.png" type="image/png">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Marmelad&amp;display=swap">
+    <link rel="stylesheet" href="/css/global.css">
+    <link rel="stylesheet" media="screen and (max-width: 1582px)" href="/css/global-x-large.css">
+    <link rel="stylesheet" media="screen and (max-width: 1302px)" href="/css/global-large.css">
+    <link rel="stylesheet" media="screen and (max-width: 1222px)" href="/css/global-medium.css">
+    <link rel="stylesheet" media="screen and (max-width: 982px)" href="/css/global-small.css">
+    <link rel="stylesheet" media="screen and (max-width: 749px)" href="/css/global-tiny.css">
+    <link rel="canonical" href="https://vimm.net/vault/10">
+    <script src="/js/menu.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4BESX0QC2N"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-4BESX0QC2N');
+    </script>
+<script async data-cfasync="false" src="https://cdn.snigelweb.com/adengine/vimm.net/loader.js" type="text/javascript"></script>    <script src="/js/shared.js"></script>
+    <script src="/js/vault.js"></script>
+  </head>
+  <body id="pageVault">
+    <div id="menu"><div style="display:block; background:url('/images/menu/sprite4.png') 0px 0px; flex-shrink:0; width:160px; height:10px"></div>
+<div style="width:160px; background:#000035 url('/images/menu/sprite4.png') 0px -10px; text-align:center; position:relative; flex-shrink:0">
+	<a href="/" onmouseover="document.getElementById('menuTip').style.display = ''; document.images['logo'].style.opacity = .5" onmouseout="document.getElementById('menuTip').style.display = 'none'; document.images['logo'].style.opacity = 1">
+		<img style="display:block; margin:auto; transition: opacity .2s" id="logo" src="/images/vimmbutton.png" width="100" height="100" alt="">
+		<div id="menuTip" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); width:100%; color:white; display:none">Vimm's Lair</div>
+	</a>
+</div>
+<div style="display:block; background:url('/images/menu/sprite4.png') 0px -110px; flex-shrink:0; width:160px; height:16px"></div>
+<div id="mainMenu" class="menu" style="background-image: url('/images/menu/new/MenuMiddle.png'); background-repeat:repeat-y">
+<a href="/?p=emulate">Emulation Lair</a><a href="/?p=vault" class="active">The Vault</a><a href="/?p=manual">Manual Project</a><a href="/bbs/">Message Boards</a><a href="/?p=links">FFA Links</a></div>
+<div style="display:block; background:url('/images/menu/sprite4.png') 0px -125px; flex-shrink:0; width:160px; height:16px"></div>
+<div style="display:block; background:url('/images/menu/sprite4.png') 0px -110px; flex-shrink:0; width:160px; height:16px"></div>
+<div id="subMenu" class="menu" style="background-image: url('/images/menu/new/MenuMiddle.png'); background-repeat:repeat-y; overflow:auto">
+<a href="/vault/NES" class="active">Nintendo</a><a href="/vault/SMS">Master System</a><a href="/vault/Genesis">Genesis</a><a href="/vault/SNES">Super Nintendo</a><a href="/vault/Saturn">Saturn</a><a href="/vault/PS1">PlayStation</a><a href="/vault/N64">Nintendo 64</a><a href="/vault/Dreamcast">Dreamcast</a><a href="/vault/PS2">PlayStation 2</a><a href="/vault/Xbox">Xbox</a><a href="/vault/GameCube">GameCube</a><a href="/vault/Xbox360">Xbox 360</a><a href="/vault/PS3">PlayStation 3</a><a href="/vault/Wii">Wii</a><a href="/vault/WiiWare">WiiWare</a><div><hr></div><a href="/vault/GB">Game Boy</a><a href="/vault/VB">Virtual Boy</a><a href="/vault/GBC">Game Boy Color</a><a href="/vault/GBA">Game Boy Adv</a><a href="/vault/DS">Nintendo DS</a><a href="/vault/PSP">PS Portable</a></div>
+<div style="display:block; background:url('/images/menu/sprite4.png') 0px -126px; flex-shrink:0; width:160px; height:16px"></div>
+<div style="display:block; background:url('/images/menu/sprite4.png') 0px -142px; flex-shrink:0; width:160px; height:10px"></div>
+<div id="menuAd" style="flex-grow:1; display:flex; justify-content:center; align-items:center">
+</div>
+
+
+<div style="visibility:hidden; display:none">
+  <div>
+    <script src="https://efreecode.com/js.js" id="eXF-vimm2-1" async defer></script>
+  </div>
+</div>
+
+<script src="/js/awstats_misc_tracker.js"></script>
+<noscript><img src="/js/awstats_misc_tracker.js?nojs=y" alt="" height="0" width="0" style="display:none"></noscript>
+
+</div>
+    <div id="navbar"><div class="navbar">
+  <a href="/" style="padding-left:2px; display:flex; align-items:center"><img class="navLogo" src="/images/vimmbutton.png" title="Home" alt="Home"></a>
+
+  <select class="mainMenuDropdown rounded" onchange="location.href=this.value">
+    <option hidden disabled selected>-Main Menu-</option>
+<option value="/?p=emulate">Emulation Lair</a><option value="/?p=vault" selected>The Vault</a><option value="/?p=manual">Manual Project</a><option value="/bbs/">Message Boards</a><option value="/?p=links">FFA Links</a>  </select>
+<select class="subMenuDropdown rounded" onchange="location.href=this.value"><option hidden disabled selected>-Sub Menu-</option><option value="/vault/NES" selected>Nintendo</a><option value="/vault/SMS">Master System</a><option value="/vault/Genesis">Genesis</a><option value="/vault/SNES">Super Nintendo</a><option value="/vault/Saturn">Saturn</a><option value="/vault/PS1">PlayStation</a><option value="/vault/N64">Nintendo 64</a><option value="/vault/Dreamcast">Dreamcast</a><option value="/vault/PS2">PlayStation 2</a><option value="/vault/Xbox">Xbox</a><option value="/vault/GameCube">GameCube</a><option value="/vault/Xbox360">Xbox 360</a><option value="/vault/PS3">PlayStation 3</a><option value="/vault/Wii">Wii</a><option value="/vault/WiiWare">WiiWare</a><option value="/vault/GB">Game Boy</a><option value="/vault/VB">Virtual Boy</a><option value="/vault/GBC">Game Boy Color</a><option value="/vault/GBA">Game Boy Adv</a><option value="/vault/DS">Nintendo DS</a><option value="/vault/PSP">PS Portable</a></select>
+  <a href="/?p=emulate" class="navlink rounded">Emulation Lair</a>
+  <div class="dropdown">
+    <button class="dropbtn rounded">The Vault
+      <span style="font-size:75%">&#9660;</span>
+    </button>
+    <div class="dropdown-content">
+      <div class="rounded" style="height:100%; overflow:hidden">
+      <a href="/vault/">Home</a>
+<a href="/vault/NES">Nintendo</a><a href="/vault/SMS">Master System</a><a href="/vault/Genesis">Genesis</a><a href="/vault/SNES">Super Nintendo</a><a href="/vault/Saturn">Saturn</a><a href="/vault/PS1">PlayStation</a><a href="/vault/N64">Nintendo 64</a><a href="/vault/Dreamcast">Dreamcast</a><a href="/vault/PS2">PlayStation 2</a><a href="/vault/Xbox">Xbox</a><a href="/vault/GameCube">GameCube</a><a href="/vault/Xbox360">Xbox 360</a><a href="/vault/PS3">PlayStation 3</a><a href="/vault/Wii">Wii</a><a href="/vault/WiiWare">WiiWare</a><div><hr></div><a href="/vault/GB">Game Boy</a><a href="/vault/VB">Virtual Boy</a><a href="/vault/GBC">Game Boy Color</a><a href="/vault/GBA">Game Boy Adv</a><a href="/vault/DS">Nintendo DS</a><a href="/vault/PSP">PS Portable</a>      </div>
+    </div>
+  </div>
+  <a href="/?p=manual" class="navlink rounded">Manual Project</a>
+  <div class="dropdown">
+    <button class="dropbtn rounded">Message Boards 
+      <span style="font-size:75%">&#9660;</span>
+    </button>
+    <div class="dropdown-content">
+      <div class="rounded" style="height:100%">
+        <a href="/bbs/">Home</a>
+<a href="/bbs/?p=board&Board=1">Message Board</a><a href="/bbs/?p=board&Board=2">Request Board</a><a href="/bbs/?p=board&Board=3">Misc Board</a><a href="/bbs/?p=board&Board=4">Manual Project</a>      </div>
+    </div>
+  </div>
+  <a href="/?p=links" class="navlink rounded">FFA Links</a>
+</div>
+<div id="menuCorner" style="background-image:url('/images/menu/MenuCorner.gif'); width:50px; height:10px"></div></div>
+    <div id="ads"><div class="menuColor" style="display:flex; width:100%; height:90px">
+  <div style="width:6px; background:url('/images/menu/sprite3.png') -120px 0px; flex-shrink:0"></div>
+  <div style="width:4px; background-image:url('/images/menu/new/MenuMiddleHor3.png'); background-repeat:repeat-x; flex-shrink:0"></div>
+  <div style="background-image:url('/images/menu/new/MenuMiddleHor3.png'); background-repeat:repeat-x; flex-grow:1"></div>
+  <div style="width:16px; background:url('/images/menu/sprite3.png') -126px 0px; flex-shrink:0"></div>
+  <div style="min-width:728px; background-image:url('/images/menu/new/MenuMiddleHor1.png'); background-repeat:repeat-x; overflow:hidden; flex-shrink:0" id="headerAdContainerFixed"><!-- adngin-top_leaderboard-0 -->
+<div id="adngin-top_leaderboard-0"></div></div>
+  <div style="width:16px; background:url('/images/menu/sprite3.png') -142px 0px; flex-shrink:0"></div>
+  <div style="background-image:url('/images/menu/new/MenuMiddleHor3.png'); background-repeat:repeat-x; flex-grow:1"></div>
+  <div style="width:10px; flex-shrink:0; background:url('/images/menu/sprite3.png') -158px 0px"></div>
+</div>
+<div id="menuCorner" style="background-image:url('/images/menu/MenuCorner.gif'); width:50px; height:10px"></div></div>
+    <div id="main" style="display:flex; flex-direction:column; overflow:hidden">
+      <div class="innerMenu" style="flex-grow:0; flex-shrink:1"><!--googleoff: all-->
+<div class="mainContent" style="text-align:center">
+  <div class="centered" style="display:inline-block; max-width:100%">
+    <div style="display:flex; justify-content:center; align-items:center">
+      <div style="flex-grow:1; flex-basis:75px">
+<a href="/vault/NES"><div style="width:75px; height:20px; display:inline-block; vertical-align:middle; color:#FF0000; background-image:radial-gradient(ellipse closest-side at center, #000080, #000000)">NES</div></a>      </div>
+      <div style="text-align:center; flex-grow:0; flex-shrink:1">
+        <a href="/?p=vault"><img src="/images/vault.png" style="display:block; margin:auto; width:100%; max-width:200px; height:auto" width="200" height="50" alt="The Vault"></a>
+      </div>
+      <div style="text-align:right; flex-grow:1; flex-basis:75px">
+        <form method="GET" action="/vault/">
+          <div style="display:flex; justify-content:flex-end; flex-wrap:wrap; width:100%; max-width:200px; margin-left:auto; row-gap:2px">
+            <input type="hidden" name="p" value="list">
+            <input type="hidden" name="system" value="NES">            <input type="search" name="q" style="width:100%; min-width:120px; max-width:150px" placeholder="Find a game..." required>
+            <button type="submit" title="Search" style="margin-left:5px">&#128269;</button>
+            <br>
+            <a href="/vault/?p=search&amp;system=NES" style="margin-left:5px">Advanced</a>
+          </div>
+        </form>
+      </div>
+    </div>
+    <div id="vaultMenu" class="menu" style="white-space:nowrap; text-align:center; overflow-x:auto">
+<a href="/vault/?p=list&amp;system=NES&amp;section=number">#</a><a href="/vault/NES/A">A</a><a href="/vault/NES/B">B</a><a href="/vault/NES/C">C</a><a href="/vault/NES/D">D</a><a href="/vault/NES/E">E</a><a href="/vault/NES/F">F</a><a href="/vault/NES/G">G</a><a href="/vault/NES/H">H</a><a href="/vault/NES/I">I</a><a href="/vault/NES/J">J</a><a href="/vault/NES/K">K</a><a href="/vault/NES/L">L</a><a href="/vault/NES/M">M</a><a href="/vault/NES/N">N</a><a href="/vault/NES/O">O</a><a href="/vault/NES/P">P</a><a href="/vault/NES/Q">Q</a><a href="/vault/NES/R">R</a><a href="/vault/NES/S">S</a><a href="/vault/NES/T">T</a><a href="/vault/NES/U">U</a><a href="/vault/NES/V">V</a><a href="/vault/NES/W">W</a><a href="/vault/NES/X">X</a><a href="/vault/NES/Y">Y</a><a href="/vault/NES/Z">Z</a>    </div>
+  </div>
+</div>
+<!--googleon: all--></div>
+      <div class="innerMain" style="flex-grow:1; flex-shrink:1; overflow:auto">
+        <div style="display:flex; align-items:flex-start">
+          <div class="sidebarAdContainer" style="order:0; position:sticky; top:0px">
+            <div class="sidebarAd"><!-- adngin-sidebar_left-0 -->
+<div id="adngin-sidebar_left-0"></div></div>
+          </div>
+          <div class="sidebarAdContainer" style="order:2; position:sticky; top:0px">
+            <div class="sidebarAd"><!-- adngin-sidebar_right-0 -->
+<div id="adngin-sidebar_right-0"></div></div>
+          </div>
+          <div class="mainContent" style="order:1">
+            <div id="headerAdContainerInline"></div>
+
+<!--
+<script src="//www.google.com/recaptcha/api.js"></script>
+-->
+
+<script>
+function onSubmit(token) {
+  document.forms["download_form"].submit();
+}
+</script>
+
+<h2 class="mainContent" style="text-align:center; font-weight:bold"><span class="sectionTitle">Nintendo</span><br><span style="text-decoration:underline">Abadox: The Deadly Inner War</span></h2>
+
+<div class="mainContent" style="display:flex; gap:10px; align-items:flex-start; flex-wrap:wrap; justify-content:center">
+  <div style="display:inline-block">
+    <table class="rounded cellpadding1" style="width:320px; text-align:left">
+<tr><td style="width:0px">Region</td><td style="width:15px"></td><td><img src="/images/flags/usa.png" class="flag" title="USA"></td></tr>      <tr>
+        <td style="width:0px">Players</td>
+        <td style="width:15px"></td>
+        <td>
+1        </td>
+      </tr>
+      <tr>
+        <td>Year</td>
+        <td></td>
+        <td>1989</td>
+      </tr>
+      <tr>
+        <td style="white-space:nowrap">Cart size</td>
+        <td></td>
+        <td>256 KB</td>
+      </tr>
+<tr><td style="vertical-align:top">Publisher</td><td></td><td>Milton Bradley</td></tr><tr><td style="vertical-align:top; white-space:nowrap">Serial #</td><td></td><td>NES-A3-USA</td></tr><tr><td colspan="3"><hr style="margin:1px"></td></tr><tr><td>Graphics</td><td></td><td>6.75</td></tr><tr><td>Sound</td><td></td><td>6.64</td></tr><tr><td>Gameplay</td><td></td><td>6.46</td></tr><tr><td>Overall</td><td></td><td>6.61&nbsp;<span style="font-size:90%">(28 votes)</span>&nbsp;<div style="float:right; font-size:90%; padding-top:2px"><a href="/vault/?p=rating&amp;id=10">Rate it!</a></div></td></tr><tr><td colspan="3"><hr style="margin:1px"></td></tr>      <tr>
+        <td style="font-style:italic; word-wrap:anywhere" colspan="3"><span id="data-good-title">Abadox - The Deadly Inner War (USA).nes</span></td>
+      </tr>
+      <tr>
+        <td>CRC</td>
+        <td></td>
+        <td><div id="hashPopup"></div><span id="data-crc">4dad1c95</span></td>
+      </tr>
+      <tr class="goodHash" style="display:none">
+        <td>MD5</td>
+        <td></td>
+        <td class="ellipsis"><span id="data-md5" title="B41A356C8D91984D743BE2153A64BCD7">b41a356c8d91984d743be2153a64bcd7</span></td>
+      </tr>
+      <tr class="goodHash" style="display:none">
+        <td>SHA1</td>
+        <td></td>
+        <td class="ellipsis"><span id="data-sha1" title="A7D4F01D6250D3C6D065ED45C99088B7B9949F0B">a7d4f01d6250d3c6d065ed45c99088b7b9949f0b</span></td>
+      </tr>
+      <tr id="row-date">
+        <td>Verified</td>
+        <td></td>
+        <td>
+          <span id="data-date">2023-07-14</span>
+          <div class="redBorder" id="data-outdated" style="float:right; display:none"><a href="#" style="color:white; padding-left:2px; padding-right:2px" onclick="upload('download_form'); return false" title="A newer version of this game is available. If you have it, please upload it.">&#x26a0;</a></div>
+          <a href="#" style="float:right; font-size:90%; padding-top:2px" onclick="showHashData(this); return false">More...</a>
+        </td>
+      </tr>
+      <tr><td colspan="3"><hr style="margin:1px"></td></tr>
+      <script>
+
+function setFormat_v2(formId, value, allMedia) {
+  if (value == -1) {
+    showPopup('tooltip');
+    document.getElementById('download_format').selectedIndex = 0;
+    document.getElementById('download_format').onchange();
+    return;
+  }
+  var theForm = document.forms[formId];
+  if (value == 0) {
+    theForm.elements['alt'].disabled = true;
+  } else {
+    theForm.elements['alt'].disabled = false;
+  }
+  theForm.elements['alt'].value = value;
+  setMediaId(formId, allMedia);
+}
+
+function showMagnet_v2(format, theMedia) {
+  if (theMedia != null && theMedia['Magnet'] && format == 0) {
+    showRow('magnet-row', true);
+  } else {
+    showRow('magnet-row', false);
+  }
+}
+
+function showOutdated(theMedia) {
+  if (!document.getElementById('data-outdated')) {
+    return;
+  }
+  if (theMedia == null || theMedia['GoodDate'] == null || theMedia['GoodDate']['date'].split(" ", 2)[0] >= '2023-07-14') {
+    document.getElementById('data-outdated').style.display = 'none';
+  } else {
+    document.getElementById('data-outdated').style.display = '';
+  }
+}
+
+function showRow(id, show) {
+  var row = document.getElementById(id);
+  if (row == null) {
+    return;
+  }
+
+  if (show) {
+    row.style.display = "table-row";
+  } else {
+    row.style.display = "none";
+  }
+}
+
+function setMediaId(formId, allMedia) {
+  var theForm = document.forms[formId];
+  var format = theForm.elements['alt'].value;
+  var disc = document.getElementById('disc_number').value;
+  var version = document.getElementById('download_version') ? document.getElementById('download_version').value : null;
+  var theMedia = null;
+  for (var i = 0; i < allMedia.length; i++) {
+    if (disc == allMedia[i]['SortOrder'] && (version == null || version == allMedia[i]['Version'])) {
+      theMedia = allMedia[i];
+      break;
+    }
+  }
+  if (theMedia != null) {
+    theForm.elements['mediaId'].value = theMedia['ID'];
+    showRow('upload-row', theMedia['Zipped'] == 0 && theMedia['AltZipped'] == 0);
+    showRow('download-row', theMedia['Zipped'] > 0 || theMedia['AltZipped'] > 0);
+  } else {
+    theForm.elements['mediaId'].value = '0';
+    showRow('upload-row', false);
+    showRow('download-row', false);
+  }
+  showHashes_v2(theMedia);
+  showOutdated(theMedia);
+  showMagnet_v2(format, theMedia);
+  showSize_v2(format, theMedia);
+}
+
+function showSize_v2(format, theMedia) {
+  if (theMedia == null) {
+    document.getElementById('download_size').innerHTML = '';
+  } else if (format == '0') {
+    document.getElementById('download_size').innerHTML = theMedia['ZippedText'];
+  } else {
+    document.getElementById('download_size').innerHTML = theMedia['AltZippedText'];
+  }
+}
+
+function showHashes_v2(theMedia) {
+  if (document.getElementById('data-good-title')) {
+    document.getElementById('data-good-title').innerHTML = theMedia['GoodTitle'];
+    if (document.getElementById('data-crc')) {
+      if (theMedia != null && theMedia['Crc']) {
+        document.getElementById('data-crc').innerHTML = theMedia['Crc'].toLowerCase();
+        document.getElementById('data-md5').innerHTML = theMedia['Md5'].toLowerCase();
+        document.getElementById('data-sha1').innerHTML = theMedia['Sha1'].toLowerCase();
+        document.getElementById('row-date').style.display = theMedia['GoodDate'] ? '' : 'none';
+        document.getElementById('data-date').innerHTML = theMedia['GoodDate'] ? theMedia['GoodDate']['date'].split(" ", 2)[0] : '';
+      } else if (theMedia != null && theMedia['GoodHash']) {
+        document.getElementById('data-crc').innerHTML = theMedia['GoodHash'].toLowerCase();
+        document.getElementById('data-md5').innerHTML = theMedia['GoodMd5'].toLowerCase();
+        document.getElementById('data-sha1').innerHTML = theMedia['GoodSha1'].toLowerCase();
+        document.getElementById('row-date').style.display = theMedia['GoodDate'] ? '' : 'none';
+        document.getElementById('data-date').innerHTML = theMedia['GoodDate'] ? theMedia['GoodDate']['date'].split(" ", 2)[0] : '';
+      } else {
+        document.getElementById('data-crc').innerHTML = '';
+        document.getElementById('data-md5').innerHTML = '';
+        document.getElementById('data-sha1').innerHTML = '';
+        document.getElementById('row-date').style.display = 'none';
+        document.getElementById('data-date').innerHTML = '';
+      }
+    }
+  }
+}
+
+function upload(formId) {
+  location.href = '/vault/10/?p=upload&mediaId=' + document.forms[formId].elements['mediaId'].value;
+}
+
+function showHashTable(mediaId, tooltipId) {
+  var content = document.getElementById(tooltipId + "-content");
+  content.innerHTML = 'Loading...';
+  content.style.cursor = "wait";
+
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.addEventListener("load", function() {
+    content.innerHTML = xmlhttp.responseText;
+    content.style.cursor = "auto";
+  });
+  xmlhttp.open("GET", "ajax/hashes.php?id=" + mediaId, true);
+  xmlhttp.send();
+
+  showPopup(tooltipId);
+  document.getElementById(tooltipId).style.display = 'flex';
+}
+
+        function getSizeText(zipped) {
+          if (zipped <= 0) {
+            return zipped;
+          }
+          var zippedText = 'KB';
+          if (zipped >= 1024) {
+            zipped = Math.round(zipped / 1024, 2);
+            zippedText = 'MB';
+          }
+          if (zipped >= 1024) {
+            zipped = Math.round(zipped / 1024, 2);
+            zippedText = 'GB';
+          }
+          if (zipped >= 100) {
+            zipped = Math.round(zipped);
+          }
+          return zipped + ' ' + zippedText;
+        }
+
+        var allMedia = [];
+        var media = {"ID":9,"GoodTitle":"Abadox - The Deadly Inner War (USA).nes","Version":"1.000","SortOrder":1,"Zipped":"129","AltZipped":"0","Magnet":null,"GoodDate":{"date":"2023-07-14 00:00:00.000000","timezone_type":3,"timezone":"UTC"},"GoodHash":"4DAD1C95","GoodMd5":"B41A356C8D91984D743BE2153A64BCD7","GoodSha1":"A7D4F01D6250D3C6D065ED45C99088B7B9949F0B"};
+        media.ZippedText = '129 KB';
+        media.AltZippedText = '0 KB';
+        allMedia.push(media);
+
+        document.addEventListener("DOMContentLoaded", function() {
+          var element = document.getElementById('download_format');
+          if (element) {
+            setFormat_v2('download_form', element.value, allMedia);
+          }
+          setMediaId('download_form', allMedia);
+        });
+
+        window.addEventListener("pageshow", function(event) {
+          if (event.persisted) {
+            setMediaId('download_form', allMedia);
+          }
+        });
+
+      </script>
+
+<tr style="display:none">        <td>Disc #</td>
+        <td></td>
+        <td>
+          <form>
+            <select id="disc_number" onchange="setMediaId('download_form', allMedia)">
+<option value="1" selected>Disc 1</option>            </select>
+          </form>
+        </td>
+      </tr>
+<tr><td>Version</td><td></td><td>1.0</td></tr><tr><td colspan="3" style="text-align:center"><div style="height:8px"></div><table style="width:100%"><tr id="download-row"><td style="width:33%"></td><td style="width:34%"><form action="//download3.vimm.net/download/" method="POST" id="download_form" onsubmit="return submitDownload(this, 'tooltip4')"><input type="hidden" name="mediaId" value="9"><input type="hidden" name="alt" value="0" disabled><button type="submit" style="width:100%">Download</button></form></td><td style="width:33%; text-align:center" id="download_size">129 KB</td></tr><tr id="upload-row" style="display:none"><td colspan="3" style="text-align:center"><span class="redBorder">&#x26a0;</span> Download unavailable <span class="redBorder">&#x26a0;</span><div style="margin-top:10px">Do you have this game?<br><a href="/vault/10/?p=upload" onclick="upload('download_form'); return false">Upload it to The Vault</a></div></td></tr></table><div style="margin-top:2px"><form><button type="button" title="Play Online" onclick="location.href='/vault/?p=play&id=10'" style="width:33%">Play Online</button></form></div></td></tr>    </table>
+<div style="margin-top:10px"><div class="centered" style="display:block; width:236px"><table border="1" style="width:236px; height:263px"><tr><td><div style="width:236px; height:263px; overflow:hidden"><a href="#" onClick="productPopup(10, 472, 526, page); return false"><img style="display:block" src="/image.php?type=cart&amp;id=10&amp;size=1" title="Click to enlarge" alt="Click to enlarge" id="productimagethumb"></a></div></td></tr></table></div></div>  </div>
+  <div style="display:inline-block">
+<form action="#"><table border="1" class="centered" style="margin-bottom:10px"><tr><td style="background-image:url('/image.php?type=screen&amp;id=10'); width:256px; height:224px; margin-bottom:10px" id="screenShot"></td></tr></table></form><table border="1" class="centered"><tr><td><a href="#" onClick="coverPopup(10, 512, 700, 'libretro', 'https://github.com/libretro-thumbnails/'); return false" title="Click to enlarge"><img style="display:block" src="/image.php?type=box&amp;id=10" width="256"></a></td></tr></table>  </div>
+</div>
+<br>
+<div>&nbsp;</div>
+<h2 id="reviews" style="text-align:center; font-weight:bold; text-decoration:underline">Reviews</h2>
+<div id="reviewDiv"></div>
+<script>loadReviews(1, 10)</script>
+<script>
+function submitDownload(theForm, tooltipId) {
+  theForm.method = 'GET';
+  return true;
+}
+
+function confirmPopup(theForm, tooltipId) {
+  hidePopup(tooltipId);
+  theForm.method = 'GET';
+  theForm.submit();
+}
+</script>
+<table id="tooltip4" style="display:none; position:fixed; top:0px; left:0px; width:100%; height:100%; background-color:rgba(0,0,0,0.85)"><tr><td><table class="rounded" style="margin:auto"><tr><td>
+Vimm's Lair is funded solely through advertising and strives to keep ads as unobtrusive as possible.<br>
+Bandwidth is expensive so before you download, please consider disabling your ad blocker.<br>
+<br>
+<div style="text-align:center">Thank you.</div>
+</td></tr></table><div style="text-align:center; margin-top:15px"><input type="button" value="Continue" onclick="confirmPopup(document.forms['download_form'], 'tooltip4')"></div></td></tr></table>
+<div id="footerContainer">
+  <div id="footerTop">
+    <div style="background-image:url('/images/menu/MenuCorner.gif'); width:50px; height:10px; flex-grow:0; flex-shrink:0; transform:scaleY(-1)"></div>
+    <div style="height:10px"></div>
+  </div>
+  <div id="footerAd"><!-- adngin-bottom_adhesive-0 -->
+<div id="adngin-bottom_adhesive-0"></div></div>
+</div>          </div>
+        </div>
+      </div>
+    </div>
+  <script>(function(){var js = "window['__CF$cv$params']={r:'7eb87847f9458e9e'};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

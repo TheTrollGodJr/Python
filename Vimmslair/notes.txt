@@ -1,0 +1,21 @@
+submit download request
+
+<script>
+function onSubmit(token) {
+  document.forms["download_form"].submit();
+}
+</script>
+
+---------------------
+
+NamedNodeMap {0: action, 1: method, 2: id, 3: onsubmit, action: action, method: method, id: id, onsubmit: onsubmit, length: 4}
+action="//download3.vimm.net/download/"
+method="POST"
+id="download_form"
+onsubmit="return submitDownload(this, 'tooltip4')"
+
+<form action="//download3.vimm.net/download/" method="POST" id="download_form" onsubmit="return submitDownload(this, 'tooltip4')">
+<input type="hidden" name="mediaId" value="9">
+<input type="hidden" name="alt" value="0" disabled>
+<button type="submit" style="width:100%">Download</button>
+</form>
