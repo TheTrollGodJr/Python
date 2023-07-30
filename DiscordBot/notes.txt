@@ -1,0 +1,21 @@
+current flash card schedule:
+9:00 am
+9:13 am
+9:24 am
+9:41 am
+10:26 am
+11:00 am
+11:51 am
+1:07 pm
+3:01 pm
+5:52 pm
+10:00 pm
+
+morning only school day schedule:
+4:40 am - flash cards #1
+5:00 am - flash cards #2
+6:15 am - flash cards #3
+7:00 am - flash cards #4
+7:50 am - flash cards #5
+
+#if a card is failed, repeat it in 5 minutes

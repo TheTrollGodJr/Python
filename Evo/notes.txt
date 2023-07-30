@@ -1,0 +1,36 @@
+actions:
+move up
+move down
+move right
+move left
+eat
+
+input:
+food nearby
+person nearby
+wall
+nothing
+
+236x63
+
+GENOME:
+    INPUTS:
+        F - food
+        P - player  
+        W - wall
+        N - nothing
+    ACTIONS:
+        U - up
+        D - down
+        R - right
+        L - left
+        E - eat
+    INTERNAL NEURONS:
+        i0 - neuron
+
+["neuron", "connected neuron(s)", current value]
+genome = [["F", "U-E", 2]]   ---- Input-Food neuron, connected to Up and Eat, has a value of 2; two food nearby
+
+genome = [["i0", "U-E-L-R", .87]] ---- Internal Neuron 0, connected to Up, Eat, Left, and Right, had a weight of .87
+
+genome = [["U", .21]] ---- Action-Up neuron, no connections, weight of .21
