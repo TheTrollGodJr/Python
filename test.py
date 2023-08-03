@@ -1,6 +1,3 @@
-list = [[0, 8], [6, 4]]
+import os
 
-a = [0,8]
-
-if list[0] == a:
-    print("True")
+os.rename("C:/Users/thetr/Documents/Python/TESTsite.txt", "C:/Users/thetr/Documents/Python/site.txt")
