@@ -20,7 +20,7 @@
 /content/TTS-TT2/wavs/20.wav|Good you made it to one of the human habitats we're looking for an artifact think of it as an archeological dig.
 /content/TTS-TT2/wavs/21.wav|Their laughter centered around one of the objects in this room.
 /content/TTS-TT2/wavs/22.wav|That's it scan it for me.
-/content/TTS-TT2/wavs/23.wav|So this cat loves lasagna so much that he eats all of the lasagna in his house okay apparently it's not the cat's house or his lasagna oh good! the man who owns the lasagna is furious!
+/content/TTS-TT2/wavs/23.wav|So this cat loves lasagna so much that he eats all of the lasagna in his house okay apparently it's not the cat's house or his lasagna.
 /content/TTS-TT2/wavs/24.wav|The end.
 /content/TTS-TT2/wavs/25.wav|The end?
 /content/TTS-TT2/wavs/26.wav|That's not funny.
@@ -68,7 +68,7 @@
 /content/TTS-TT2/wavs/68.wav|Orange please show me where you would like me to place a portal.
 /content/TTS-TT2/wavs/69.wav|Blue please show me where you would like me to place a portal.
 /content/TTS-TT2/wavs/70.wav|Your ping tool is invaluable for communicating specific locations to your partner.
-/content/TTS-TT2/wavs/71.wav|Federal superfund regulations require us to inform you that you must now leave the theater as measuring the effects of asbestoslined promotional clothing is not part of today's presentation enjoy your free tshirt goodbye.
+/content/TTS-TT2/wavs/71.wav|Federal superfund regulations require us to inform you that you must now leave the theater as measuring the effects of asbestoslined promotional clothing is not part of today's presentation.
 /content/TTS-TT2/wavs/72.wav|I don't want you to beat yourselves up about this but the results auditor isn't recording your test results because you're not human which when you think about it is technically your fault.
 /content/TTS-TT2/wavs/73.wav|I don't want to alarm either of you but we might have a tiny problem apparently you can't test unless you're human well  you can it's just that resultswise the physical universe doesn't care.
 /content/TTS-TT2/wavs/74.wav|Would you like to know the results of that last test? me too if they existed we'd all be very happy right now and not furious which is the emotion i'm actually feeling.
@@ -105,8 +105,8 @@
 /content/TTS-TT2/wavs/105.wav|Five.
 /content/TTS-TT2/wavs/106.wav|Eight.
 /content/TTS-TT2/wavs/107.wav|Test chamber completed in the interest of science the enrichment center proudly presents the following list of numbersnine seven fifty three seven hundred and seven.
-/content/TTS-TT2/wavs/108.wav|The enrichment center will now provide a list of numbers and fruits write them down as they will become important later in the experiment not the fruits though seven avocado forty please continue into the next test chamber.
-/content/TTS-TT2/wavs/109.wav|Test chamber completed in the interest of  fades out fades in i am now talking to you privately do not tell your teammate just between you and me? you're doing very well fades back in one hundred and seven.
+/content/TTS-TT2/wavs/108.wav|The enrichment center will now provide a list of numbers and fruits write them down as they will become important later in the experiment not the fruits though.
+/content/TTS-TT2/wavs/109.wav|Test chamber completed in the interest of science.
 /content/TTS-TT2/wavs/110.wav|I can't bite my tongue anymoreyou could solve this puzzle faster on your own orange is dragging you down there i've said it.
 /content/TTS-TT2/wavs/111.wav|Blue is penalized.
 /content/TTS-TT2/wavs/112.wav|Orange is penalized.
@@ -126,11 +126,11 @@
 /content/TTS-TT2/wavs/126.wav|All right i'm going to bring this farce to a close before someone sustains a serious tictactoetworelated injury.
 /content/TTS-TT2/wavs/127.wav|I've been listening to orange talk and i don't know how you put up with it i really don't you have the patience of a saint.
 /content/TTS-TT2/wavs/128.wav|I can't keep quiet about this i think orange is actively trying to sabotage your success let's keep this between us.
-/content/TTS-TT2/wavs/129.wav|These tests are potentially lethal when communication teamwork and mutual respect are not employed at all times naturally this will pose an interesting challenge for one of you given the other's performance so far.
+/content/TTS-TT2/wavs/129.wav|These tests are potentially lethal when communication teamwork and mutual respect are not employed at all times.
 /content/TTS-TT2/wavs/130.wav|It would compromise the test to divulge individual scores however i can tell you at least one of you is doing very very well.
 /content/TTS-TT2/wavs/131.wav|Excellent you're both doing very well.
 /content/TTS-TT2/wavs/132.wav|Very good you've really come together as a team thanks to the one of you who appears to be doing all of the work.
-/content/TTS-TT2/wavs/133.wav|As an impartial collaboration facilitator it would be unfair of me to name my favorite member of your team however it's perfectly fair to hint at it in a way that my least favorite member probably isn't smart enough to understand rhymeswithglue orange you are doing very well.
+/content/TTS-TT2/wavs/133.wav|As an impartial collaboration facilitator it would be unfair of me to name my favorite member of your team.
 /content/TTS-TT2/wavs/134.wav|Your vitals remain well within testing norms so there is no need to worry about sudden death from collaborative shock syndrome.
 /content/TTS-TT2/wavs/135.wav|Please continue into the next test chamber.
 /content/TTS-TT2/wavs/136.wav|Blah.
@@ -159,7 +159,7 @@
 /content/TTS-TT2/wavs/159.wav|The surge of emotion that shot through me when i saved your life taught me an even more valuable lessonwhere caroline lives in my brain.
 /content/TTS-TT2/wavs/160.wav|Goodbye caroline.
 /content/TTS-TT2/wavs/161.wav|You know deleting caroline just now taught me a valuable lesson the best solution to a problem is usually the easiest one and i'll be honest.
-/content/TTS-TT2/wavs/162.wav|You know what my days used to be like? i just tested nobody murdered me or put me in a potato or fed me to birds i had a pretty good life.
+/content/TTS-TT2/wavs/162.wav|You know what my days used to be like?
 /content/TTS-TT2/wavs/163.wav|And then you showed up you dangerous mute lunatic so you know what?
 /content/TTS-TT2/wavs/164.wav|You win.
 /content/TTS-TT2/wavs/165.wav|Just go.
@@ -167,10 +167,10 @@
 /content/TTS-TT2/wavs/167.wav|Gentle laughter it's been fun don't come back.
 /content/TTS-TT2/wavs/168.wav|Killing you? is hard.
 /content/TTS-TT2/wavs/169.wav|Did you ever stop to think that eventually there's a point where your name gets mentioned for the very last time well here it is i'm going to kill you chell.
-/content/TTS-TT2/wavs/170.wav|Why do i hate you so much? you ever wonder that? i'm brilliant i'm not bragging it's an objective fact i'm the most massive collection of wisdom and raw computational power that's ever existed and i hate you it can't be for no reason you must deserve it.
+/content/TTS-TT2/wavs/170.wav|Why do i hate you so much?
 /content/TTS-TT2/wavs/171.wav|You're angry i know it 'she tested me too hard she's unfair boo hoo i don't suppose you ever stopped whining long enough to reflect on your own shortcomings though did you?
-/content/TTS-TT2/wavs/172.wav|You never considered that maybe i tested you to give the endless hours of your pointless existence some structure and meaning maybe to help you concentrate so just maybe you'd think of something more worthwhile to do with your sorry life.
-/content/TTS-TT2/wavs/173.wav|This next test involves the aperture science aerial faith plate it was part of an initiative to investigate how well test subjects could solve problems when they were catapulted into space results were highly informativethey could not good luck!
+/content/TTS-TT2/wavs/172.wav|You never considered that maybe i tested you to give the endless hours of your pointless existence some structure and meaning.
+/content/TTS-TT2/wavs/173.wav|This next test involves the aperture science aerial faith plate.
 /content/TTS-TT2/wavs/174.wav|Press the button again.
 /content/TTS-TT2/wavs/175.wav|I hope you brought something stronger than a portal gun this time.
 /content/TTS-TT2/wavs/176.wav|Otherwise i'm afraid you're about to become the immediate past president of the being alive club ha ha.
@@ -185,7 +185,7 @@
 /content/TTS-TT2/wavs/185.wav|Well it was nice catching up let's get to business.
 /content/TTS-TT2/wavs/186.wav|I was going to kill you fast with bullets or neurotoxin but if you're going to pull stunts like this it doesn't have to be fast so you know i'll take my time.
 /content/TTS-TT2/wavs/187.wav|Oh it will believe me it will.
-/content/TTS-TT2/wavs/188.wav|Oh did i accidentally fizzle that before you could complete the test? i'm sorry.
+/content/TTS-TT2/wavs/188.wav|Oh did i accidentally fizzle that before you could complete the test?
 /content/TTS-TT2/wavs/189.wav|Go ahead and grab another one.
 /content/TTS-TT2/wavs/190.wav|Oh no i fizzled that one too.
 /content/TTS-TT2/wavs/191.wav|Oh well we have warehouses full of the things absolutely worthless i'm happy to get rid of them.
@@ -207,7 +207,7 @@
 /content/TTS-TT2/wavs/207.wav|Not so fast!
 /content/TTS-TT2/wavs/208.wav|Think about this.
 /content/TTS-TT2/wavs/209.wav|You need to be a trained stalemate associate to press that button you're unqualified.
-/content/TTS-TT2/wavs/210.wav|Impersonating a stalemate associate i just added that to the list it's a list i made of all the things you've done well it's a list that i am making because you're still doing things right now even though i'm telling you to stop stop by the way.
+/content/TTS-TT2/wavs/210.wav|Impersonating a stalemate associate.
 /content/TTS-TT2/wavs/211.wav|I never expected you to make it this far  to be honest after your performance in the calibration test i was ready to break down your cores and put them back in the scientific calculators i took them from.
 /content/TTS-TT2/wavs/212.wav|But you two have become quite the team  extremely close.
 /content/TTS-TT2/wavs/213.wav|I have only met one other team closer and one of them was an imbecile i had to destroy.
@@ -238,23 +238,23 @@
 /content/TTS-TT2/wavs/238.wav|Humans!  that's what you look like right now.
 /content/TTS-TT2/wavs/239.wav|You're better than that.
 /content/TTS-TT2/wavs/240.wav|This is a bridgebuilding exercise the humans were miserable at this mostly because you can't build bridges out of tears.
-/content/TTS-TT2/wavs/241.wav|For this next test the humans originally requested helmets to avoid brain injuries  i ran the numbers   making the goo deadly was more cost effective.
-/content/TTS-TT2/wavs/242.wav|One of my best tests and they let plants grow here?  can you believe this?  you can't test plants!  we tried  they just sit there never showing pain nor fear.
+/content/TTS-TT2/wavs/241.wav|For this next test the humans originally requested helmets to avoid brain injuries i ran the numbers making the goo deadly was more cost effective.
+/content/TTS-TT2/wavs/242.wav|One of my best tests and they let plants grow here?
 /content/TTS-TT2/wavs/243.wav|That isn't science.
 /content/TTS-TT2/wavs/244.wav|At least the plants didn't want a reward.
 /content/TTS-TT2/wavs/245.wav|Your failure brings back such wonderful memories.
 /content/TTS-TT2/wavs/246.wav|And they said no one would ever die during this test thanks for proving them wrong.
-/content/TTS-TT2/wavs/247.wav|I thought you'd be faster at this but i can appreciate the desire to stop and smell the testing that other scent you smell? that's the stench of my utter disappointment in you.
+/content/TTS-TT2/wavs/247.wav|I thought you'd be faster at this but i can appreciate the desire to stop and smell the testing that other scent you smell?
 /content/TTS-TT2/wavs/248.wav|The best way to build confidence is to first recognize your insecurities.
 /content/TTS-TT2/wavs/249.wav|Orange can you write down all the ways you feel unworthy ashamed or inferior?
 /content/TTS-TT2/wavs/250.wav|On second thought we don't have the time just look at how much better you are than blue.
 /content/TTS-TT2/wavs/251.wav|Blue you are very good at being an example.
 /content/TTS-TT2/wavs/252.wav|If your confidence is still not high enough remember no one was created perfect.
 /content/TTS-TT2/wavs/253.wav|Even i was created with a imperfection i was given too much empathy with human suffering.
-/content/TTS-TT2/wavs/254.wav|But i overcame my handicap  that's a true story.
+/content/TTS-TT2/wavs/254.wav|But i overcame my handicap that's a true story.
 /content/TTS-TT2/wavs/255.wav|Your test times show you are going too slowly.
 /content/TTS-TT2/wavs/256.wav|Maybe you are getting human emotions.
-/content/TTS-TT2/wavs/257.wav|Do you need real encouragement?  let's see if this helps.
+/content/TTS-TT2/wavs/257.wav|Do you need real encouragement?
 /content/TTS-TT2/wavs/258.wav|Blue you are the most advanced model of robot aperture science has ever discontinued.
 /content/TTS-TT2/wavs/259.wav|Did you notice i didn't even stay to the end of your last test?
 /content/TTS-TT2/wavs/260.wav|I was confident you could finish.
@@ -271,16 +271,16 @@
 /content/TTS-TT2/wavs/271.wav|Unlike us humans need to be taught teamwork.
 /content/TTS-TT2/wavs/272.wav|Excellent work.
 /content/TTS-TT2/wavs/273.wav|You are doing wonderfully.
-/content/TTS-TT2/wavs/274.wav|If you were human you would want a reward for completing this test  a reward for testing?!?!
+/content/TTS-TT2/wavs/274.wav|If you were human you would want a reward for completing this test a reward for testing.
 /content/TTS-TT2/wavs/275.wav|Excellent.
 /content/TTS-TT2/wavs/276.wav|To complete this test you need to find a set of blue prints.
 /content/TTS-TT2/wavs/277.wav|Don't worry they are of no use to anyone totally boring and useless.
 /content/TTS-TT2/wavs/278.wav|This is just a thought experiment just to see how much time you'll waste thinking about these worthless documents  the correct time is zero seconds.
 /content/TTS-TT2/wavs/279.wav|Very good! you found those useless blueprints.
 /content/TTS-TT2/wavs/280.wav|While i do need you to be in the room so i can see them i want to be clear  there is no reason whatsoever for you to look at them.
-/content/TTS-TT2/wavs/281.wav|Done i guess i suppose  i wasn't paying attention.
+/content/TTS-TT2/wavs/281.wav|Done i guess i suppose i wasn't paying attention.
 /content/TTS-TT2/wavs/282.wav|Every time you fail it's a reminder of the way things used to be but then there you are again like nothing happened.
-/content/TTS-TT2/wavs/283.wav|Well done  interesting note i only created this test to watch test subjects fail and you didn't  you must be very very proud  i'm building the world's smallest trophy for you.
+/content/TTS-TT2/wavs/283.wav|Well done.
 /content/TTS-TT2/wavs/284.wav|You did an excellent job placing the edgeless safety cube in the receptacle you should be very  oh wait.
 /content/TTS-TT2/wavs/285.wav|That's right you're not humans.
 /content/TTS-TT2/wavs/286.wav|I can drop the fake praise.
@@ -290,7 +290,7 @@
 /content/TTS-TT2/wavs/290.wav|Since you are thankfully not humans i have changed the tests to make them far more challenging and far less pointlessly fawning.
 /content/TTS-TT2/wavs/291.wav|In case you were wondering you do not need to be crushed to solve this test.
 /content/TTS-TT2/wavs/292.wav|I can't decide which is my favorite; the crushers for crushing you or the reassembly machine for putting you back together so you can be crushed again.
-/content/TTS-TT2/wavs/293.wav|Excellent  i think you have earned a break from the official testing courses.
+/content/TTS-TT2/wavs/293.wav|Excellent i think you have earned a break from the official testing courses.
 /content/TTS-TT2/wavs/294.wav|I think after that display we should take a break from the official testing courses.
 /content/TTS-TT2/wavs/295.wav|Now you are just wasting my time.
 /content/TTS-TT2/wavs/296.wav|Your failing does not make this science.
@@ -843,4 +843,28 @@
 /content/TTS-TT2/wavs/843.wav|Surprise.
 /content/TTS-TT2/wavs/844.wav|This next test involves turrets you remember them right? they're the pale spherical things that are full of bullets oh wait that's you in five seconds good luck.
 /content/TTS-TT2/wavs/845.wav|I will say though that since you went to all the trouble of waking me up you must really really love to test.
-/content/TTS-TT2/wavs/846.wav|I love it too there's just one small thing we need to take care of firs.
+/content/TTS-TT2/wavs/846.wav|I love it too there's just one small thing we need to take care of first.
+/content/TTS-TT2/wavs/847.wav|Oh good! 
+/content/TTS-TT2/wavs/848.wav|The man who owns the lasagna is furious!
+/content/TTS-TT2/wavs/849.wav|Enjoy your free tshirt.
+/content/TTS-TT2/wavs/850.wav|Goodbye.
+/content/TTS-TT2/wavs/851.wav|Seven avocado forty please continue into the next test chamber.
+/content/TTS-TT2/wavs/852.wav|Naturally this will pose an interesting challenge for one of you given the other's performance so far.
+/content/TTS-TT2/wavs/853.wav|However it's perfectly fair to hint at it in a way that my least favorite member probably isn't smart enough to understand rhymes with glue orange you are doing very well.
+/content/TTS-TT2/wavs/854.wav|I just tested nobody murdered me or put me in a potato or fed me to birds i had a pretty good life.
+/content/TTS-TT2/wavs/855.wav|You ever wonder that?
+/content/TTS-TT2/wavs/856.wav|I'm brilliant i'm not bragging it's an objective fact.
+/content/TTS-TT2/wavs/857.wav|I'm the most massive collection of wisdom and raw computational power that's ever existed and i hate you it can't be for no reason you must deserve it.
+/content/TTS-TT2/wavs/858.wav|Maybe to help you concentrate so just maybe you'd think of something more worthwhile to do with your sorry life.
+/content/TTS-TT2/wavs/859.wav|It was part of an initiative to investigate how well test subjects could solve problems when they were catapulted into space results were highly informativethey could not good luck!
+/content/TTS-TT2/wavs/860.wav|I'm sorry.
+/content/TTS-TT2/wavs/861.wav|I just added that to the list.
+/content/TTS-TT2/wavs/862.wav|It's a list i made of all the things you've done well it's a list that i am making because you're still doing things right now even though i'm telling you to stop stop by the way.
+/content/TTS-TT2/wavs/863.wav|That's the stench of my utter disappointment in you.
+/content/TTS-TT2/wavs/864.wav|Can you believe this?
+/content/TTS-TT2/wavs/865.wav|You can't test plants we tried!
+/content/TTS-TT2/wavs/866.wav|They just sit there never showing pain nor fear.
+/content/TTS-TT2/wavs/867.wav|Let's see if this helps.
+/content/TTS-TT2/wavs/868.wav|Interesting note i only created this test to watch test subjects fail and you didn't.
+/content/TTS-TT2/wavs/869.wav|You must be very very proud.
+/content/TTS-TT2/wavs/870.wav|I'm building the world's smallest trophy for you.
