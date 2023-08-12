@@ -1,3 +1,7 @@
-string = "/content/TTS-TT2/wavs/846.wav|I love it too there's just one small thing we need to take care of first."
-split = string.split(".")
-print(len(split))
+from dotenv import load_dotenv
+import os
+
+load_dotenv(dotenv_path="C:/Users/thetr/Documents/Python/DiscordBot/token.env")
+token = os.getenv('token')
+
+print(token)

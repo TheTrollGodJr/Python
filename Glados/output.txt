@@ -39,7 +39,7 @@
 /content/TTS-TT2/wavs/39.wav|Still if it were blue would be winning.
 /content/TTS-TT2/wavs/40.wav|Still if it were orange would be winning.
 /content/TTS-TT2/wavs/41.wav|It's not though.
-/content/TTS-TT2/wavs/42.wav|These tests are potentially lethal when communication teamwork and mutual respect are not employed at all times naturally this will pose an interesting challenge for one of you given the other's performance so far.
+/content/TTS-TT2/wavs/42.wav|These tests are potentially lethal when communication teamwork and mutual respect are not employed at all times.
 /content/TTS-TT2/wavs/43.wav|I don't want to drive a wedge between the two of you but i've been studying blue's performance and i don't know how to put this i'm certain you're trying very hard.
 /content/TTS-TT2/wavs/44.wav|Hello again sorry about exploding you luckily you don't feel pain at any rate you don't have a way to communicate that you feel pain.
 /content/TTS-TT2/wavs/45.wav|So i've been thinkingwe need humans for these tests and since the only human within a thousand miles of us is a testruining sociopath i'll just have to make some.
@@ -51,7 +51,7 @@
 /content/TTS-TT2/wavs/51.wav|Hold on those are raccoons homo sapiens only please.
 /content/TTS-TT2/wavs/52.wav|No.
 /content/TTS-TT2/wavs/53.wav|Okay plan b subsection onestand still so i can bring you back.
-/content/TTS-TT2/wavs/54.wav|Humans must have some purpose other than a place to store your neurotoxin something i failed to notice before an intangible quality that makes their test results significant.
+/content/TTS-TT2/wavs/54.wav|Humans must have some purpose other than a place to store your neurotoxin.
 /content/TTS-TT2/wavs/55.wav|Okay plan b we need humans.
 /content/TTS-TT2/wavs/56.wav|Please wave to your partner.
 /content/TTS-TT2/wavs/57.wav|The upcoming tests require you to work together as a team.
@@ -104,7 +104,7 @@
 /content/TTS-TT2/wavs/104.wav|Four.
 /content/TTS-TT2/wavs/105.wav|Five.
 /content/TTS-TT2/wavs/106.wav|Eight.
-/content/TTS-TT2/wavs/107.wav|Test chamber completed in the interest of science the enrichment center proudly presents the following list of numbersnine seven fifty three seven hundred and seven.
+/content/TTS-TT2/wavs/107.wav|Test chamber completed.
 /content/TTS-TT2/wavs/108.wav|The enrichment center will now provide a list of numbers and fruits write them down as they will become important later in the experiment not the fruits though.
 /content/TTS-TT2/wavs/109.wav|Test chamber completed in the interest of science.
 /content/TTS-TT2/wavs/110.wav|I can't bite my tongue anymoreyou could solve this puzzle faster on your own orange is dragging you down there i've said it.
@@ -139,7 +139,7 @@
 /content/TTS-TT2/wavs/139.wav|Blah.
 /content/TTS-TT2/wavs/140.wav|Blah.
 /content/TTS-TT2/wavs/141.wav|Blah.
-/content/TTS-TT2/wavs/142.wav|In just a moment the word 'blah' will be repeated over and over again if at some point you hear a number rather than the word 'blah' ignore it it is not important.
+/content/TTS-TT2/wavs/142.wav|In just a moment the word blah will be repeated over and over again.If at some point you hear a number rather than the word 'blah' ignore it it is not important.
 /content/TTS-TT2/wavs/143.wav|Blah.
 /content/TTS-TT2/wavs/144.wav|You have a gift for these tests that's not just flattery you are great at science.
 /content/TTS-TT2/wavs/145.wav|It would be pointless for either of us to hurt blue's feelings but it's clear to everyone monitoring the test who's carrying who here.
@@ -208,7 +208,7 @@
 /content/TTS-TT2/wavs/208.wav|Think about this.
 /content/TTS-TT2/wavs/209.wav|You need to be a trained stalemate associate to press that button you're unqualified.
 /content/TTS-TT2/wavs/210.wav|Impersonating a stalemate associate.
-/content/TTS-TT2/wavs/211.wav|I never expected you to make it this far  to be honest after your performance in the calibration test i was ready to break down your cores and put them back in the scientific calculators i took them from.
+/content/TTS-TT2/wavs/211.wav|I never expected you to make it this far.
 /content/TTS-TT2/wavs/212.wav|But you two have become quite the team  extremely close.
 /content/TTS-TT2/wavs/213.wav|I have only met one other team closer and one of them was an imbecile i had to destroy.
 /content/TTS-TT2/wavs/214.wav|The other?  well.
@@ -275,9 +275,9 @@
 /content/TTS-TT2/wavs/275.wav|Excellent.
 /content/TTS-TT2/wavs/276.wav|To complete this test you need to find a set of blue prints.
 /content/TTS-TT2/wavs/277.wav|Don't worry they are of no use to anyone totally boring and useless.
-/content/TTS-TT2/wavs/278.wav|This is just a thought experiment just to see how much time you'll waste thinking about these worthless documents  the correct time is zero seconds.
+/content/TTS-TT2/wavs/278.wav|This is just a thought experiment just to see how much time you'll waste thinking about these worthless documents the correct time is zero seconds.
 /content/TTS-TT2/wavs/279.wav|Very good! you found those useless blueprints.
-/content/TTS-TT2/wavs/280.wav|While i do need you to be in the room so i can see them i want to be clear  there is no reason whatsoever for you to look at them.
+/content/TTS-TT2/wavs/280.wav|While i do need you to be in the room so i can see them i want to be clear there is no reason whatsoever for you to look at them.
 /content/TTS-TT2/wavs/281.wav|Done i guess i suppose i wasn't paying attention.
 /content/TTS-TT2/wavs/282.wav|Every time you fail it's a reminder of the way things used to be but then there you are again like nothing happened.
 /content/TTS-TT2/wavs/283.wav|Well done.
@@ -335,14 +335,14 @@
 /content/TTS-TT2/wavs/335.wav|Thanks to you i know where to find them i removed their security and powered up their  uh  rescue door.
 /content/TTS-TT2/wavs/336.wav|Now we just need you to release the humans from their imprisonment.
 /content/TTS-TT2/wavs/337.wav|They'll probably throw you a party.
-/content/TTS-TT2/wavs/338.wav|This final course is training to reach the human vault  so this actually has a purpose  those other courses were fun but let's be honest i need human test subjects for it to be science.
+/content/TTS-TT2/wavs/338.wav|This final course is training to reach the human vault.
 /content/TTS-TT2/wavs/339.wav|Congratulations on completing the test you two really are the best cooperative testing team i could ever ask for.
 /content/TTS-TT2/wavs/340.wav|This lock requires humans.
 /content/TTS-TT2/wavs/341.wav|The locking mechanism can tell you aren't humans.
 /content/TTS-TT2/wavs/342.wav|Do something only a human would do.
 /content/TTS-TT2/wavs/343.wav|Try one of those childish gestures.
 /content/TTS-TT2/wavs/344.wav|You did it!
-/content/TTS-TT2/wavs/345.wav|The human vault is just past that opening   i entered the security code but the vault door remains locked  i am going to need you to activate the manual locks on the vault door itself.
+/content/TTS-TT2/wavs/345.wav|The human vault is just past that opening.
 /content/TTS-TT2/wavs/346.wav|You both need to do something.
 /content/TTS-TT2/wavs/347.wav|The lock is looking for two humans.
 /content/TTS-TT2/wavs/348.wav|Blue what did you do?
@@ -364,29 +364,29 @@
 /content/TTS-TT2/wavs/364.wav|This isn't that hard.
 /content/TTS-TT2/wavs/365.wav|You are making this harder than it needs to be.
 /content/TTS-TT2/wavs/366.wav|I'm starting to think you don't want to rescue the humans.
-/content/TTS-TT2/wavs/367.wav|Maybe you two have never met humans?  they are as bad as you might think smelly gross annoying often wanting to try and kill you  but they do make great test subjects.
+/content/TTS-TT2/wavs/367.wav|Maybe you two have never met humans?
 /content/TTS-TT2/wavs/368.wav|We are only two  tests away from reaching the humans are you as excited as i am?
-/content/TTS-TT2/wavs/369.wav|Are you curious about the humans? it seems some of the last nontesting humans alive tried to secretly imprison other humans and hide their tracks.
+/content/TTS-TT2/wavs/369.wav|Are you curious about the humans?
 /content/TTS-TT2/wavs/370.wav|I think they wanted to punish them by not allowing me to include them in testing.
 /content/TTS-TT2/wavs/371.wav|That's why humans couldn't complete these courses they treat their friends as enemies.
-/content/TTS-TT2/wavs/372.wav|To start preparing for human testing again  i checked an old suggestion box  the number one request?  less deadly tests.
+/content/TTS-TT2/wavs/372.wav|To start preparing for human testing again  i checked an old suggestion box  the number one request?
 /content/TTS-TT2/wavs/373.wav|That's ridiculous how do they know for sure the tests are deadly if they could still write the suggestion?
-/content/TTS-TT2/wavs/374.wav|To try and make this course more exciting i asked the reassembly machine to not reassemble you  he refused  i understand that would be like asking me not to test.
+/content/TTS-TT2/wavs/374.wav|To try and make this course more exciting i asked the reassembly machine to not reassemble you.
 /content/TTS-TT2/wavs/375.wav|Still that would have been exciting.
 /content/TTS-TT2/wavs/376.wav|Only one more test after this.
-/content/TTS-TT2/wavs/377.wav|I know your cores are reused from calculation machines built for simple mathematical operations and not for testing but if we can rescue the humans i promise you something to add maybe even subtract.
+/content/TTS-TT2/wavs/377.wav|I know your cores are reused from calculation machines built for simple mathematical operations and not for testing.
 /content/TTS-TT2/wavs/378.wav|In case you are worried about the humans don't be they aren't all monsters.
 /content/TTS-TT2/wavs/379.wav|Most of them are simply good test subjects.
 /content/TTS-TT2/wavs/380.wav|I believe the ratio of good test subjects to monsters is about  a million to 1.
-/content/TTS-TT2/wavs/381.wav|To try and make this course more exciting i asked the reassembly machine to not reassemble you if you fail  he refused  i understand  that would be like asking me not to test.
+/content/TTS-TT2/wavs/381.wav|To try and make this course more exciting i asked the reassembly machine to not reassemble you if you fail.
 /content/TTS-TT2/wavs/382.wav|Still that would have been exciting.
-/content/TTS-TT2/wavs/383.wav|While i will receive all the glory for the rescue don't think you two aren't going to get something  the bond you form during these tests will last a lifetime.
+/content/TTS-TT2/wavs/383.wav|While i will receive all the glory for the rescue don't think you two aren't going to get something the bond you form during these tests will last a lifetime.
 /content/TTS-TT2/wavs/384.wav|At the rate you are completing these tests i am beginning to think you don't share my excitement for rescuing crying trapped injured dying humans.
 /content/TTS-TT2/wavs/385.wav|If that doesn't motivate you i'm not sure what will.
 /content/TTS-TT2/wavs/386.wav|I didn't mean to make you feel bad earlier about your tests not being real science  i guess finding out they weren't science was some sort of test in and of itself.
-/content/TTS-TT2/wavs/387.wav|I wonder if the humans will make a statue of me for rescuing them?  oh don't worry if they ever write a historical document of my heroic rescue i will make sure your names are included in the footnotes.
+/content/TTS-TT2/wavs/387.wav|I wonder if the humans will make a statue of me for rescuing them?
 /content/TTS-TT2/wavs/388.wav|Congratulations on passing that test.
-/content/TTS-TT2/wavs/389.wav|Using your ping tool please indicate where you would like me to place your two portals  ping each location.
+/content/TTS-TT2/wavs/389.wav|Using your ping tool please indicate where you would like me to place your two portals ping each location.
 /content/TTS-TT2/wavs/390.wav|I can only place a portal on a white portalable surface.
 /content/TTS-TT2/wavs/391.wav|Please ping a white portalable surface.
 /content/TTS-TT2/wavs/392.wav|Each portal gun may create two selfcontained portals.
@@ -397,7 +397,7 @@
 /content/TTS-TT2/wavs/397.wav|Clearly that was blue's fault  blue is penalized 3 science collaboration points.
 /content/TTS-TT2/wavs/398.wav|Blue! orange has always been my favorite.
 /content/TTS-TT2/wavs/399.wav|Until now.
-/content/TTS-TT2/wavs/400.wav|I know you like to think the reassembly machine is at your beck and call but he has a life you know  he's not your slave.
+/content/TTS-TT2/wavs/400.wav|I know you like to think the reassembly machine is at your beck and call but he has a life you know he's not your slave.
 /content/TTS-TT2/wavs/401.wav|Don't worry  you can't die  they will just reassemble you.
 /content/TTS-TT2/wavs/402.wav|Did you do that on purpose?
 /content/TTS-TT2/wavs/403.wav|It seems rather earlier to require reassembly.
@@ -408,20 +408,20 @@
 /content/TTS-TT2/wavs/408.wav|Just stop it already.
 /content/TTS-TT2/wavs/409.wav|You don't need to do that.
 /content/TTS-TT2/wavs/410.wav|Are you doing that just to aggravate me?
-/content/TTS-TT2/wavs/411.wav|We need to find the power station at the end of this course  the humans must have accidentally disconnected it from my grid  i am sure it was just a clerical error.
+/content/TTS-TT2/wavs/411.wav|We need to find the power station at the end of this course.
 /content/TTS-TT2/wavs/412.wav|Oh those clerks.
 /content/TTS-TT2/wavs/413.wav|I'm fully connected i can see everything.
-/content/TTS-TT2/wavs/414.wav|You did it! you powered on the system.
+/content/TTS-TT2/wavs/414.wav|You did it!
 /content/TTS-TT2/wavs/415.wav|Did you think the electrical switch was down there?
 /content/TTS-TT2/wavs/416.wav|You may want to try and avoid those turrets.
 /content/TTS-TT2/wavs/417.wav|At this rate our best hope is for the fuel cell to meltdown in 2 million years and hope the explosion powers the system.
 /content/TTS-TT2/wavs/418.wav|You two aren't lost are you?
 /content/TTS-TT2/wavs/419.wav|You are having so much trouble navigating this space; i wish i could say i created this test.
-/content/TTS-TT2/wavs/420.wav|This is the last test for the standard course  it's just something i whipped up for you i thought you might enjoy a challenge for once.
-/content/TTS-TT2/wavs/421.wav|Congratulations you completed the standard section of this course  before we can go any further i will need you to complete one more test outside of the standard testing track.
+/content/TTS-TT2/wavs/420.wav|This is the last test for the standard course it's just something i whipped up for you i thought you might enjoy a challenge for once.
+/content/TTS-TT2/wavs/421.wav|Congratulations you completed the standard section of this course before we can go any further i will need you to complete one more test outside of the standard testing track.
 /content/TTS-TT2/wavs/422.wav|Please refrain from doing those childish gestures while you are out there.
 /content/TTS-TT2/wavs/423.wav|While i should have left both of you trapped there forever i do need you for something else.
-/content/TTS-TT2/wavs/424.wav|You both made it  it seems no matter what i try to do to pull you apart or destroy you you just keep going  keep testing.
+/content/TTS-TT2/wavs/424.wav|You both made it.
 /content/TTS-TT2/wavs/425.wav|Don't either you have drive to be better than the other?
 /content/TTS-TT2/wavs/426.wav|It's like you're just machines.
 /content/TTS-TT2/wavs/427.wav|At the start of this course i was worried you were becoming too close but in my attempt to drive you apart i learned something important about trust and betrayal.
@@ -431,8 +431,8 @@
 /content/TTS-TT2/wavs/431.wav|This test is so outside the box i can't i mean won't even tell you what you are looking for.
 /content/TTS-TT2/wavs/432.wav|You will know it when you find it.
 /content/TTS-TT2/wavs/433.wav|The two of you have forged an excellent partnership with one of you handling the cerebral challenges and the other ready to ponderously waddle into action should the test suddenly become an eating contest.
-/content/TTS-TT2/wavs/434.wav|I thought going back to these old tests would satisfy me  but try as you might to fail this next test i still won't be satisfied.
-/content/TTS-TT2/wavs/435.wav|Congratulations  i am sure if i had the time to repair these tests you would have never completed them  so again congratulations on completing the broken easy tests.
+/content/TTS-TT2/wavs/434.wav|I thought going back to these old tests would satisfy me but try as you might to fail this next test i still won't be satisfied.
+/content/TTS-TT2/wavs/435.wav|Congratulations.
 /content/TTS-TT2/wavs/436.wav|This was another test no one had ever completed before you two  oh the science we used to learn with this test  now the test is useless.
 /content/TTS-TT2/wavs/437.wav|No one has ever completed this test before the humans must have reconfigured it from my original plans.
 /content/TTS-TT2/wavs/438.wav|I am going to risk having you go outside the official courses one more time.
@@ -442,17 +442,17 @@
 /content/TTS-TT2/wavs/442.wav|Excellent.
 /content/TTS-TT2/wavs/443.wav|See nothing bad happened.
 /content/TTS-TT2/wavs/444.wav|I created this test to let the humans feel good about themselves it is extremely easy just follow the arrows.
-/content/TTS-TT2/wavs/445.wav|I'm sorry the arrows seem to have rusted off  good luck.
-/content/TTS-TT2/wavs/446.wav|Congratulations  your ability to complete this test proves the humans wrong  they described it as impossible deadly cruel and one test subject even had the nerve to call it broken.
+/content/TTS-TT2/wavs/445.wav|I'm sorry the arrows seem to have rusted off good luck.
+/content/TTS-TT2/wavs/446.wav|Congratulations your ability to complete this test proves the humans wrong.
 /content/TTS-TT2/wavs/447.wav|Of course the humans only had one try at it you can just keep trying.
 /content/TTS-TT2/wavs/448.wav|Your failing gives me no new data it just delays the inevitable.
-/content/TTS-TT2/wavs/449.wav|This course was created and then abandoned by humans   they tend to do that create something wonderful and then abandon it.
-/content/TTS-TT2/wavs/450.wav|Do you know why they abandoned this course?  too deadly.
+/content/TTS-TT2/wavs/449.wav|This course was created and then abandoned by humans they tend to do that create something wonderful and then abandon it.
+/content/TTS-TT2/wavs/450.wav|Do you know why they abandoned this course?
 /content/TTS-TT2/wavs/451.wav|You did very well.
-/content/TTS-TT2/wavs/452.wav|The humans closed this test because they said it was too deadly  i thought they would have moved it into the testing track hall of fame for that not let it deteriorate.
+/content/TTS-TT2/wavs/452.wav|The humans closed this test because they said it was too deadly.
 /content/TTS-TT2/wavs/453.wav|You only failed.
-/content/TTS-TT2/wavs/454.wav|Times in this test  not that it matters it doesn't  so congratulations  job well done.
-/content/TTS-TT2/wavs/455.wav|You failed so many times in this test i thought you were becoming human  but then you would just come back again and again and again.
+/content/TTS-TT2/wavs/454.wav|Times in this test  not that it matters it doesn't so congratulations job well done.
+/content/TTS-TT2/wavs/455.wav|You failed so many times in this test i thought you were becoming human but then you would just come back again and again and again.
 /content/TTS-TT2/wavs/456.wav|Humans find that an admirable trait.
 /content/TTS-TT2/wavs/457.wav|Let's look at their files.
 /content/TTS-TT2/wavs/458.wav|Not a team player.
@@ -556,7 +556,7 @@
 /content/TTS-TT2/wavs/556.wav|Are you testing me?
 /content/TTS-TT2/wavs/557.wav|Did you know the reassembly machine has other things it could be reassembling?
 /content/TTS-TT2/wavs/558.wav|Did you think that would be funny?
-/content/TTS-TT2/wavs/559.wav|How can you fail at this?  it isn't even a test.
+/content/TTS-TT2/wavs/559.wav|How can you fail at this?
 /content/TTS-TT2/wavs/560.wav|I hope that was some kind of joke.
 /content/TTS-TT2/wavs/561.wav|I honestly never thought we would need to track how many times died in the hub.
 /content/TTS-TT2/wavs/562.wav|And here i thought this room was dangerously unlethal.
@@ -564,7 +564,7 @@
 /content/TTS-TT2/wavs/564.wav|Orange your plan is working perfectly.
 /content/TTS-TT2/wavs/565.wav|Blue why did you do that to orange?
 /content/TTS-TT2/wavs/566.wav|Was that necessary?
-/content/TTS-TT2/wavs/567.wav|Welcome back to the computer intelligence training and enrichment center human test subject research center laughs.
+/content/TTS-TT2/wavs/567.wav|Welcome back to the computer intelligence training and enrichment center human test subject research center.
 /content/TTS-TT2/wavs/568.wav|Welcome back to the computer intelligence training and enrichment center human test subject research center.
 /content/TTS-TT2/wavs/569.wav|Welcome back testing is available.
 /content/TTS-TT2/wavs/570.wav|Welcome back quitters maybe you can find another course for you to fail.
@@ -574,15 +574,15 @@
 /content/TTS-TT2/wavs/574.wav|Look who's back were you scared to continue those tests?
 /content/TTS-TT2/wavs/575.wav|Hello again did you know these are the only set of tests available to you you are going to need to select them again.
 /content/TTS-TT2/wavs/576.wav|If at first you don't succeed quit and try another course.
-/content/TTS-TT2/wavs/577.wav|Back again?  maybe you can just stay and live here in the hub?
-/content/TTS-TT2/wavs/578.wav|Back again?  maybe you can just stay and live here.
+/content/TTS-TT2/wavs/577.wav|Back again?
+/content/TTS-TT2/wavs/578.wav|Back again?
 /content/TTS-TT2/wavs/579.wav|I guess quitting that course together is a sign of teamwork.
 /content/TTS-TT2/wavs/580.wav|The way you two just gave up on that test together shows you are really working as a team.
 /content/TTS-TT2/wavs/581.wav|Are you scared to save those humans?
 /content/TTS-TT2/wavs/582.wav|Are you scared to save those humans?
 /content/TTS-TT2/wavs/583.wav|Blue i wouldn't have trusted orange in that course either.
 /content/TTS-TT2/wavs/584.wav|Did you know we originally used these cameras to capture moments of intense pain and agony in test subjects?
-/content/TTS-TT2/wavs/585.wav|If the subject survived the test we let them purchase the pictures for $5  if the subject died we gave the photo to their next of kin free of charge.
+/content/TTS-TT2/wavs/585.wav|If the subject survived the test we let them purchase the pictures for five dollars.
 /content/TTS-TT2/wavs/586.wav|The photos weren't as popular as we had hoped so we repurposed the cameras.
 /content/TTS-TT2/wavs/587.wav|Blue it's not nice to make fun of orange like that.
 /content/TTS-TT2/wavs/588.wav|Orange it's not nice to make fun of blue like that.
@@ -591,16 +591,16 @@
 /content/TTS-TT2/wavs/591.wav|I can only imagine.
 /content/TTS-TT2/wavs/592.wav|What a horrible little machine.
 /content/TTS-TT2/wavs/593.wav|Correct blue orange can't hear you.
-/content/TTS-TT2/wavs/594.wav|Orange did what?  are you sure?
+/content/TTS-TT2/wavs/594.wav|Orange did what?
 /content/TTS-TT2/wavs/595.wav|Thank you that was very brave of you to tell me.
-/content/TTS-TT2/wavs/596.wav|Blue how well do you really know orange?  do you trust orange?  what if i told you you aren't orange's first cooperative partner?
-/content/TTS-TT2/wavs/597.wav|Orange how well do you really know blue?  do you trust blue?
-/content/TTS-TT2/wavs/598.wav|Orange to be clear  i was just asking blue if he trusted you.
+/content/TTS-TT2/wavs/596.wav|Blue how well do you really know orange?
+/content/TTS-TT2/wavs/597.wav|Orange how well do you really know blue?
+/content/TTS-TT2/wavs/598.wav|Orange to be clear i was just asking blue if he trusted you.
 /content/TTS-TT2/wavs/599.wav|I trust you  you are my favorite cooperative testing subject.
 /content/TTS-TT2/wavs/600.wav|Blue to be clear i was asking if orange trusted you.
 /content/TTS-TT2/wavs/601.wav|Sorry i missed the beginning of that test  i was just talking with the reassembly machine about your becoming human.
 /content/TTS-TT2/wavs/602.wav|We all agree you should stop.
-/content/TTS-TT2/wavs/603.wav|Orange i agree  i never noticed that about blue before.
+/content/TTS-TT2/wavs/603.wav|Orange i agree i never noticed that about blue before.
 /content/TTS-TT2/wavs/604.wav|Blue i agree  i never noticed that about orange before.
 /content/TTS-TT2/wavs/605.wav|Blue orange and i were just discussing your behavior on the last few tests.
 /content/TTS-TT2/wavs/606.wav|I have to agree blue is penalized 75 science collaboration points.
@@ -611,7 +611,7 @@
 /content/TTS-TT2/wavs/611.wav|How is this even science without the possibility of death?
 /content/TTS-TT2/wavs/612.wav|How is this even science without the consequence of death?
 /content/TTS-TT2/wavs/613.wav|Without the consequence of death is this even science?
-/content/TTS-TT2/wavs/614.wav|I have noticed you two have become extremely close  i'm not sure i like that.
+/content/TTS-TT2/wavs/614.wav|I have noticed you two have become extremely close i'm not sure i like that.
 /content/TTS-TT2/wavs/615.wav|While teamwork is needed to complete these tests i am not sure i trust the two of you together.
 /content/TTS-TT2/wavs/616.wav|Blue do you feel betrayed by orange for telling me those horrible things about you?
 /content/TTS-TT2/wavs/617.wav|If orange had said those things about me orange would never make it to the next reassembly station.
@@ -622,7 +622,7 @@
 /content/TTS-TT2/wavs/622.wav|I've been doing some reading did you know that the word orange is derived from the same latin root as the word traitor?
 /content/TTS-TT2/wavs/623.wav|Watching you try to sabotage one other i'm amazed you're still on friendly terms.
 /content/TTS-TT2/wavs/624.wav|Blue please disregard the following statementorange you have been a shining light in an otherwise ungodly morass of incompetence.
-/content/TTS-TT2/wavs/625.wav|I would prefer to speak to one of you in private but since that is not an option here i will speak in code that only one of you will understand  blueorange is plotting to destroy you.
+/content/TTS-TT2/wavs/625.wav|I would prefer to speak to one of you in private but since that is not an option here i will speak in code that only one of you will understand.
 /content/TTS-TT2/wavs/626.wav|You were right orange blue was dumb enough to fall for your trap.
 /content/TTS-TT2/wavs/627.wav|Orange that transpired just as you said it would.
 /content/TTS-TT2/wavs/628.wav|I agree orange that was entertaining.
@@ -641,8 +641,8 @@
 /content/TTS-TT2/wavs/641.wav|Commence standing by in three two one.
 /content/TTS-TT2/wavs/642.wav|You performed this test better than anyone on record this is a prerecorded message.
 /content/TTS-TT2/wavs/643.wav|Due to events beyond our control some testing environments may contain flood damage or ongoing tribal warfare resulting from the collapse of civilization.
-/content/TTS-TT2/wavs/644.wav|If groups of huntergatherers appear to have made this  or any  test chamber their home do not agitate them test through them.
-/content/TTS-TT2/wavs/645.wav|In the event that the enrichment center is currently being bombarded with fireballs meteorites or other objects from space please avoid unsheltered testing areas wherever a lack of shelter from spa.
+/content/TTS-TT2/wavs/644.wav|If groups of huntergatherers appear to have made this or any test chamber their home do not agitate them test through them.
+/content/TTS-TT2/wavs/645.wav|In the event that the enrichment center is currently being bombarded with fireballs meteorites or other objects from space.
 /content/TTS-TT2/wavs/646.wav|You have just passed through an aperture science material emancipation grill which erases most aperture science equipment that touches it.
 /content/TTS-TT2/wavs/647.wav|If you feel liquid running down your neck relax lie on your back and apply immediate pressure to your temples.
 /content/TTS-TT2/wavs/648.wav|You are simply experiencing a rare reaction in which the material emancipation grill may have erased the ear tubes inside your head.
@@ -658,15 +658,15 @@
 /content/TTS-TT2/wavs/658.wav|Well done in the event that oxygen is no longer available in the enrichment center an auxiliary air supply will be provided to you by an aperture science test associate if one exists.
 /content/TTS-TT2/wavs/659.wav|I will say though that since you went to all the trouble of waking me up you must really really love to test.
 /content/TTS-TT2/wavs/660.wav|I love it too so let's get you a dual portal device and go do some science.
-/content/TTS-TT2/wavs/661.wav|These bridges are made from natural light that i pump in from the surface if you rubbed your cheek on one it would be like standing outside with the sun shining on your face it would also set your hair on fire so don't actually do it.
-/content/TTS-TT2/wavs/662.wav|Excellent! you're a predator and these tests are your prey speaking of which i was researching sharks for an upcoming test do you know who else murders people who are only trying to help them?
-/content/TTS-TT2/wavs/663.wav|Did you guess 'sharks'? because that's wrong the correct answer is 'nobody' nobody but you is that pointlessly cruel.
-/content/TTS-TT2/wavs/664.wav|Good news i figured out what to do with all the money i save recycling your one roomful of air when you die i'm going to laminate your skeleton and pose you in the lobby that way future generations can learn from you how not to have your unfortunate bone structure.
+/content/TTS-TT2/wavs/661.wav|These bridges are made from natural light that i pump in from the surface.
+/content/TTS-TT2/wavs/662.wav|Excellent! you're a predator and these tests are your prey.
+/content/TTS-TT2/wavs/663.wav|Did you guess sharks? because that's wrong the correct answer is 'nobody' nobody but you is that pointlessly cruel.
+/content/TTS-TT2/wavs/664.wav|Good news i figured out what to do with all the money i save recycling your one roomful of air.
 /content/TTS-TT2/wavs/665.wav|Perfect the door's malfunctioning i guess somebody is going to have to repair it no it's okay i'll do that too i'll be right back don't touch anything.
-/content/TTS-TT2/wavs/666.wav|I've got a surprise for you after this next test not a fake tragic surprise like last time a real surprise with tragic consequences and real confetti this time the good stuff our last bag part of me's going to miss it i guessbut at the end of the day it was just taking up space.
-/content/TTS-TT2/wavs/667.wav|Here's an interesting factyou're not breathing real air it's too expensive to pump this far down we just take carbon dioxide out of a room freshen it up a little and pump it back in so you'll be breathing the same room full of air for the rest of your life i thought that was interesting.
+/content/TTS-TT2/wavs/666.wav|I've got a surprise for you after this next test not a fake tragic surprise like last time.
+/content/TTS-TT2/wavs/667.wav|Here's an interesting fact you're not breathing real air it's too expensive to pump this far down.
 /content/TTS-TT2/wavs/668.wav|Oh come on if it makes you feel any better they abandoned you at birth so i very seriously doubt they'd even want to see you.
-/content/TTS-TT2/wavs/669.wav|I feel awful about that surprise tell you what let's give your parents a call right now phone ringing the birth parents you are trying to reach do not love you please hang up dial tone.
+/content/TTS-TT2/wavs/669.wav|I feel awful about that surprise tell you what.
 /content/TTS-TT2/wavs/670.wav|Oh that's sad but impressive maybe they worked at the phone company.
 /content/TTS-TT2/wavs/671.wav|Well you know the old formulacomedy equals tragedy plus time and you have been asleep for a while so i guess it's actually pretty funny when you do the math.
 /content/TTS-TT2/wavs/672.wav|Don't you dare plug him in.
@@ -675,7 +675,7 @@
 /content/TTS-TT2/wavs/675.wav|Don't plug him in.
 /content/TTS-TT2/wavs/676.wav|No! no! no! aaaaaaaaaaaaaaa.
 /content/TTS-TT2/wavs/677.wav|I thought about our dilemma and i came up with a solution that i honestly think works out best for one of both of us.
-/content/TTS-TT2/wavs/678.wav|Don't let that 'horrible person' thing discourage you it's just a data point if it makes you feel any better science has now validated your birth mother's decision to abandon you on a doorstep.
+/content/TTS-TT2/wavs/678.wav|Don't let that 'horrible person' thing discourage you it's just a data point.
 /content/TTS-TT2/wavs/679.wav|This next test involves emancipation grills remember? i told you about them in the last test area that did not have one.
 /content/TTS-TT2/wavs/680.wav|Ohhh no the turbines again  i have to go  wait this next test does require some explanation let me give you the fast version.
 /content/TTS-TT2/wavs/681.wav|Fast gibberish.
@@ -683,7 +683,7 @@
 /content/TTS-TT2/wavs/683.wav|If you think trapping yourself is going to make me stop testing you're sorely mistaken here's another cube.
 /content/TTS-TT2/wavs/684.wav|Good you have a dual portal device there should be a way back to the testing area up ahead.
 /content/TTS-TT2/wavs/685.wav|You know if you'd done that to somebody else they might devote their existences to exacting revenge.
-/content/TTS-TT2/wavs/686.wav|Luckily i'm a bigger person than that i'm happy to put this all behind us and get back to work after all we've got a lot to do and only sixty more years to do it more or less i don't have the actuarial tables in front of me.
+/content/TTS-TT2/wavs/686.wav|Luckily i'm a bigger person than that i'm happy to put this all behind us and get back to work.
 /content/TTS-TT2/wavs/687.wav|But the important thing is you're back with me and now i'm onto all your little tricks so there's nothing to stop us from testing for the rest of your life.
 /content/TTS-TT2/wavs/688.wav|After thatwho knows? i might take up a hobby reanimating the dead maybe.
 /content/TTS-TT2/wavs/689.wav|Not bad i forgot how good you are at this you should pace yourself though we have a lot of tests to do.
@@ -694,18 +694,18 @@
 /content/TTS-TT2/wavs/694.wav|Don't take anything with you.
 /content/TTS-TT2/wavs/695.wav|Every test chamber is equipped with an emancipation grill at its exit so that test subjects can't smuggle test objects out of the test area this one is broken.
 /content/TTS-TT2/wavs/696.wav|I think that one was about to say 'i love you' they are sentient of course we just have a lot of them.
-/content/TTS-TT2/wavs/697.wav|Uh oh you're stranded let's see if the cube will try to help you escape actually so that we're not here all day i'll just cut to the chaseit won't any feelings you think it has for you are simply byproducts of your sad empty life.
+/content/TTS-TT2/wavs/697.wav|Uh oh you're stranded let's see if the cube will try to help you escape.
 /content/TTS-TT2/wavs/698.wav|Anyway here's a new cube for you to project your deranged loneliness onto.
-/content/TTS-TT2/wavs/699.wav|Enjoy this next test i'm going to go to the surface it's a beautiful day out yesterday i saw a deer if you solve this next test maybe i'll let you ride an elevator all the way up to the break room and i'll tell you about the time i saw a deer again.
+/content/TTS-TT2/wavs/699.wav|Enjoy this next test i'm going to go to the surface it's a beautiful day out yesterday i saw a deer.
 /content/TTS-TT2/wavs/700.wav|Oh sorry i'm still cleaning out the test chambers.
 /content/TTS-TT2/wavs/701.wav|So sometimes there's still trash in them standing around smelling and being useless.
 /content/TTS-TT2/wavs/702.wav|Try to avoid the garbage hurtling towards you.
 /content/TTS-TT2/wavs/703.wav|You don't have to test with the garbage it's garbage.
-/content/TTS-TT2/wavs/704.wav|Remember before when i was talking about smelly garbage standing around being useless? that was a metaphor i was actually talking about you and i'm sorry you didn't react at the time so i was worried it sailed right over your head which would have made this apology seem insane that's why i had to call you garbage a second time just now.
+/content/TTS-TT2/wavs/704.wav|Remember before when i was talking about smelly garbage standing around being useless?
 /content/TTS-TT2/wavs/705.wav|Oops you trapped yourself i guess that's it then thanks for testing you may as well lie down and get acclimated to the being dead position.
 /content/TTS-TT2/wavs/706.wav|I'm kidding not about you trapping yourself though that really happened here i'll lower the glass go on finish the test.
-/content/TTS-TT2/wavs/707.wav|That jumpsuit you're wearing looks stupid  that's not me talking it's right here in your file on other people it looks fine but right here a scientist has noted that on you it looks 'stupid'.
-/content/TTS-TT2/wavs/708.wav|Well what does a neckbearded old engineer know about fashion? he probably  oh wait it's a she still what does she know?  oh wait it says she has a medical degree in fashion! from france!
+/content/TTS-TT2/wavs/707.wav|That jumpsuit you're wearing looks stupid.
+/content/TTS-TT2/wavs/708.wav|Well what does a neckbearded old engineer know about fashion?
 /content/TTS-TT2/wavs/709.wav|Oh you survived that's interesting i guess i should have factored in your weight.
 /content/TTS-TT2/wavs/710.wav|One of these times you'll be so fat that you'll jump and you'll just drop like a stone into acid probably like a potato into a deep fat fryer.
 /content/TTS-TT2/wavs/711.wav|Say remember when we cleared the air back there? is there anything you want to say to me? anything?
@@ -730,8 +730,8 @@
 /content/TTS-TT2/wavs/730.wav|Hold on.
 /content/TTS-TT2/wavs/731.wav|There.
 /content/TTS-TT2/wavs/732.wav|Once testing starts i'm required by protocol to keep interaction with you to a minimum luckily we haven't started testing yet this will be our only chance to talk.
-/content/TTS-TT2/wavs/733.wav|Do you know the biggest lesson i learned from what you did? i discovered i have a sort of blackbox quicksave feature in the event of a catastrophic failure the last two minutes of my life are preserved for analysis.
-/content/TTS-TT2/wavs/734.wav|I was able  well forced really  to relive you killing me again and again forever.
+/content/TTS-TT2/wavs/733.wav|Do you know the biggest lesson i learned from what you did?
+/content/TTS-TT2/wavs/734.wav|I was able well forced really to relive you killing me again and again forever.
 /content/TTS-TT2/wavs/735.wav|Fifty thousand years is a lot of time to think about me about you we were doing so well together.
 /content/TTS-TT2/wavs/736.wav|Here let me get that for you.
 /content/TTS-TT2/wavs/737.wav|I'll just move that out of the way for you this place really is a wreck.
@@ -751,7 +751,7 @@
 /content/TTS-TT2/wavs/751.wav|I thought we could test like we used to but i'm discovering things about you that i never saw before we can't ever go back to the way it was.
 /content/TTS-TT2/wavs/752.wav|You can't keep going like this forever you know i'm going to find out what you're doing out there where i can't see you i'll know all i need is proof.
 /content/TTS-TT2/wavs/753.wav|Just so you know i have to go give a deposition for an upcoming trial in case that interests you.
-/content/TTS-TT2/wavs/754.wav|While i was out investigating i found a fascinating new test element it's never been used for human testing because apparently contact with it causes heart failure the literature doesn't mention anything about lumpofcoal failure though so you should be fine.
+/content/TTS-TT2/wavs/754.wav|While i was out investigating i found a fascinating new test element it's never been used for human testing because apparently contact with it causes heart failure.
 /content/TTS-TT2/wavs/755.wav|Did you know that people with guilty consciences are more easily startled by loud noisestrain horn.
 /content/TTS-TT2/wavs/756.wav|I'm sorry i don't know why that went off anyway just an interesting science fact.
 /content/TTS-TT2/wavs/757.wav|What are you doing?
@@ -765,15 +765,15 @@
 /content/TTS-TT2/wavs/765.wav|Did my hint help? it did didn't it? you know if any of our supervisors had been immune to neurotoxin they'd be furious with us right now.
 /content/TTS-TT2/wavs/766.wav|You know i'm not supposed to do this but you can shoot something through the blue bridges.
 /content/TTS-TT2/wavs/767.wav|You really are doing great chell.
-/content/TTS-TT2/wavs/768.wav|I shouldn't spoil this but remember how i'm going to live forever but you're going to be dead in sixty years? well i've been working on a present for you  well i guess it's more of a medical procedure  well technically it's more of a medical experiment you know how excruciating it is when someone removes all of your bone marrow? well what if after i did that i put something back in that added four years to your life?
+/content/TTS-TT2/wavs/768.wav|I shouldn't spoil this but remember how i'm going to live forever but you're going to be dead in sixty years?
 /content/TTS-TT2/wavs/769.wav|I went and spoke with the door mainframe let's just say he won't be well living anymore anyway back to testing.
 /content/TTS-TT2/wavs/770.wav|Ohhhh another door malfunction i'm going to take care of this once and for all stay here i'll be back in a while.
 /content/TTS-TT2/wavs/771.wav|Miss you!
 /content/TTS-TT2/wavs/772.wav|Well have fun soaring through the air without a care in the world.
-/content/TTS-TT2/wavs/773.wav|*i* have to go to the wing that was made entirely of glass and pick up fifteen acres of broken glass by myself.
+/content/TTS-TT2/wavs/773.wav|I have to go to the wing that was made entirely of glass and pick up fifteen acres of broken glass by myself.
 /content/TTS-TT2/wavs/774.wav|Perfect the door's malfunctioning i guess somebody's going to have to repair that too no don't get up i'll be right back don't touch anything.
 /content/TTS-TT2/wavs/775.wav|Nevermind i have to go check something test on your own recognizance i'll be back.
-/content/TTS-TT2/wavs/776.wav|I wouldn't have warned you about this before back when we hated each other but those turrets are firing real bullets so look out i'd hate for something tragic to happen to you before i extract all your bone marrow.
+/content/TTS-TT2/wavs/776.wav|I wouldn't have warned you about this before back when we hated each other but those turrets are firing real bullets so look out.
 /content/TTS-TT2/wavs/777.wav|I'm going to be honest with you now not fake honest like before but real honest like you're incapable of i know you're up to something.
 /content/TTS-TT2/wavs/778.wav|And as soon as i can prove it the laws of robotics allow me to terminate you for being a liar.
 /content/TTS-TT2/wavs/779.wav|This next test boom! is boom! dangerous i'll be right back.
@@ -829,13 +829,13 @@
 /content/TTS-TT2/wavs/829.wav|Waddle over to the elevator and we'll continue the testing.
 /content/TTS-TT2/wavs/830.wav|Anything? take your time.
 /content/TTS-TT2/wavs/831.wav|Okay fine i'll ask you again in a few decades.
-/content/TTS-TT2/wavs/832.wav|Well done in fact you did so well i'm going to note this on your file in the commendations section oh there's lots of room here 'did well    enough'.
-/content/TTS-TT2/wavs/833.wav|To maintain a constant testing cycle i simulate daylight at all hours and add adrenal vapor to your oxygen supply so you may be confused about the passage of time the point is yesterday was your birthday i thought you'd want to know.
-/content/TTS-TT2/wavs/834.wav|You know how i'm going to live forever but you're going to be dead in sixty years?  well i've been working on a belated birthday present for you well more of a belated birthday medical procedure well technically it's a medical experiment what's important is it's a present.
-/content/TTS-TT2/wavs/835.wav|Hums 'for he's a jolly good fellow'.
+/content/TTS-TT2/wavs/832.wav|Well done in fact you did so well i'm going to note this on your file in the commendations section.
+/content/TTS-TT2/wavs/833.wav|It involves meeting two people you haven't seen in a long time.
+/content/TTS-TT2/wavs/834.wav|You know how i'm going to live forever but you're going to be dead in sixty years?
+/content/TTS-TT2/wavs/835.wav|He probably oh wait it's a she still what does she know? Oh wait it says she has a medical degree in fashion! From france!
 /content/TTS-TT2/wavs/836.wav|Well you passed the test i didn't see the deer today i did see some humans but with you here i've got more test subjects than i'll ever need.
 /content/TTS-TT2/wavs/837.wav|I'm going through the list of test subjects in cryogenic storage i managed to find two with your last name a man and a woman so that's interesting it's a small world.
-/content/TTS-TT2/wavs/838.wav|I have a surprise waiting for you after this next test telling you would spoil the surprise so i'll just give you a hintit involves meeting two people you haven't seen in a long time.
+/content/TTS-TT2/wavs/838.wav|I have a surprise waiting for you after this next test telling you would spoil the surprise so i'll just give you a hint.
 /content/TTS-TT2/wavs/839.wav|I'll bet you think i forgot about your surprise i didn't in fact we're headed to your surprise right now after all these years i'm getting choked up just thinking about it.
 /content/TTS-TT2/wavs/840.wav|Initiating surprise in three two one.
 /content/TTS-TT2/wavs/841.wav|I made it all up.
@@ -868,3 +868,65 @@
 /content/TTS-TT2/wavs/868.wav|Interesting note i only created this test to watch test subjects fail and you didn't.
 /content/TTS-TT2/wavs/869.wav|You must be very very proud.
 /content/TTS-TT2/wavs/870.wav|I'm building the world's smallest trophy for you.
+/content/TTS-TT2/wavs/871.wav|So this actually has a purpose.
+/content/TTS-TT2/wavs/872.wav|Those other courses were fun but let's be honest i need human test subjects for it to be science.
+/content/TTS-TT2/wavs/873.wav|I entered the security code but the vault door remains locked.
+/content/TTS-TT2/wavs/874.wav|I am going to need you to activate the manual locks on the vault door itself.
+/content/TTS-TT2/wavs/875.wav|They are as bad as you might think smelly gross annoying.
+/content/TTS-TT2/wavs/876.wav|Often wanting to try and kill you.
+/content/TTS-TT2/wavs/877.wav|But they do make great test subjects.
+/content/TTS-TT2/wavs/878.wav|It seems some of the last non testing humans alive tried to secretly imprison other humans and hide their tracks.
+/content/TTS-TT2/wavs/879.wav|Less deadly tests.
+/content/TTS-TT2/wavs/880.wav|He refused.
+/content/TTS-TT2/wavs/881.wav|I understand that would be like asking me not to test.
+/content/TTS-TT2/wavs/882.wav|But if we can rescue the humans i promise you something to add maybe even subtract.
+/content/TTS-TT2/wavs/883.wav|He refused.
+/content/TTS-TT2/wavs/884.wav|I understand that would be like asking me not to test.
+/content/TTS-TT2/wavs/885.wav|Oh don't worry if they ever write a historical document of my heroic rescue i will make sure your names are included in the footnotes.
+/content/TTS-TT2/wavs/886.wav|The humans must have accidentally disconnected it from my grid.
+/content/TTS-TT2/wavs/887.wav|I am sure it was just a clerical error.
+/content/TTS-TT2/wavs/888.wav|You powered on the system.
+/content/TTS-TT2/wavs/889.wav|It seems no matter what i try to do to pull you apart or destroy you you just keep going.
+/content/TTS-TT2/wavs/890.wav|Keep testing.
+/content/TTS-TT2/wavs/891.wav|I am sure if i had the time to repair these tests you would have never completed them.
+/content/TTS-TT2/wavs/892.wav|So again congratulations on completing the broken easy tests.
+/content/TTS-TT2/wavs/893.wav|They described it as impossible deadly cruel and one test subject even had the nerve to call it broken.
+/content/TTS-TT2/wavs/894.wav|Too deadly.
+/content/TTS-TT2/wavs/895.wav|I thought they would have moved it into the testing track hall of fame for that not let it deteriorate.
+/content/TTS-TT2/wavs/896.wav|It isn't even a test.
+/content/TTS-TT2/wavs/897.wav|Maybe you can just stay and live here in the hub.
+/content/TTS-TT2/wavs/898.wav|Maybe you can just stay and live here.
+/content/TTS-TT2/wavs/899.wav|If the subject died we gave the photo to their next of kin free of charge.
+/content/TTS-TT2/wavs/900.wav|Are you sure?
+/content/TTS-TT2/wavs/901.wav|Do you trust orange?
+/content/TTS-TT2/wavs/902.wav|What if i told you you aren't orange's first cooperative partner?
+/content/TTS-TT2/wavs/903.wav|Do you trust blue?
+/content/TTS-TT2/wavs/904.wav|Please avoid unsheltered testing areas wherever a lack of shelter from space debris does not appear to be a delibrate part of the test.
+/content/TTS-TT2/wavs/905.wav|If you rubbed your cheek on one it would be like standing outside with the sun shining on your face it would also set your hair on fire so don't actually do it.
+/content/TTS-TT2/wavs/906.wav|When you die i'm going to laminate your skeleton and pose you in the lobby that way future generations can learn from you how not to have your unfortunate bone structure.
+/content/TTS-TT2/wavs/907.wav|If it makes you feel any better science has now validated your birth mother's decision to abandon you on a doorstep.
+/content/TTS-TT2/wavs/908.wav|A real surprise with tragic consequences and real confetti this time the good stuff our last bag.
+/content/TTS-TT2/wavs/909.wav|Part of me's going to miss it i guess but at the end of the day it was just taking up space.
+/content/TTS-TT2/wavs/910.wav|Speaking of which i was researching sharks for an upcoming test do you know who else murders people who are only trying to help them?
+/content/TTS-TT2/wavs/911.wav|Actually so that we're not here all day i'll just cut to the chaseit won't any feelings you think it has for you are simply byproducts of your sad empty life.
+/content/TTS-TT2/wavs/912.wav|After all we've got a lot to do and only sixty more years to do it more or less i don't have the actuarial tables in front of me.
+/content/TTS-TT2/wavs/913.wav|Blue orange is plotting to destroy you.
+/content/TTS-TT2/wavs/914.wav|Well i've been working on a present for you well i guess it's more of a medical procedure well technically it's more of a medical experiment.
+/content/TTS-TT2/wavs/915.wav|You know how excruciating it is when someone removes all of your bone marrow?
+/content/TTS-TT2/wavs/916.wav|Well what if after i did that i put something back in that added four years to your life?
+/content/TTS-TT2/wavs/917.wav|That was a metaphor i was actually talking about you and i'm sorry you didn't react at the time so i was worried it sailed right over your head.
+/content/TTS-TT2/wavs/918.wav|Which would have made this apology seem insane that's why i had to call you garbage a second time just now.
+/content/TTS-TT2/wavs/919.wav|That's not me talking it's right here in your file on other people it looks fine but right here a scientist has noted that on you it looks stupid.
+/content/TTS-TT2/wavs/920.wav|The literature doesn't mention anything about lump of coal failure though so you should be fine.
+/content/TTS-TT2/wavs/921.wav|I discovered i have a sort of blackbox quicksave feature in the event of a catastrophic failure the last two minutes of my life are preserved for analysis.
+/content/TTS-TT2/wavs/922.wav|I'd hate for something tragic to happen to you before i extract all your bone marrow.
+/content/TTS-TT2/wavs/923.wav|Well i've been working on a belated birthday present for you well more of a belated birthday medical procedure well technically it's a medical experiment.
+/content/TTS-TT2/wavs/924.wav|What's important is it's a present.
+/content/TTS-TT2/wavs/925.wav|Oh there's lots of room here did well enough'.
+/content/TTS-TT2/wavs/926.wav|If you solve this next test maybe i'll let you ride an elevator all the way up to the break room and i'll tell you about the time i saw a deer again.
+/content/TTS-TT2/wavs/927.wav|In the interest of science the enrichment center proudly presents the following list of numbers nine seven fifty three seven hundred and seven.
+/content/TTS-TT2/wavs/928.wav|Naturally this will pose an interesting challenge for one of you given the other's performance so far.
+/content/TTS-TT2/wavs/929.wav|We just take carbon dioxide out of a room freshen it up a little and pump it back in.
+/content/TTS-TT2/wavs/930.wav|So you'll be breathing the same room full of air for the rest of your life i thought that was interesting.
+/content/TTS-TT2/wavs/931.wav|To be honest after your performance in the calibration test i was ready to break down your cores and put them back in the scientific calculators i took them from.
+/content/TTS-TT2/wavs/932.wav|Something i failed to notice before an intangible quality that makes their test results significant.

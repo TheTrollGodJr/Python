@@ -1,0 +1,102 @@
+がっこう, かわ, て, と, めがね, たばこ, あか, しごと, えいご, もんだい, へや, こども, じかん, あめ, せんせい, とし, てがみ, でんわ, みず, びょうき, あげる, けっこん, ことば, め, はしる, なまえ, りょこう, みち, ひこうき, えいが, おんがく, き, だいがく, とけい, かぞく, はな, ねこ, まいにち, しゅくだい, ゆき, やま, まど, どうぶつ, よる, りょうり, なつ, しんぶん, こうえん, いみ, じてんしゃ, あし, でんしゃ, さんぽ, こえ, あさ, うた, くつ, はこ, つくえ, ぼうし, うみ, じゅぎょう, ぎんこう, しゃしん, ふゆ, むら, かさ, くち, はし, びょういん, としょかん, はる, かいもの, いす, じどうしゃ, いろ, たまご, にく, かぜ, そうじ, かみ, かぎ, ざっし, きっぷ, がいこくじん, さいふ, えんぴつ, おとな, ちず, しお, なつやすみ, さとう, いけ, ゆうびんきょく, きょうしつ, みみ, だいどころ, きって, でんき, は, 
+
+00|学校|がっこう|gakkou|school|
+00|川|かわ|kawa|river,stream|
+00|手|て|te|hand,arm|
+00|戸|と|to|door (esp. Japanese-style)|
+00|眼鏡|めがね|megane|glasses,eyeglasses,spectacles|
+00|煙草|たばこ|tabako|tobacco,cigarette,cigaret,cigar|
+00|赤|あか|aka|red,crimson,scarlet|
+00|仕事|しごと|shigoto|work,job,labor,labour,business,task,assignment,occupation,employment|
+00|英語|えいご|eigo|English (language)|
+00|問題|もんだい|mondai|question (e.g. on a test),problem|
+00|部屋|へや|heya|room,chamber|
+00|子供|こども|kodomo|child,children|
+00|時間|じかん|jikan|time|
+00|雨|あめ|ame|rain|
+00|先生|せんせい|sensei|teacher,instructor,master|
+00|年|とし|toshi|year|
+00|手紙|てがみ|tegami|letter,missive,note,mail|
+00|電話|でんわ|denwa|telephone call,phone call|
+00|水|みず|mizu|water (esp. cool, fresh water, e.g. drinking water)|
+00|病気|びょうき|byouki|illness (usu. excluding minor ailments, e.g. common cold),disease,sickness|
+00|上げる|あげる|ageru|to raise,to elevate|
+00|結婚|けっこん|kekkon|marriage|
+00|言葉|ことば|kotoba|language,dialect|
+00|目|め|me|eye,eyeball|
+00|走る|はしる|hashiru|to run|
+00|名前|なまえ|namae|name|
+00|旅行|りょこう|ryokou|travel,trip,journey,excursion,tour|
+00|道|みち|michi|road,path,street,lane,passage|
+00|飛行機|ひこうき|hikouki|airplane,aeroplane,plane,aircraft|
+00|映画|えいが|eiga|movie,film,motion picture|
+00|音楽|おんがく|ongaku|music|
+00|木|き|ki|tree,shrub,bush|
+00|大学|だいがく|daigaku|university,college|
+00|時計|とけい|tokei|clock,watch,timepiece|
+00|家族|かぞく|kazoku|family|
+00|花|はな|hana|flower,blossom,bloom,petal|
+00|猫|ねこ|neko|cat (esp. the domestic cat, Felis catus)|
+00|毎日|まいにち|mainichi|every day|
+00|宿題|しゅくだい|shyukudai|homework,assignment|
+00|雪|ゆき|yuki|snow,snowfall|
+00|山|やま|yama|mountain,hill|
+00|窓|まど|mado|window|
+00|動物|どうぶつ|doubutsu|animal|
+00|夜|よる|yoru|evening,night|
+00|料理|りょうり|ryouri|cooking,cookery,cuisine,meal,food,dish,item on a menu|
+00|夏|なつ|natsu|summer|
+00|新聞|しんぶん|shinbun|newspaper|
+00|公園|こうえん|kouen|(public) park|
+00|意味|いみ|imi|meaning,significance,sense|
+00|自転車|じてんしゃ|jitenshya|bicycle,bike|
+00|足|あし|ashi|foot,paw,arm (of an octopus, squid, etc.)|
+00|電車|でんしゃ|denshya|train,electric train|
+00|散歩|さんぽ|sanpo|walk,stroll|
+00|声|こえ|koe|voice|
+00|朝|あさ|asa|morning|
+00|歌|うた|uta|song,singing|
+00|靴|くつ|kutsu|shoe,shoes,boots,footwear,footgear|
+00|箱|はこ|hako|box,case,chest,package,pack,crate|
+00|机|つくえ|tsukue|desk|
+00|帽子|ぼうし|boushi|hat,cap|
+00|海|うみ|umi|sea,ocean,waters|
+00|授業|じゅぎょう|jyugyou|lesson,class,teaching,instruction,classwork,schoolwork|
+00|銀行|ぎんこう|ginkou|bank,banking institution|
+00|写真|しゃしん|shyashin|photograph,photo,picture,snapshot,snap|
+00|冬|ふゆ|fuyu|winter|
+00|村|むら|mura|village|
+00|傘|かさ|kasa|umbrella,parasol|
+00|口|くち|kuchi|mouth|
+00|橋|はし|hashi|bridge|
+00|病院|びょういん|byouin|hospital,clinic,doctor's office,doctor's surgery,infirmary|
+00|図書館|としょかん|toshyokan|library|
+00|春|はる|haru|spring,springtime|
+00|買い物|かいもの|kaimono|shopping,purchased goods|
+00|椅子|いす|isu|chair,stool|
+00|自動車|じどうしゃ|jidoushya|car,automobile,motorcar,motor vehicle,auto|
+00|色|いろ|iro|colour,color,hue,tint,tinge,shade|
+00|卵|たまご|tamago|eggs,egg,spawn,roe|
+00|肉|にく|niku|flesh|
+00|風邪|かぜ|kaze|(common) cold,influenza,flu,ague,inflammatory respiratory system illness (in general)|
+00|掃除|そうじ|souji|cleaning,sweeping,dusting,scrubbing|
+00|紙|かみ|kami|paper|
+00|鍵|かぎ|kagi|key|
+00|雑誌|ざっし|zasshi|journal,magazine,periodical|
+00|切符|きっぷ|kippu|ticket|
+00|外国人|がいこくじん|gaikokujin|foreigner,foreign citizen,foreign national,alien,non-Japanese|
+00|財布|さいふ|saifu|wallet,purse,coin purse,billfold,pocketbook|
+00|鉛筆|えんぴつ|enpitsu|pencil|
+00|大人|おとな|otona|adult,grown-up|
+00|地図|ちず|chizu|map,atlas,chart,plan|
+00|塩|しお|shio|salt,common salt,table salt,sodium chloride|
+00|夏休み|なつやすみ|natsuyasumi|summer vacation,summer holiday|
+00|砂糖|さとう|satou|sugar|
+00|池|いけ|ike|pond|
+00|郵便局|ゆうびんきょく|yuubinkyoku|post office|
+00|教室|きょうしつ|kyoushitsu|classroom,lecture room|
+00|耳|みみ|mimi|ear|
+00|台所|だいどころ|daidokoro|kitchen|
+00|切手|きって|kitte|stamp (postage),merchandise certificate|
+00|電気|でんき|denki|electricity|
+00|歯|は|ha|tooth,teeth|

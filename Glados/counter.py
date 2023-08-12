@@ -1,10 +1,15 @@
-count = 1
+string = ""
+f = open("C:/Users/thetr/Documents/Python/Glados/output.txt", "r")
 while True:
-    print(count)
-    inp = input("")
-    if inp != "":
-        count += int(inp)
-    elif inp == "exit":
+    try:
+        line = f.readline().split("|")
+        prefix = str(line[0].split("/")[3]) + "/" + str(line[0].split("/")[4])
+        line = prefix + "|" + str(line[1])
+        string = f"{string}{line}"
+    except:
         break
-    else:
-        count += 1
+f.close()
+
+f = open("C:/Users/thetr/Documents/Glados/list.txt", "w")
+f.write(string)
+f.close()
