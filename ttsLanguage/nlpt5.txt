@@ -1,0 +1,616 @@
+00|学校|がっこう|gakkou|school|
+00|川|かわ|kawa|river,stream|
+00|手|て|te|hand,arm|
+00|戸|と|to|door|
+00|眼鏡|めがね|megane|glasses,eyeglasses,spectacles|
+00|煙草|たばこ|tabako|tobacco,cigarette,cigaret,cigar|
+00|赤|あか|aka|red,crimson,scarlet|
+00|仕事|しごと|shigoto|work,job,labor,labour,business,task,assignment,occupation,employment|
+00|英語|えいご|eigo|English|
+00|問題|もんだい|mondai|question,problem|
+00|部屋|へや|heya|room,chamber|
+00|子供|こども|kodomo|child,children|
+00|時間|じかん|jikan|time|
+00|雨|あめ|ame|rain|
+00|先生|せんせい|sensei|teacher,instructor,master|
+00|年|とし|toshi|year|
+00|手紙|てがみ|tegami|letter,missive,note,mail|
+00|電話|でんわ|denwa|telephone call,phone call|
+00|水|みず|mizu|water|
+00|病気|びょうき|byouki|illness,disease,sickness|
+00|上げる|あげる|ageru|to raise,to elevate|
+00|結婚|けっこん|kekkon|marriage|
+00|言葉|ことば|kotoba|language,dialect|
+00|目|め|me|eye,eyeball|
+00|走る|はしる|hashiru|to run|
+00|名前|なまえ|namae|name|
+00|旅行|りょこう|ryokou|travel,trip,journey,excursion,tour|
+00|道|みち|michi|road,path,street,lane,passage|
+00|飛行機|ひこうき|hikouki|airplane,aeroplane,plane,aircraft|
+00|映画|えいが|eiga|movie,film,motion picture|
+00|音楽|おんがく|ongaku|music|
+00|木|き|ki|tree,shrub,bush|
+00|大学|だいがく|daigaku|university,college|
+00|時計|とけい|tokei|clock,watch,timepiece|
+00|家族|かぞく|kazoku|family|
+00|花|はな|hana|flower,blossom,bloom,petal|
+00|猫|ねこ|neko|cat|
+00|毎日|まいにち|mainichi|every day|
+00|宿題|しゅくだい|shyukudai|homework,assignment|
+00|雪|ゆき|yuki|snow,snowfall|
+00|山|やま|yama|mountain,hill|
+00|窓|まど|mado|window|
+00|動物|どうぶつ|doubutsu|animal|
+00|夜|よる|yoru|evening,night|
+00|料理|りょうり|ryouri|cooking,cookery,cuisine,meal,food,dish,item on a menu|
+00|夏|なつ|natsu|summer|
+00|新聞|しんぶん|shinbun|newspaper|
+00|公園|こうえん|kouen|park|
+00|意味|いみ|imi|meaning,significance,sense|
+00|自転車|じてんしゃ|jitenshya|bicycle,bike|
+00|足|あし|ashi|foot,paw,arm|
+00|電車|でんしゃ|denshya|train,electric train|
+00|散歩|さんぽ|sanpo|walk,stroll|
+00|声|こえ|koe|voice|
+00|朝|あさ|asa|morning|
+00|歌|うた|uta|song,singing|
+00|靴|くつ|kutsu|shoe,shoes,boots,footwear,footgear|
+00|箱|はこ|hako|box,case,chest,package,pack,crate|
+00|机|つくえ|tsukue|desk|
+00|帽子|ぼうし|boushi|hat,cap|
+00|海|うみ|umi|sea,ocean,waters|
+00|授業|じゅぎょう|jyugyou|lesson,class,teaching,instruction,classwork,schoolwork|
+00|銀行|ぎんこう|ginkou|bank,banking institution|
+00|写真|しゃしん|shyashin|photograph,photo,picture,snapshot,snap|
+00|冬|ふゆ|fuyu|winter|
+00|村|むら|mura|village|
+00|傘|かさ|kasa|umbrella,parasol|
+00|口|くち|kuchi|mouth|
+00|橋|はし|hashi|bridge|
+00|病院|びょういん|byouin|hospital,clinic,doctor's office,doctor's surgery,infirmary|
+00|図書館|としょかん|toshyokan|library|
+00|春|はる|haru|spring,springtime|
+00|買い物|かいもの|kaimono|shopping,purchased goods|
+00|椅子|いす|isu|chair,stool|
+00|自動車|じどうしゃ|jidoushya|car,automobile,motorcar,motor vehicle,auto|
+00|色|いろ|iro|colour,color,hue,tint,tinge,shade|
+00|卵|たまご|tamago|eggs,egg,spawn,roe|
+00|肉|にく|niku|flesh|
+00|風邪|かぜ|kaze|cold,influenza,flu,ague,inflammatory respiratory system illness|
+00|掃除|そうじ|souji|cleaning,sweeping,dusting,scrubbing|
+00|紙|かみ|kami|paper|
+00|鍵|かぎ|kagi|key|
+00|雑誌|ざっし|zasshi|journal,magazine,periodical|
+00|切符|きっぷ|kippu|ticket|
+00|外国人|がいこくじん|gaikokujin|foreigner,foreign citizen,foreign national,alien,non-Japanese|
+00|財布|さいふ|saifu|wallet,purse,coin purse,billfold,pocketbook|
+00|鉛筆|えんぴつ|enpitsu|pencil|
+00|大人|おとな|otona|adult,grown-up|
+00|地図|ちず|chizu|map,atlas,chart,plan|
+00|塩|しお|shio|salt,common salt,table salt,sodium chloride|
+00|夏休み|なつやすみ|natsuyasumi|summer vacation,summer holiday|
+00|砂糖|さとう|satou|sugar|
+00|池|いけ|ike|pond|
+00|郵便局|ゆうびんきょく|yuubinkyoku|post office|
+00|教室|きょうしつ|kyoushitsu|classroom,lecture room|
+00|耳|みみ|mimi|ear|
+00|台所|だいどころ|daidokoro|kitchen|
+00|切手|きって|kitte|stamp,merchandise certificate|
+00|電気|でんき|denki|electricity|
+00|歯|は|ha|tooth,teeth|
+00|作文|さくぶん|sakubun|writing,composition|
+00|紅茶|こうちゃ|kouchya|black tea|
+00|家庭|かてい|katei|home,household,family,hearth|
+00|野菜|やさい|yasai|vegetable|
+00|風呂|ふろ|furo|bath,bathing,bathtub,bathroom|
+00|玄関|げんかん|genkan|entrance,front door,entryway,entranceway,entry hall,vestibule,porch,foyer,mud room|
+00|地下鉄|ちかてつ|chikatetsu|subway,metro,underground railway|
+00|鼻|はな|hana|nose|
+00|緑|みどり|midori|green|
+00|昼|ひる|hiru|noon,midday|
+00|西|にし|nishi|west|
+00|白|しろ|shiro|white|
+00|洗濯|せんたく|sentaku|washing,laundry|
+00|冷蔵庫|れいぞうこ|reizouko|refrigerator,fridge|
+00|南|みなみ|minami|south|
+00|火曜日|かようび|kayoubi|Tuesday|
+00|北|きた|kita|north|
+00|茶色|ちゃいろ|chyairo|brown,light brown,tawny|
+00|黒|くろ|kuro|black|
+00|喫茶店|きっさてん|kissaten|coffee shop,tearoom,coffee lounge,coffeehouse,cafe|
+00|青|あお|ao|blue,azure|
+00|靴下|くつした|kutsushita|socks,sock,stockings,stocking|
+00|封筒|ふうとう|fuutou|envelope|
+00|辺|へん|hen|area,vicinity,region|
+00|黄色|きいろ|kiiro|yellow,amber|
+00|映画館|えいがかん|eigakan|movie theatre,movie theater,cinema|
+00|箸|はし|hashi|chopsticks|
+00|食堂|しょくどう|shyokudou|dining room,dining hall,cafeteria,canteen,messroom|
+00|牛肉|ぎゅうにく|gyuuniku|beef|
+00|交差点|こうさてん|kousaten|crossing,intersection|
+00|茶碗|ちゃわん|chyawan|rice bowl,tea cup,teacup|
+00|漢字|かんじ|kanji|kanji,Chinese character|
+00|曇り|くもり|kumori|cloudiness,cloudy weather|
+00|灰皿|はいざら|haizara|ashtray|
+00|万年筆|まんねんひつ|mannenhitsu|fountain pen|
+00|大使館|たいしかん|taishikan|embassy|
+00|豚肉|ぶたにく|butaniku|pork|
+00|交番|こうばん|kouban|police box,koban,small neighborhood police station|
+00|飲む|のむ|nomu|to drink,to gulp,to swallow,to take medicine|
+00|頭|あたま|atama|head|
+00|日曜日|にちようび|nichiyoubi|Sunday|
+00|誕生日|たんじょうび|tanjyoubi|birthday|
+00|鞄|かばん|kaban|bag,satchel,briefcase,basket|
+00|土曜日|どようび|doyoubi|Saturday|
+00|月曜日|げつようび|getsuyoubi|Monday|
+00|金曜日|きんようび|kinyoubi|Friday|
+00|花瓶|かびん|kabin|flower vase|
+00|本棚|ほんだな|hondana|bookshelves,bookshelf,bookcase|
+00|木曜日|もくようび|mokuyoubi|Thursday|
+00|石鹸|せっけん|sekken|soap|
+00|水曜日|すいようび|suiyoubi|Wednesday|
+00|飴|あめ|ame|candy,toffee|
+00|八百屋|やおや|yaoya|greengrocer,fruit and vegetable shop|
+00|成る|なる|naru|to become,to get,to grow,to turn,to reach,to attain|
+00|より|より|yori|than|
+00|一番|いちばん|ichiban|number one,first,first place|
+00|私|わたし|watashi|I,me|
+00|外|そと|soto|outside,exterior|
+00|姉|あね|ane|older sister,elder sister|
+00|百|ひゃく|hyaku|hundred,100|
+00|有る|ある|aru|to be,to exist,to live|
+00|其の|その|sono|that,the|
+00|言う|いう|iu|to say,to utter,to declare|
+00|出来る|できる|dekiru|to be able to do,to be up to the task|
+00|良い|よい|yoi|good,excellent,fine,nice,pleasant,agreeable|
+00|下さい|ください|kudasai|please give me|
+00|見る|みる|miru|to see,to look,to watch,to view,to observe|
+00|此の|この|kono|this|
+00|自分|じぶん|jibun|myself,yourself,oneself,himself,herself|
+00|知る|しる|shiru|to know,to be aware of,to be conscious of,to learn of,to find out,to discover|
+00|持つ|もつ|motsu|to hold,to take,to carry|
+00|何|なに|nani|what|
+00|車|くるま|kuruma|car,automobile,vehicle|
+00|話す|はなす|hanasu|to talk,to speak,to converse,to chat|
+00|今|いま|ima|now,the present time,just now,soon,immediately|
+00|今日|きょう|kyou|today,this day|
+00|買う|かう|kau|to buy,to purchase|
+00|読む|よむ|yomu|to read|
+00|皆|みんな|minna|everyone,everybody,all|
+00|新しい|あたらしい|atarashii|new,novel,fresh,recent,latest,up-to-date,modern|
+00|話|はなし|hanashi|talk,speech,chat,conversation|
+00|明日|あした|ashita|tomorrow|
+00|昨日|きのう|kinou|yesterday|
+00|出る|でる|deru|to leave,to exit,to go out,to come out,to get out|
+00|勉強|べんきょう|benkyou|study|
+00|取る|とる|toru|to take,to pick up,to grab,to catch|
+00|誰|だれ|dare|who|
+00|お金|おかね|okane|money|
+00|男|おとこ|otoko|man,male|
+00|犬|いぬ|inu|dog|
+00|使う|つかう|tsukau|to use,to make use of,to put to use|
+00|大変|たいへん|taihen|very,greatly,terribly,awfully|
+00|待つ|まつ|matsu|to wait|
+00|作る|つくる|tsukuru|to make,to produce,to manufacture,to build,to construct|
+00|後ろ|うしろ|ushiro|back,behind,rear|
+00|町|まち|machi|town,block,neighbourhood,neighborhood|
+00|駅|えき|eki|railway station,train station|
+00|少し|すこし|sukoshi|a little,a bit,a small amount,a few,some,slightly,somewhat|
+00|貴方|あなた|anata|you|
+00|欲しい|ほしい|hoshii|wanting,desiring,wishing for|
+00|行く|いく|iku|to go,to move towards,to head towards,to leave for|
+00|乗る|のる|noru|to get on,to get in,to board,to take,to embark|
+00|大きな|おおきな|ookina|big,large,great|
+00|医者|いしゃ|ishya|doctor,physician|
+00|終わる|おわる|owaru|to end,to come to an end,to close,to finish|
+00|学生|がくせい|gakusei|student|
+00|長い|ながい|nagai|long|
+00|何の|どの|dono|which,what|
+00|国|くに|kuni|country,state|
+00|又|また|mata|again,once more,once again,another time,some other time|
+00|高い|たかい|takai|high,tall|
+00|余り|あまり|amari|remainder,remnant,rest,balance,surplus,remains,leftovers|
+00|難しい|むずかしい|muzukashii|difficult,hard,troublesome,complicated,serious|
+00|友達|ともだち|tomodachi|friend,companion|
+00|本当|ほんとう|hontou|truth,reality,actuality,fact|
+00|一つ|ひとつ|hitotsu|one|
+00|寝る|ねる|neru|to sleep|
+00|生徒|せいと|seito|pupil,student,schoolchild|
+00|忙しい|いそがしい|isogashii|busy,occupied,hectic|
+00|両親|りょうしん|ryoushin|parents,both parents|
+00|泳ぐ|およぐ|oyogu|to swim|
+00|出す|だす|dasu|to take out,to get out|
+00|立つ|たつ|tatsu|to stand,to rise,to get to one's feet,to stand on end,to stick up|
+00|早い|はやい|hayai|fast,quick,rapid,swift,speedy,brisk,prompt|
+00|楽しい|たのしい|tanoshii|enjoyable,fun,pleasant,happy,delightful|
+00|面白い|おもしろい|omoshiroi|interesting,fascinating,intriguing,enthralling|
+00|絵|え|e|picture,drawing,painting,sketch|
+00|女の子|おんなのこ|onnanoko|girl,daughter,baby girl|
+00|着る|きる|kiru|to wear,to put on|
+00|上手|じょうず|jyouzu|skillful,skilled,proficient,good at,adept,clever|
+00|古い|ふるい|furui|old,aged,ancient,antiquated,antique,timeworn|
+00|強い|つよい|tsuyoi|strong,potent,competent,domineering,tough|
+00|全部|ぜんぶ|zenbu|all,entire,whole,altogether|
+00|呼ぶ|よぶ|yobu|to call out,to call,to invoke|
+00|午後|ごご|gogo|afternoon,p.m.|
+00|掛ける|かける|kakeru|to hang up,to let hang,to suspend,to hoist,to raise|
+00|辞書|じしょ|jishyo|dictionary,lexicon|
+00|天気|てんき|tenki|weather|
+00|体|からだ|karada|body|
+00|大きい|おおきい|ookii|big,large,great|
+00|質問|しつもん|shitsumon|question,inquiry,enquiry|
+00|夕べ|ゆうべ|yuube|evening|
+00|有名|ゆうめい|yuumei|famous|
+00|兄|あに|ani|older brother,elder brother|
+00|歌う|うたう|utau|to sing|
+00|上る|のぼる|noboru|to ascend,to go up,to climb|
+00|服|ふく|fuku|clothes|
+00|鳥|とり|tori|bird|
+00|時々|ときどき|tokidoki|sometimes,occasionally,at times,from time to time,now and then,once in a while,at intervals|
+00|妹|いもうと|imouto|younger sister|
+00|二つ|ふたつ|futatsu|two|
+00|頼む|たのむ|tanomu|to request,to beg,to ask|
+00|今朝|けさ|kesa|this morning|
+00|お父さん|おとうさん|otousan|father,dad,papa,pa,pop,daddy,dada|
+00|遅い|おそい|osoi|slow,time-consuming,sluggish|
+00|薬|くすり|kusuri|medicine,pharmaceuticals,drugs,pill,ointment,salve|
+00|借りる|かりる|kariru|to borrow,to have a loan|
+00|庭|にわ|niwa|garden,yard,courtyard|
+00|外国|がいこく|gaikoku|foreign country|
+00|元気|げんき|genki|lively,full of spirit,energetic,vigorous,vital,spirited|
+00|小さい|ちいさい|chiisai|small,little,tiny|
+00|弟|おとうと|otouto|younger brother,little brother,kid brother|
+00|今年|ことし|kotoshi|this year|
+00|魚|さかな|sakana|fish|
+00|お母さん|おかあさん|okaasan|mother,mom,mum,ma|
+00|男の子|おとこのこ|otokonoko|boy,son,baby boy|
+00|飛ぶ|とぶ|tobu|to fly,to soar|
+00|売る|うる|uru|to sell|
+00|静か|しずか|shizuka|quiet,silent|
+00|休む|やすむ|yasumu|to be absent,to take a day off|
+00|食べ物|たべもの|tabemono|food|
+00|大切|たいせつ|taisetsu|important,significant,serious,crucial|
+00|警官|けいかん|keikan|police officer,policeman,constable|
+00|来週|らいしゅう|raishyuu|next week|
+00|建物|たてもの|tatemono|building|
+00|暖かい|あたたかい|atatakai|warm,mild,hot|
+00|降りる|おりる|oriru|to descend,to go down,to come down|
+00|止まる|とまる|tomaru|to stop,to come to a stop|
+00|一緒|いっしょ|isshyo|together|
+00|先週|せんしゅう|senshyuu|last week,the week before|
+00|白い|しろい|shiroi|white|
+00|少ない|すくない|sukunai|few,a little,scarce,insufficient,seldom|
+00|二|に|ni|two,2|
+00|赤い|あかい|akai|red,crimson,scarlet,vermilion|
+00|洗う|あらう|arau|to wash,to cleanse,to rinse|
+00|嫌い|きらい|kirai|disliked,hated,disagreeable|
+00|立派|りっぱ|rippa|splendid,fine,handsome,elegant,imposing,prominent,impressive|
+00|暇|ひま|hima|spare time,free time,leisure|
+00|お茶|おちゃ|ochya|tea|
+00|広い|ひろい|hiroi|spacious,vast,wide|
+00|去年|きょねん|kyonen|last year|
+00|大好き|だいすき|daisuki|liking very much,loving,adoring,being very fond of|
+00|隣|となり|tonari|next to,adjoining,adjacent|
+00|女|おんな|onna|female,woman,female sex|
+00|多分|たぶん|tabun|perhaps,probably|
+00|切る|きる|kiru|to cut,to cut through,to perform surgery|
+00|嫌|いや|iya|disliking,not wanting,unwilling,reluctant|
+00|毎朝|まいあさ|maiasa|every morning|
+00|荷物|にもつ|nimotsu|luggage,baggage,package|
+00|番号|ばんごう|bangou|number,series of digits|
+00|返す|かえす|kaesu|to return something,to restore,to put back|
+00|来年|らいねん|rainen|next year|
+00|明るい|あかるい|akarui|light,well-lit,well-lighted|
+00|近い|ちかい|chikai|near,close,short distance|
+00|向こう|むこう|mukou|opposite side,other side,opposite direction|
+00|始め|はじめ|hajime|beginning,start,outset,opening|
+00|痛い|いたい|itai|painful,sore|
+00|休み|やすみ|yasumi|rest,recess,respite|
+00|練習|れんしゅう|renshyuu|practice,training,drill,exercise,workout|
+00|十|じゅう|jyuu|ten,10|
+00|先月|せんげつ|sengetsu|last month|
+00|上着|うわぎ|uwagi|coat,jacket,outerwear|
+00|結構|けっこう|kekkou|splendid,nice,wonderful,delightful,lovely,excellent,fine|
+00|兄弟|きょうだい|kyoudai|siblings,brothers and sisters|
+00|毎年|まいとし|maitoshi|every year,yearly,annually|
+00|来月|らいげつ|raigetsu|next month|
+00|五|ご|go|five,5|
+00|飲み物|のみもの|nomimono|drink,beverage|
+00|弱い|よわい|yowai|weak,frail,delicate,tender,unskilled|
+00|牛乳|ぎゅうにゅう|gyuunyuu|milk|
+00|三|さん|san|three,3|
+00|大丈夫|だいじょうぶ|daijyoubu|safe,secure,sound,problem-free,without fear,all right,alright,OK,okay|
+00|黒い|くろい|kuroi|black|
+00|皆さん|みなさん|minasan|all,everyone,everybody|
+00|半分|はんぶん|hanbun|half|
+00|押す|おす|osu|to push,to press|
+00|勤める|つとめる|tsutomeru|to work,to be employed,to serve|
+00|熱い|あつい|atsui|hot to the touch|
+00|三つ|みっつ|mittsu|three|
+00|果物|くだもの|kudamono|fruit|
+00|今週|こんしゅう|konshyuu|this week|
+00|右|みぎ|migi|right,right-hand side|
+00|甘い|あまい|amai|sweet-tasting,sweet,sugary,sugared|
+00|晩|ばん|ban|evening,night|
+00|階段|かいだん|kaidan|stairs,stairway,staircase|
+00|大勢|おおぜい|oozei|crowd of people,great number of people|
+00|幾つ|いくつ|ikutsu|how many|
+00|張る|はる|haru|to stick,to paste,to affix|
+00|夕方|ゆうがた|yuugata|evening,dusk|
+00|低い|ひくい|hikui|low|
+00|左|ひだり|hidari|left,left hand side|
+00|毎週|まいしゅう|maishyuu|every week|
+00|下手|へた|heta|unskillful,poor,awkward|
+00|千|せん|sen|thousand,1,000|
+00|渡す|わたす|watasu|to ferry across,to carry across,to traverse|
+00|午前|ごぜん|gozen|morning,a.m.|
+00|便利|べんり|benri|convenient,handy,useful|
+00|丸い|まるい|marui|round,circular,spherical|
+00|今月|こんげつ|kongetsu|this month|
+00|浴びる|あびる|abiru|to dash over oneself,to take,to bask in,to bathe in,to be flooded with,to be covered in,shower|
+00|半|はん|han|half,semi|
+00|洋服|ようふく|youfuku|Western-style clothes|
+00|撮る|とる|toru|to take a picture|
+00|締める|しめる|shimeru|to tie,to fasten,to tighten|
+00|文章|ぶんしょう|bunshyou|writing,composition,essay,article,passage,prose|
+00|八|はち|hachi|eight,8|
+00|薄い|うすい|usui|thin|
+00|横|よこ|yoko|horizontal,lying down|
+00|六|ろく|roku|six,6|
+00|四つ|よっつ|yottsu|four,4|
+00|丈夫|じょうぶ|jyoubu|healthy,robust,strong,solid,durable|
+00|毎晩|まいばん|maiban|every night|
+00|東|ひがし|higashi|east|
+00|五つ|いつつ|itsutsu|five|
+00|晴れ|はれ|hare|clear weather,fine weather|
+00|細い|ほそい|hosoi|thin,slender,fine|
+00|廊下|ろうか|rouka|corridor,hallway,passageway|
+00|太い|ふとい|futoi|fat,thick|
+00|縦|たて|tate|the vertical,height|
+00|九つ|ここのつ|kokonotsu|nine|
+00|留学生|りゅうがくせい|ryuugakusei|overseas student,exchange student|
+00|七つ|ななつ|nanatsu|seven|
+00|一昨年|おととし|ototoshi|year before last|
+00|人|ひと|hito|person,someone,somebody|
+00|居る|いる|iru|to be,to exist|
+00|其れ|それ|sore|that,it|
+00|物|もの|mono|thing,object,article,stuff,substance|
+00|家|いえ|ie|house,residence,dwelling|
+00|本|ほん|hon|book,volume,script|
+00|迚も|とても|totemo|very,awfully,exceedingly|
+00|会う|あう|au|to meet,to encounter,to see|
+00|好き|すき|suki|liking,being fond of,to one's liking,to one's taste,preferred,favourite|
+00|分かる|わかる|wakaru|to understand,to comprehend,to grasp,to see,to get,to follow|
+00|此れ|これ|kore|this,this one|
+00|聞く|きく|kiku|to hear|
+00|所|ところ|tokoro|place,spot,scene,site|
+00|先|さき|saki|point,tip,end,nozzle|
+00|何時も|いつも|itsumo|always,all the time,at all times|
+00|書く|かく|kaku|to write,to compose,to pen|
+00|沢山|たくさん|takusan|a lot,lots,plenty,many,a large number,much,a great deal,a good deal|
+00|入る|はいる|hairu|to enter,to come in,to go in,to get in,to arrive|
+00|置く|おく|oku|to put,to place|
+00|何処|どこ|doko|where,what place|
+00|住む|すむ|sumu|to live,to reside,to inhabit,to dwell,to abide|
+00|食べる|たべる|taberu|to eat|
+00|歩く|あるく|aruku|to walk|
+00|働く|はたらく|hataraku|to work,to labor,to labour|
+00|着く|つく|tsuku|to arrive at,to reach|
+00|上|うえ|ue|above,over,up|
+00|悪い|わるい|warui|bad,poor,undesirable|
+00|教える|おしえる|oshieru|to teach,to instruct|
+00|降る|ふる|furu|to fall,to come down|
+00|死ぬ|しぬ|shinu|to die,to pass away|
+00|帰る|かえる|kaeru|to return,to come home,to go home,to go back|
+00|忘れる|わすれる|wasureru|to forget,to leave carelessly,to be forgetful of,to forget about,to forget|
+00|多い|おおい|ooi|many,numerous,a lot|
+00|出かける|でかける|dekakeru|to go out,to leave,to depart,to start,to set out|
+00|若い|わかい|wakai|young,youthful|
+00|掛かる|かかる|kakaru|to take|
+00|同じ|おなじ|onaji|same,identical,equal,uniform,equivalent,similar,common,changeless,alike|
+00|起きる|おきる|okiru|to get up,to rise,to blaze up|
+00|座る|すわる|suwaru|to sit,to squat|
+00|店|みせ|mise|store,shop,establishment,restaurant|
+00|入れる|いれる|ireru|to put in,to let in,to take in,to bring in,to insert,to instal,to ink in|
+00|何方|どなた|donata|who|
+00|一寸|ちょっと|chyotto|a little,a bit,slightly|
+00|疲れる|つかれる|tsukareru|to get tired,to tire,to get fatigued,to become exhausted,to grow weary|
+00|開ける|あける|akeru|to open,to unwrap,to unlock|
+00|何故|なぜ|naze|why,how|
+00|一日|いちにち|ichinichi|one day|
+00|寒い|さむい|samui|cold weather|
+00|見せる|みせる|miseru|to show,to display|
+00|違う|ちがう|chigau|to differ,to be different,to be distinct,to be unlike,to vary,to disagree|
+00|如何して|どうして|doushite|how,in what way,by what means|
+00|付ける|つける|tsukeru|to attach,to join,to connect,to add,to append,to affix,to stick,to glue,to fasten,to sew on,to apply,to put against|
+00|覚える|おぼえる|oboeru|to memorize,to memorise,to commit to memory,to learn by heart,to bear in mind,to remember|
+00|近く|ちかく|chikaku|near,neighbourhood,neighborhood,vicinity|
+00|風|かぜ|kaze|wind,breeze,draught,draft|
+00|困る|こまる|komaru|to be troubled,to have difficulty,to be in a fix,to be at a loss,to be stumped,to be embarrassed|
+00|生まれる|うまれる|umareru|to be born|
+00|初めて|はじめて|hajimete|for the first time|
+00|始まる|はじまる|hajimaru|to begin,to start,to commence|
+00|貸す|かす|kasu|to lend,to loan|
+00|綺麗|きれい|kirei|pretty,lovely,beautiful,fair|
+00|幾ら|いくら|ikura|how much|
+00|空|そら|sora|sky,the air,the heavens|
+00|弾く|ひく|hiku|to play an instrument|
+00|暑い|あつい|atsui|hot,warm,sultry,heated|
+00|遊ぶ|あそぶ|asobu|to play games,to enjoy oneself,to have a good time|
+00|然し|しかし|shikashi|however,but|
+00|無くす|なくす|nakusu|to lose something|
+00|色々|いろいろ|iroiro|various,all sorts of,variety of|
+00|渡る|わたる|wataru|to cross over,to go across|
+00|暗い|くらい|kurai|dark,gloomy,murky|
+00|此方|こちら|kochira|this way,this direction|
+00|重い|おもい|omoi|heavy,weighty|
+00|今晩|こんばん|konban|tonight,this evening|
+00|美味しい|おいしい|oishii|good,nice,delicious,tasty|
+00|消す|けす|kesu|to erase,to rub out,to rub off,to cross out,to delete|
+00|易しい|やさしい|yasashii|easy,plain,simple|
+00|閉める|しめる|shimeru|to close,to shut|
+00|安い|やすい|yasui|cheap,inexpensive|
+00|遠い|とおい|tooi|far,distant,far away,a long way off,in the distance|
+00|短い|みじかい|mijikai|short|
+00|消える|きえる|kieru|to disappear,to vanish,to go out of sight,to go away,to become lost|
+00|晴れる|はれる|hareru|to clear up,to clear away,to be sunny,to stop raining|
+00|曲がる|まがる|magaru|to bend,to curve,to warp,to wind,to twist|
+00|冷たい|つめたい|tsumetai|cold,chilly,icy,freezing|
+00|青い|あおい|aoi|blue,azure|
+00|吹く|ふく|fuku|to blow|
+00|一|いち|ichi|one,1|
+00|涼しい|おばあさんすずしい|obaasansuzushii|cool,refreshing|
+00|其方|そちら|sochira|that way,that direction|
+00|厚い|あつい|atsui|thick,deep,heavy|
+00|お兄さん|おにいさん|oniisan|older brother,elder brother|
+00|お姉さん|おねえさん|oneesan|older sister,elder sister|
+00|並べる|ならべる|naraberu|to line up,to set up,to arrange in a line|
+00|危ない|あぶない|abunai|dangerous,risky,hazardous,perilous,precarious|
+00|汚い|きたない|kitanai|dirty,filthy,foul,unclean|
+00|お腹|おなか|onaka|belly,abdomen,stomach|
+00|不味い|まずい|mazui|bad,unpalatable,unsavoury,unsavory,awful,terrible,unpleasant|
+00|曇る|くもる|kumoru|to get cloudy,to cloud over,to become overcast|
+00|ご飯|ごはん|gohan|cooked rice|
+00|磨く|みがく|migaku|to polish,to shine,to burnish,to scour,to scrub,to brush teeth,to grind|
+00|お菓子|おかし|okashi|confections,sweets,candy,cake|
+00|黄色い|きいろい|kiiroi|yellow|
+00|賑やか|にぎやか|nigiyaka|bustling,busy,crowded,lively,prosperous,thriving|
+00|鳴く|なく|naku|to make sound,to call,to cry,to whine,to sing,to chirp|
+00|夕飯|ゆうはん|yuuhan|evening meal,dinner,supper|
+00|葉書|はがき|hagaki|postcard|
+00|Ｙシャツ|シツ|shitsu|formal shirt,dress shirt,business shirt,button-up shirt|
+00|朝ご飯|あさごはん|asagohan|breakfast|
+00|六つ|むっつ|muttsu|six|
+00|お手洗い|おてあらい|otearai|toilet,restroom,lavatory,bathroom|
+00|零|おまわりさんれい|omawarisanomawarisanrei|zero,nought|
+00|差す|さす|sasu|to shine|
+00|２０日|はつか|hatsuka|20th day of the month|
+00|八つ|やっつ|yattsu|eight|
+00|再来年|さらいねん|sarainen|year after next|
+00|良く|よく|yoku|nicely,properly,well,skillfully,skilfully|
+00|其処|そこ|soko|there|
+00|小さな|ちいさな|chiisana|small,little,tiny|
+00|答える|こたえる|kotaeru|to answer,to reply|
+00|もう一度|もういちど|mouichido|once more,again|
+00|要る|いる|iru|to need,to want|
+00|背|せ|se|back|
+00|お弁当|おべんとう|obentou|bento,Japanese box lunch|
+00|晩御飯|ばんごはん|bangohan|dinner,evening meal|
+00|昼ご飯|ひるごはん|hirugohan|lunch,midday meal|
+00|でも|でも|demo|but,however,though,nevertheless,still,yet,even so,also,as well|
+00|等|など|nado|et cetera,etc.,and the like,and so forth|
+00|クラス|クラス|kurasu|class|
+00|プール|プル|puru|swimming pool|
+00|中|なか|naka|inside,interior|
+00|テレビ|テレビ|terebi|television,TV|
+00|ホテル|ホテル|hoteru|hotel|
+00|ニュース|ニス|nisu|news|
+00|テーブル|テブル|teburu|table|
+00|カメラ|カメラ|kamera|camera|
+00|タクシー|タクシ|takushi|taxi|
+00|スポーツ|スポツ|supotsu|sport,sports|
+00|ラジオ|ラジオ|rajio|radio|
+00|ペン|ペン|pen|pen|
+00|レストラン|レストラン|resutoun|restaurant|
+00|テスト|テスト|tesuto|examination,quiz,test|
+00|ベッド|ベド|bedo|bed|
+00|パン|パン|pan|bread,pastry|
+00|ナイフ|ナイフ|naifu|knife|
+00|シャツ|シツ|shitsu|undershirt,singlet|
+00|ネクタイ|ネクタイ|nekutai|tie,necktie|
+00|ギター|ギタ|gita|guitar|
+00|セーター|セタ|seta|sweater,jumper|
+00|アパート|アパト|apato|apartment building,apartment block,apartment house|
+00|ポケット|ポケト|poketo|pocket|
+00|バター|バタ|bata|butter|
+00|キロ|キロ|kiro|kilo-,1000|
+00|スカート|スカト|sukato|skirt|
+00|レコード|レコド|rekodo|music record|
+00|洋袴|エレベタズボン|erepetazupon|trousers,pants|
+00|ポスト|ポスト|posuto|postbox,mailbox,mail box,pillar box|
+00|コピー|コピ|kopi|copy,photocopy|
+00|シャワー|シワ|shiwa|shower|
+00|ハンカチ|ハンカチ|hankachi|handkerchief|
+00|一昨日|おととい|ototoi|day before yesterday|
+00|ストーブ|ストブ|sutobu|heater,stove|
+00|テープ|テプ|tepi|tape|
+00|カップ|カプ|kapi|cup|
+00|スプーン|スプーン|supun|spoon|
+00|スリッパ|スリパ|suripa|slipper,slippers|
+00|醤油|しょうゆ|shyouyu|soy sauce,shoyu|
+00|はい|はい|hai|understood,I see,OK,okay|
+00|ペット|ペト|peto|pet|
+00|為る|する|suru|to do,to carry out,to perform|
+00|彼|あれ|are|that,that thing|
+00|１日|ついたち|tsuitachi|1st day of the month|
+00|３日|みっか|mikka|3rd day of the month|
+00|５日|いつか|itsuka|5th day of the month|
+00|２日|ふつか|futsuka|2nd day of the month|
+00|１０日|とおか|tooka|10th day of the month|
+00|６日|むいか|muika|6th day of the month|
+00|８日|ようか|youka|8th day of the month|
+00|９日|ここのか|kokonoka|9th day of the month|
+00|来る|くる|kuru|to come,to approach,to arrive|
+00|後|あと|ato|behind,rear|
+00|会社|かいしゃ|kaishya|company,corporation|
+00|一人|ひとり|hitori|one person|
+00|二人|ふたり|futari|two persons,two people,pair,couple|
+00|側|そば|soba|near,close,beside,vicinity,proximity,besides,while|
+00|いいえ|いいえ|iie|you're welcome,not at all,don't mention it|
+00|辛い|からい|karai|spicy,hot|
+00|門|もん|mon|gate|
+00|角|かど|kado|corner,edge|
+00|毎月|まいつき|maitsuki|every month,each month,monthly|
+00|七|しち|shichi|seven|
+00|伯母さん|おばさん|obasan|aunt|
+00|お風呂|おふろ|ofuro|bath|
+00|四|し|shi|four,4|
+00|お酒|おさけ|osake|alcohol,sake|
+00|入口|いりぐち|iriguchi|entrance,entry,gate,approach,mouth|
+00|出口|でぐち|deguchi|exit,gateway,way out|
+00|お皿|おさら|osara|plate,dish|
+00|此処|ここ|koko|here,this place|
+00|前|まえ|mae|in front,before|
+00|もう|もう|mou|already,yet,by now,now|
+00|如何|どう|dou|how,in what way,how about|
+00|方|かた|kata|direction,way|
+00|未だ|まだ|mada|still,as yet,only|
+00|もっと|もと|moto|more,even more,longer,further|
+00|何時|いつ|itsu|when,at what time,how soon|
+00|他|パテほか|patehoka|another place,some other place,somewhere else,outside|
+00|次|つぎ|tsugi|next,following,subsequent|
+00|ドア|ドア|doa|door|
+00|何方|どちら|dochira|which way,which direction,where|
+00|誰か|だれか|dareka|someone,somebody|
+00|開く|あく|aku|to open|
+00|どうぞ|どうぞ|douzo|please,kindly,pray,I beg of you|
+00|こんな|こんな|konna|this sort of,this kind of,like this,such|
+00|下|した|shita|below,down,under,younger|
+00|而して|そして|soshite|and,and then,thus,and now,and finally|
+00|ゆっくり|ゆくり|yukuri|slowly,unhurriedly,without haste,leisurely,at one's leisure|
+00|さあ|さあ|saa|all right,right,okay,now,here goes|
+00|じゃあ|じあ|doumojia|then,well,so,well then|
+00|其れから|それから|sorekari|and then,after that|
+00|ええ|ええ|ee|um,errr|
+00|ノート|ノト|noto|notebook,copy-book,exercise book|
+00|デパート|デパト|depato|department store|
+00|トイレ|トイレ|toire|toilet,restroom,bathroom,lavatory|
+00|それでは|それでは|soredeha|well, ...,right, ...,now, ...|
+00|明後日|あさって|asatte|day after tomorrow|
+00|何れ|どれ|dore|which|
+00|２０歳|はたち|hatachi|20 years old|
+00|彼方|あちら|achira|that way,that direction,over there,yonder|
+00|では|では|deha|then,well,so,well then|
+00|フィルム|フルム|furumu|film|
+00|４日|よっか|yokka|4th day of the month|
+00|温い|カレンダぬるい|karendanurui|lukewarm,tepid|
+00|７日|なのか|nanoka|7th day of the month|
+00|然うして|そうして|soushite|and,like that|
+00|瓦|グラム|guramu|gram,gramme|
+00|直ぐに|すぐに|suguni|immediately,right away,at once,instantly|
+00|一月|ひとつき|hitotsuki|one month|
+00|秋|あのあき|anoaki|autumn,fall|
+00|字引|じびき|jibiki|dictionary|
+00|バス|バス|basu|bus|
+00|三|サン|san|three|
+00|コート|コト|koto|coat|

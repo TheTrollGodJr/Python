@@ -1,10 +1,14 @@
 from PIL import Image
 import os
+import datetime
 
-files = os.listdir("E:/Photos/Picture Time")
-count = 1
+files = os.listdir("D:/Pictures/other")
+count = 941
 
-date = [2020, 7, 10]
+#date = [2020, 7, 10] #The date to start at -- year, month, day
+date = [2023, 7, 21]
+currentDate = str(datetime.datetime.now()).split(" ")[0]
+currentDate = [int(currentDate.split("-")[0]), int(currentDate.split("-")[1]), int(currentDate.split("-")[2])]
 
 def dateChange(dateInput):
     global date
@@ -53,15 +57,16 @@ def dateToString(dateInput):
 while True:
     for items in files:
         if dateToString(date) in items:
-            img = Image.open(f"E:/Photos/Picture Time/{items}")
+            #img = Image.open(f"E:/Photos/Picture Time/{items}")
+            img = Image.open(f"D:/Pictures/other/{items}")
             if not "IMG" in items:
                 if str(img.size[1]) == "1592":
                     img = img.rotate(90, expand=True)
                 else:
                     img = img.rotate(-90, expand=True)
-            img.save(f"C:/Users/thetr/Documents/Python/PictureTime/Pictures/{count}.png")
+            img.save(f"D:/Pictures/Pictures/{count}.png")
             count += 1
             break
     dateChange(date)
-    if (date[0] == 2023) and (date[1] == 7) and (date[2] == 21):
+    if (date[0] == currentDate[0]) and (date[1] == currentDate[1]) and (date[2] == currentDate[2]):
         break

@@ -1,14 +1,57 @@
 import random
 from colorama import init
 from termcolor import colored, cprint
+import time
 
 #vars
 cmdX = 236
 cmdY = 57
 
 #world actions
-def generateNewGenome( ):
+def generateNewGenome(minConnectPerIn, maxConnectPerIn):
+    if maxConnectPerIn > 5:
+        print("Error:\nToo many genome Connections")
+        exit(1)
+    inputs = ["f", "p", "w", "n"]
+    outputs = ["u", "d", "l", "r", "e"]
+    genome = []
+    for items in inputs:
+        genomeSection = ""
+        connections = random.randint(minConnectPerIn, maxConnectPerIn)
+        for i in range(connections):
+            out = random.choice(outputs)
+            while out in genomeSection:
+                out = random.choice(outputs)
+            genomeSection = f"{genomeSection}{out}"
+        genomeSection = "".join(genomeSection)
+        genome.append([f"{items}", genomeSection])
+    print(genome)
+    return genome
+
+def makeGenomeList(playerAmount, newGenome):
+    if newGenome:
+        genomeList = []
+        for i in range(playerAmount):
+            genomeList.append(generateNewGenome(0,5))
+        return genomeList
+    else:
+        return []
+
+def runCommands(string):
     pass
+
+def update(genomeList, foodList, playerList):
+    playerListCount = 0
+    for genomes in genomeList:
+        for genomeParts in genomes:
+            if genomeParts[0][0] == "f":
+                if foodNear(playerList, foodList):
+                    runCommands(genomeParts[0][1])
+            if genomeParts[1][0] == "p":
+                if playerNear(playerList[playerListCount], playerList):
+                    runCommands(genomeParts[1][1])
+        playerListCount += 1
+
 
 def distributeFood(amount):
     foodList = []
@@ -50,14 +93,16 @@ def distributePlayers(amount, foodList):
             if addArray:
                 break
         
+        playerArray.append(0)
         playerList.append(playerArray)
     
     return playerList
 
-def generateWorld(foodAmount, playerAmount):
+def generateWorld(foodAmount, playerAmount, newGenomes):
     foodList = distributeFood(foodAmount)    
     playerList = distributePlayers(playerAmount, foodList)
-    return foodList, playerList
+    genomeList = makeGenomeList(playerAmount, newGenomes)
+    return foodList, playerList, genomeList
 
 def showWorld(food, players):#, player, walls):
     foodFound = False
@@ -81,6 +126,7 @@ def showWorld(food, players):#, player, walls):
                 string = string + " "
                 
         print(string)
+    time.sleep(1)
 
 def getFood(player, food):
     sideCoords = [[player[0] -1, player[1]], [player[0] + 1, player[1]], [player[0], player[1] - 1], [player[0], player[1] + 1]]
@@ -101,6 +147,7 @@ def getPlayers(player, playerList):
                     foundItems.append(coords)
     return foundItems
 
+#test if there is a player where the current player is trying to move
 def playerAt(player, playerList, dir):
     if dir == "r":
         player = [player[0] + 1, player[1]]
@@ -147,7 +194,7 @@ def playerNear(player, playerList):
 def wallNear():
     pass
 
-def nothing(player, food, playerList):
+def noOptions(player, food, playerList):
     if foodNear(player, food) == False:
         if playerNear(player, playerList) == False:
             return True
