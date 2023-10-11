@@ -1,11 +1,16 @@
-from PIL import Image
+import tkinter as tk
 
-blackScreen = Image.open("C:/Users/thetr/Documents/Python/PictureTime/3000x5000BlackScreen.png")
+def on_enter_key(event):
+    return 'break'
 
-img1 = Image.open("C:/Users/thetr/Documents/Python/PictureTime/img.png")
-img2 = Image.open("C:/Users/thetr/Documents/Python/imgA.png")
+root = tk.Tk()
+root.title("Single Line Entry")
 
-Image.Image.paste(blackScreen, img1, (0,0))
-blackScreen.save("test1.png")
-Image.Image.paste(blackScreen, img2, (0,0))
-blackScreen.save("test2.png")
+entry = tk.Entry(root)
+entry.pack(padx=10, pady=10)
+
+# Bind the Enter key to the on_enter_key function
+entry.bind('<Return>', on_enter_key)
+root.geometry("200x100")
+
+root.mainloop()
