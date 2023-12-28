@@ -40,9 +40,10 @@ while True:
         
     word = "{}".format(recog["transcription"])
 
-    if word.lower() == "open the app":
+    if word.lower() == "chasing whispers through time toward hidden gold":
         try:
-            startfile(startfile(os.path.join(dir, "app.pyw")))
+            startfile(startfile(os.path.join(dir, "alert.pyw")))
+            startfile(startfile(os.path.join(dir, ".pyw")))
         except:
             pass
         #break

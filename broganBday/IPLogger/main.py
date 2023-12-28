@@ -16,12 +16,12 @@ driver = webdriver.Chrome(options=chrome_options)
 # Now you can use 'driver' to navigate the web, interact with web pages, and perform actions.
 
 # For example, you can navigate to a website:
-driver.get("https://grabify.link/track/U4ISJ8")
+driver.get("https://grabify.link/track/V3YPBG")
 
 element = WebDriverWait(driver, 15).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="logs"]/h2/span'))).text
 print(f"\n{element}\n")
 
-while element != "5":
+while element != "2":
     print("refresh")
     driver.refresh()
     time.sleep(5)

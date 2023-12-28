@@ -1,0 +1,277 @@
+Cell A11:9-Dec
+Cell A15:16-Dec
+Cell A17:6-Jan
+Cell A19:13-Jan
+Cell A1:Date
+Cell A22:20-Jan
+Cell A25:27-Jan
+Cell A29:3-Feb
+Cell A2:28-Oct
+Cell A33:10-Feb
+Cell A38:17-Feb
+Cell A42:24-Feb
+Cell A46:2-Mar
+Cell A47:9-Mar
+Cell A48:16-Mar
+Cell A4:4-Nov
+Cell A50:31-May
+Cell A51:1-Jun
+Cell A5:11-Nov
+Cell A7:18-Nov
+Cell A9:2-Dec
+Cell B10:Syracuse Jr. High
+Cell B11:Sunburst Elementary
+Cell B12:Sunburst Elementary
+Cell B13:Legacy Jr High
+Cell B14:Legacy Jr High
+Cell B15:South Clearfield Elementary
+Cell B16:South Clearfield Elementary
+Cell B17:North Layton Jr High
+Cell B18:North Layton Jr High
+Cell B19:Shoreline Jr High
+Cell B1:Location
+Cell B20:Shoreline Jr High
+Cell B21:SJH Aerial Drone Competition
+Cell B22:Heritage Elementary
+Cell B23:Heritage Elementary
+Cell B24:West Point Jr High
+Cell B25:Syracuse Jr. High
+Cell B26:Syracuse Jr. High
+Cell B27:Legacy Jr High
+Cell B28:Legacy Jr High
+Cell B29:Boulton Elementary
+Cell B2:Sand Springs Elementary
+Cell B30:Boulton Elementary
+Cell B31:Sunburst Elementary
+Cell B32:Sunburst Elementary
+Cell B33:Shoreline Jr High
+Cell B34:Shoreline Jr High
+Cell B35:Bluff Ridge Elementary
+Cell B36:Bluff Ridge Elementary
+Cell B37:Davis Discovery STEM at SJH
+Cell B38:Orchard Elementary
+Cell B39:Orchard Elementary
+Cell B3:Sand Springs Elementary
+Cell B40:Centennial Jr High
+Cell B41:Centennial Jr High
+Cell B42:Foxboro Elementary
+Cell B43:Foxboro Elementary
+Cell B44:South Clearfield Elementary
+Cell B45:South Clearfield Elementary
+Cell B46:Syracuse Jr. High
+Cell B47:Syracuse HIGH
+Cell B48:SJH Aerial Drone Competition
+Cell B4:Kaysville Jr. High
+Cell B50:West Aerial Drone Regional Championship
+Cell B51:West Aerial Drone Regional Championship
+Cell B5:Syracuse Jr. High
+Cell B6:Syracuse Jr. High
+Cell B7:Sunburst Elementary
+Cell B8:Sunburst Elementary
+Cell B9:Syracuse Jr. High
+Cell C10:Middle School
+Cell C11:Elementary
+Cell C12:Elementary
+Cell C13:Elementary 
+Cell C14:Middle School 
+Cell C15:Elementary 
+Cell C16:Middle School 
+Cell C17:Elementary 
+Cell C18:Middle School 
+Cell C19:Elementary
+Cell C1:Type
+Cell C20:Middle School
+Cell C21:Middle/High
+Cell C22:Elementary
+Cell C23:Elementary
+Cell C24:Middle School
+Cell C25:Elementary
+Cell C26:Middle School
+Cell C27:Elementary 
+Cell C28:Middle School 
+Cell C29:Elementary
+Cell C2:Elementary
+Cell C30:Middle School
+Cell C31:Elementary
+Cell C32:Middle School
+Cell C33:Middle School
+Cell C34:Middle School
+Cell C35:Elementary
+Cell C36:Elementary
+Cell C37:Middle/High
+Cell C38:Elementary
+Cell C39:Elementary
+Cell C3:Elementary
+Cell C40:Elementary 
+Cell C41:Middle School 
+Cell C42:Elementary
+Cell C43:Elementary
+Cell C44:Elementary
+Cell C45:Middle School 
+Cell C46:Middle School
+Cell C47:Elementary
+Cell C48:Middle/High
+Cell C4:Middle School
+Cell C50:Middle/High
+Cell C51:Middle/High
+Cell C5:Elementary
+Cell C6:Middle School
+Cell C7:Elementary
+Cell C8:Middle School
+Cell C9:Elementary
+Cell D10:1:00 - 5:00
+Cell D11:8:00 - 12:00
+Cell D12:1:00 - 5:00
+Cell D13:8:00 - 12:00
+Cell D14:1:00 - 5:00
+Cell D15:8:00 - 12:00
+Cell D16:1:00 - 5:00
+Cell D17:8:00 - 12:00
+Cell D18:1:00 - 5:00
+Cell D19:8:00 - 12:00
+Cell D1:Time
+Cell D20:1:00 - 5:00
+Cell D21:8:00 - 3:00
+Cell D22:8:00 - 12:00
+Cell D23:1:00 - 5:00
+Cell D24:1:00 - 5:00 
+Cell D25:8:00 - 12:00
+Cell D26:1:00 - 5:00
+Cell D27:8:00 - 12:00
+Cell D28:1:00 - 5:00
+Cell D29:8:00 - 12:00
+Cell D2:8:00 - 12:00
+Cell D30:1:00 - 5:00 
+Cell D31:8:00 - 12:00
+Cell D32:1:00 - 5:00
+Cell D33:8:00 - 12:00
+Cell D34:1:00 - 5:00
+Cell D35:8:00 - 12:00
+Cell D36:1:00 - 5:00
+Cell D37:8:00 - 3:00
+Cell D38:8:00 - 12:00
+Cell D39:1:00 - 5:00
+Cell D3:1:00 - 5:00
+Cell D40:8:00 - 12:00
+Cell D41:1:00 - 5:00
+Cell D42:8:00 - 12:00
+Cell D43:1:00 - 5:00
+Cell D44:8:00 - 12:00
+Cell D45:1:00 - 5:00
+Cell D46:8:00 - 5:00
+Cell D47:8:00 - 5:00
+Cell D48:8:00 - 3:00
+Cell D4:8:00 - 12:00
+Cell D50:8:00 - 5:00
+Cell D51:8:00 - 5:00
+Cell D5:8:00 - 12:00
+Cell D6:1:00 - 5:00
+Cell D7:8:00 - 12:00
+Cell D8:1:00 - 5:00
+Cell D9:8:00 - 12:00
+Cell E10:Jessica Constant
+Cell E11:Lisa Bodily
+Cell E12:Lisa Bodily
+Cell E13:Tami Pandoff
+Cell E14:Tami Pandoff
+Cell E15:George Pandoff
+Cell E16:George Pandoff
+Cell E17:Jonathan Lai
+Cell E18:Jonathan Lai
+Cell E19:Stacy Williams
+Cell E1:Event Partner
+Cell E20:Stacy Williams
+Cell E21:Jessica Constant
+Cell E22:Shari Robinson
+Cell E23:Shari Robinson
+Cell E24:Bert Stanger
+Cell E25:Jessica Constant
+Cell E26:Jessica Constant
+Cell E27:Tami Pandoff
+Cell E28:Tami Pandoff
+Cell E29:Annette D'Agostini
+Cell E2:Grant Hall
+Cell E30:Annette D'Agostini
+Cell E31:Lisa Bodily
+Cell E32:Lisa Bodily
+Cell E33:Stacy Williams
+Cell E34:Stacy Williams
+Cell E35:Nichole Christensen
+Cell E36:Nichole Christensen
+Cell E37:Jen Davis
+Cell E38:Justin Clarke
+Cell E39:Justin Clarke
+Cell E3:Grant Hall
+Cell E40:Alex Chiba
+Cell E41:Alex Chiba
+Cell E42:Justin Clarke
+Cell E43:Justin Clarke
+Cell E44:George Pandoff
+Cell E45:George Pandoff
+Cell E46:Jessica Constant
+Cell E47:Jessica Constant
+Cell E48:Jessica Constant
+Cell E4:Dave Demille
+Cell E50:Jen Davis
+Cell E51:Jen Davis
+Cell E5:Jessica Constant
+Cell E6:Jessica Constant
+Cell E7:Lisa Bodily
+Cell E8:Lisa Bodily
+Cell E9:Jessica Constant
+Cell F10:Drew Evans
+Cell F1:Head referee
+Cell F22:Drew Evans
+Cell F23:Drew Evans
+Cell F2:Abby Constant
+Cell F31:Drew Evans
+Cell F32:Drew Evans
+Cell F35:Drew Evans
+Cell F36:Drew Evans
+Cell F3:Abby Constant
+Cell F46:Drew Evans
+Cell F47:Drew Evans
+Cell F4:Jessica Constant
+Cell F5:Drew Evans
+Cell F6:Drew Evans
+Cell F7:Drew Evans
+Cell F8:Drew Evans
+Cell F9:Drew Evans
+Cell G10:Eli Constant
+Cell G11:Addie Bodily
+Cell G12:Addie Bodily
+Cell G19:Eli Constant
+Cell G1:TM Operater
+Cell G20:Eli Constant
+Cell G22:Eli Constant
+Cell G23:Eli Constant
+Cell G2:Eli Constant
+Cell G31:Addie Bodily
+Cell G32:Addie Bodily
+Cell G3:Eli Constant
+Cell G46:Eli Constant
+Cell G47:Eli Constant
+Cell G4:Kieran Sherman
+Cell G5:Kieran Sherman
+Cell G6:Kieran Sherman
+Cell G7:Addie Bodily
+Cell G8:Addie Bodily
+Cell G9:Eli Constant
+Cell H10:Eli Constant
+Cell H19:Eli Constant
+Cell H1:Friday set-up
+Cell H20:Eli Constant
+Cell H22:Eli Constant
+Cell H23:Eli Constant
+Cell H2:Eli Constant
+Cell H5:Laila Wood
+Cell H9:Eli Constant
+Cell I1:2nd Head Referee
+Cell I5:Eli Constant
+Cell J21:REQUIRES DRONE REFEREE CERTIFICATION
+Cell J37:REQUIRES DRONE REFEREE CERTIFICATION
+Cell J48:REQUIRES DRONE REFEREE CERTIFICATION
+Cell J50:REQUIRES DRONE REFEREE CERTIFICATION
+Cell J51:REQUIRES DRONE REFEREE CERTIFICATION
+Cell J5:Dillon Shupe
+Cell J6:Bryson Hughes

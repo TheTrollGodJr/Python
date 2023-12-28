@@ -1,16 +1,28 @@
-import tkinter as tk
+import random
 
-def on_enter_key(event):
-    return 'break'
+nums = []
+for i in range(1, 100):
+    nums.append(i)
 
-root = tk.Tk()
-root.title("Single Line Entry")
+evens = []
+odds = []
 
-entry = tk.Entry(root)
-entry.pack(padx=10, pady=10)
+for items in nums:
+    if items % 2 == 0:
+        evens.append(str(items))
+    else:
+        odds.append(str(items))
 
-# Bind the Enter key to the on_enter_key function
-entry.bind('<Return>', on_enter_key)
-root.geometry("200x100")
+evenString = ""
+for i in range(5000):
+    evenString = f"{evenString} {random.choice(evens)}"
 
-root.mainloop()
+oddString = ""
+for i in range(5000):
+    oddString = f"{oddString} {random.choice(odds)}"
+
+with open("odds.txt", "w") as f:
+    f.write(oddString)
+
+with open("evens.txt", "w") as f:
+    f.write(evenString)
