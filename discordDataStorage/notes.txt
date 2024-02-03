@@ -1,0 +1,9 @@
+steps:
+1. convert files to text
+2. upload converted text to discord
+3. find specified file and retrieve all data -- mostly done
+4. compile all data back into the original file
+
+there should be a simple interface that allows you to select a file then start the conversion and upload.
+
+converting files to text:
