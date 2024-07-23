@@ -1,0 +1,61 @@
+checkBoard():
+to check horizontally get each row and go through each column until you find one of your pieces
+after getting one of your pieces set a count variable to 1
+if the next piece is the same color add 1 again; if it isn't set the variable to 0
+if the variable gets to 4 return the winner
+if the variable doesn't get to 4 go to the next line of return no winner if your at the end
+
+to check vertically, run board through another function that return a flipped version of the board
+the flipped version will that the vertical lines as rows
+from there run the same code as for horizontal
+- set the horizontal check code as its own function
+
+to check diagonally you need to do 2 checks
+1. check down to the right:
+start 
+
+
+AI:
+start with looking to see if the board is empty
+- if the board is empty choose a random spot; return
+
+create a weights dictionary for each column, set all keys to 0 to start
+- higher the number, higher the chances of doing that move
+
+create board with new computer piece in each column
+
+1. run function to check if someone won on the board
+2. check if new move is helpful, if it is add 1 for each other piece in a line it makes
+- if it is selecting a spot that would make a line of 3 add 2 points for the other 2 spots
+3. check if new move blocks opponent, if does add 2
+
+2.
+make a function like the horizontal check used in checkBoard() but it counts how many spots in a row the selected spot would get
+- if it gets four place a piece there
+for each spot besides the selected spot we would get in a row, add that much to the columns weight
+
+flip the board vertically using the vertical flip function used in checkBoard() then do the same thing
+
+for diagonal down right:
+have a value for a pointer; base for how far over in each column you are
+- it will start at 0 meaning starting on the first column
+for the next three rows it will get the piece on the next row and on the column value + 1, +2, etc. until it gets four in a row
+- for each piece that is the same number it will add 1 point to that columns weight.
+add 1 to the column value and repeat until it can't get the 4th piece
+- put it all in a try except so when it errors and can't get the last piece it resets the column value and goes to the next row
+that try excpet is going to be inside another try except: this one will error once you can't go any farther down; this will end this process
+
+for diagonal down left:
+repeat the process of diagonal down right but start the column value as -1 and incrament by -1
+
+
+
+
+for the check to see how many points to add to the column weights, use the newboard index to get
+what column is being changed.
+have another function that gets the y value of the highest piece in a specified column
+use that y value and input it into the functions to determind weights so it know what to look at
+keep the count reset when it hits a yellow or a blank
+add the red count to the columns weight when the column count reaches the column with the
+new piece IF the next pieces aren't also red.
+If the next pieces are also red add those points as well.

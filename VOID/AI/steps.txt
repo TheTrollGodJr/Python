@@ -1,0 +1,49 @@
+Wake Word Recognition:
+- this uses the same steps as command Recognition but is trained off only recognizing the wake word.
+- when the wake word is said, it should return True.
+- use a binary loss function for this.
+
+Command Recognition:
+1. data collection - easy
+2. Data processing - easy/medium
+3. choose model type (CNN, RNN, etc.) -- easy
+4. Loss function - hard
+5. Data Loading - unknown
+6. Training - medium
+7. Evaluation - unknown
+8. other
+
+Data Collection:
+- Im going to train the data of single words. this way, the ai will be able to pickup on keywords a lot better and hopefully still be able to understand sentences.
+- This approach is also a lot less computational and mentally complex. 
+- I will have brogan record ~1000 or more voice lines of him saying single words, but i'll have him do it on 3 devices of ~3000 audio files.
+- I might also have him say the single words several times.
+- Then I will have him record a large amount of sentences on the same three devices.
+- Those sentences will be split into audio files word by word so the ai can get what certain words sound like in context of a sentence instead of just said by itself.
+
+- try modifying audio data to change the pitch and change the speed for more training data.
+
+- Having audio files with different lengths may mess up the training. 
+- If it does end up messing it up, I will need to add things like padding and trimming to make sure all the audio is ~the same length.
+
+Pre-processing::
+1. convert to standard .wav format
+2. change sampling rate -- data size reduction, computational efficency, standardize all audio clips
+3. extract features from data -- convert audio to mel spectrograms to visualize data
+4. normalie audio -- consistent volume and stability
+5. padding -- make all files the same length, consistent size, math things
+6. labeling -- convert text transcriptions into a format that is suitable for training; typically uses character-level representation
+7. data splitting -- split into training and testing data
+
+Choosing Model type/architect:
+- Model types:
+    - Reccurent Nueral Network (RNN): sequential data processing -- probably what I need
+    - Long short-term memory Networks (LSTMs): Type of rnn that address the vanishing gradient problem -- dont know what that means
+    - Gate Recurrent Units (GRUs): Type of RNN similar to LSTMs but is computationally less intensive
+    - Convolutional Nueral Network (CNNs): effective for extracting hierarchical features from spectrograms or other image-like representation -- might also be what I want
+    - transformer models: used for sequence-to-sequence natural language processing -- dont think i need this; more of tts from what I know
+
+I would want a CNN; they are used for extracting things out of mel spectrograms, have parrelell processing. 
+RNNs are what is used by things like chatgpt when it looks at past inputs along with the new input.
+
+Data Loading:

@@ -1,0 +1,2 @@
+test/audio/path.wav|text here
+antoher/audio/path.wav|more text goes here

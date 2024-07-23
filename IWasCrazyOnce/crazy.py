@@ -37,8 +37,9 @@ while True:
     microphone = sr.Microphone()
     
     recog = recognize_speech_from_mic(recognizer, microphone)
-        
+         
     word = "{}".format(recog["transcription"])
+    print(word)
 
     if "crazy" in word.lower():
         break

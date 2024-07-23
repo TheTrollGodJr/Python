@@ -1,0 +1,59 @@
+import tkinter as tk
+import cv2
+from PIL import Image, ImageTK
+
+def close(event=None):
+	root.destroy()
+
+root = tk.Tk()
+
+root.configure(bg="black")
+root.overriderdirect(True)
+root.geometry("{0}x{1}+0+0".format(root.winfo_screenwidth(), root.winfo_screenheight()))
+
+video_path = "D:/Videos/shutdown.mp4"
+video_capture = cv2.VideoCapture(video_path)
+
+canvas = tk.Canvas(root, width=root.winfo_screenwidth(), height=winfo_screenheight(), bg="black")
+canvas.pack()
+
+def display_video():
+	ret, frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+	if ret:
+		frame = cv2.cvtColor(frame, cv2.COLORGBR2RGB)
+		img = ImageTK.PhotoImage(Image.fromarray(frame))
+		canvas.create_image(0, 0, anchor=tk.NW, image=img)
+		canvas.image = img
+	root.after(10, display_video)
+
+display_video()
+
+root.bind("<Escape>", close)
+
+root.mainloop()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

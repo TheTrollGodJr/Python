@@ -1,0 +1,15 @@
+changes:
+- rename a file when encrypting
+  - when encrypting a folder ask for the file name to change it so the user has to input which one to change
+- export decrypted files
+  - choose where to export
+- temp decryption
+  - delete file when program closes
+  - save any changes made to the file while it was decrypted
+    - check for changes to the file
+- display message if keys were incorrect when decrypting
+- when encrypting files, save the file type of the file being encrypted for later decryption
+  - encrypt this file too
+
+
+added:

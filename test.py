@@ -1,2 +1,2 @@
-e = 5.5
-print(int(e))
+e = "this is a test"
+print(e.encode("utf-8"))
